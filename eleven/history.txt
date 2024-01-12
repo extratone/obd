@@ -1,0 +1,1844 @@
+OBDeleven vehicle history log
+Date: 2024-01-11 17:42:35
+
+	VIN: 3VW5T7AUXHM022312
+	Car: DAVOD 
+	Year: 2017
+	Body type: D5 Hatchback
+	Engine: CXCA  kW ( hp) l
+	Mileage: 99541 mi
+
+---------------------------------------------------------------
+
+
+	Backup
+		09 Central Electrics
+		System description: BCM PQ37BOSCH
+		Software number: 5Q0937087AA
+		Software version: 0162
+		Hardware number: 5Q0937087AA
+		Hardware version: 028
+		Backup name: Central Electrics
+		Long coding
+			000008464041804969E44000001407201000000000000000000000000000
+		Adaptations
+			Driving light and parking light	
+				Kontrollleuchte fuer Begrenzungslicht
+					integriert in Suchbeleuchtung
+				Schlusslicht mit Bremslichtfunktion
+					not active
+				Standlicht aus
+					active
+				Parklicht ueber LSS aktiviert
+					not active
+				Standlichtreduzierung mit beidseitigem Parklicht
+					not active
+				Zahl der aktiven Scheinwerfer auf 2 limitieren
+					limitieren
+				Warnung Fahrt mit Standlicht
+					not active
+				Zeitwert Einschaltzeit Abbiegelicht
+					15 min
+				Lichthupe bei Zuendung aus moeglich
+					active
+				Lichtwarnungsverhalten
+					klemmenabhaengig
+				Menueeinstellung CHO LHO
+					Menuesteuerung Zeit aktivieren
+				Allwetterlicht Einschaltgrenze
+					350 km/h
+				Allwetterlicht Ausschaltgrenze
+					350 km/h
+				Nebelschlusslicht Warngeschwindigkeit
+					0 km/h
+			
+			
+		Mileage: 99541 mi
+		Date: 2024-01-11 17:42:01
+		
+	Backup
+		15 Airbag
+		System description: AirbagVW20
+		Software number: 5Q0959655J
+		Software version: 0830
+		Hardware number: 5Q0959655J
+		Hardware version: 010
+		Backup name: Airbag
+		Long coding
+			00000000005000001AC24800000065AAAAAA
+		Mileage: 99541 mi
+		Date: 2024-01-11 17:42:01
+		
+	Backup
+		17 Dashboard
+		System description: KOMBI
+		Software number: 5G1920856B
+		Software version: 8311
+		Hardware number: 5G1920856B
+		Hardware version: 344
+		Backup name: Dashboard
+		Long coding
+			0BBD0902A180CF0502086A001000000000000000
+		Mileage: 99541 mi
+		Date: 2024-01-11 17:42:02
+		
+	Backup
+		19 Gateway
+		System description: GW MQB Mid
+		Software number: 5Q0907530AL
+		Software version: 2265
+		Hardware number: 5Q0907530L
+		Hardware version: 211
+		Backup name: Gateway
+		Long coding
+			0101000830085900FB000028080F00000001050000000000000000000000
+		Adaptations
+			Installation list, specified installations	
+				Gateway
+					coded
+				Node 0x01
+					Not coded
+				Node 0x02
+					Not coded
+				Node 0x03
+					Not coded
+				Node 0x04
+					Not coded
+				Node 0x05
+					Not coded
+				Node 0x06
+					Not coded
+				Node 0x07
+					Not coded
+				Node 0x08
+					Not coded
+				Multifunction Module
+					Not coded
+				Parking Assistance
+					Not coded
+				Tire Pressure Monitoring 1
+					Not coded
+				Steering Column Electronics
+					coded
+				Node 0x0D
+					Not coded
+				Central Electrics
+					coded
+				All Wheel Control
+					Not coded
+				Node 0x11
+					Not coded
+				Steering Assistance
+					coded
+				Brakes 1
+					coded
+				Dash Board
+					coded
+				Airbag
+					coded
+				Node 0x16
+					Not coded
+				Node 0x17
+					Not coded
+				Radio
+					Not coded
+				Air Conditioning Compressor
+					Not coded
+				Node 0x1A
+					Not coded
+				Head Up Display
+					Not coded
+				Actuator For Structure-Borne Sound
+					coded
+				Node 0x1D
+					Not coded
+				Lock Electronics
+					Not coded
+				Node 0x1F
+					Not coded
+				Node 0x20
+					Not coded
+				Node 0x21
+					Not coded
+				Node 0x22
+					Not coded
+				Deck Lid Control Unit
+					Not coded
+				Node 0x24
+					Not coded
+				Node 0x25
+					Not coded
+				Node 0x26
+					Not coded
+				Node 0x27
+					Not coded
+				Node 0x28
+					Not coded
+				Node 0x29
+					Not coded
+				Node 0x2A
+					Not coded
+				Special Function 2
+					Not coded
+				Special Function
+					Not coded
+				Electronic Roof Control
+					Not coded
+				Node 0x2E
+					Not coded
+				Node 0x2F
+					Not coded
+				High Beam Assistance
+					Not coded
+				Steering Column Locking
+					Not coded
+				Access Startsystem Interface
+					Not coded
+				Sliding Door Rear Left
+					Not coded
+				Sliding Door Rear Right
+					Not coded
+				Node 0x35
+					Not coded
+				Node 0x36
+					Not coded
+				Node 0x37
+					Not coded
+				Node 0x38
+					Not coded
+				Node 0x39
+					Not coded
+				Node 0x3A
+					Not coded
+				Brake Boost
+					Not coded
+				Node 0x3C
+					Not coded
+				Node 0x3D
+					Not coded
+				Door Electronics Rear Driver Side
+					Not coded
+				Door Electronics Rear Passenger Side
+					Not coded
+				Node 0x40
+					Not coded
+				Node 0x41
+					Not coded
+				Thermal Management
+					Not coded
+				Node 0x43
+					Not coded
+				Battery Charger Control Module
+					Not coded
+				Node 0x45
+					Not coded
+				Air Conditioning
+					coded
+				Trailer Function
+					Not coded
+				Node 0x48
+					Not coded
+				Node 0x49
+					Not coded
+				Door Electronics Driver Side
+					coded
+				Door Electronics Passenger Side
+					coded
+				Seat Adjustment Driver Side
+					Not coded
+				Seat Adjustment Passenger Side
+					Not coded
+				Lane Change Assistant
+					Not coded
+				Front Sensors Driver Assistance System
+					Not coded
+				Vehicle Position Detection
+					Not coded
+				Node 0x51
+					Not coded
+				Node 0x52
+					Not coded
+				Node 0x53
+					Not coded
+				Headlight Regulation
+					Not coded
+				Node 0x55
+					Not coded
+				Node 0x56
+					Not coded
+				Adaptive Cruise Control
+					Not coded
+				Node 0x58
+					Not coded
+				Node 0x59
+					Not coded
+				Node 0x5A
+					Not coded
+				Node 0x5B
+					Not coded
+				Node 0x5C
+					Not coded
+				Node 0x5D
+					Not coded
+				Node 0x5E
+					Not coded
+				Node 0x5F
+					Not coded
+				Node 0x60
+					Not coded
+				Node 0x61
+					Not coded
+				Node 0x62
+					Not coded
+				Microphone Control Unit
+					Not coded
+				Actuator For Exterior Noise
+					Not coded
+				High Voltage Battery Charge Management
+					Not coded
+				Node 0x66
+					Not coded
+				Telematics Communication Unit
+					coded
+				Node 0x68
+					Not coded
+				Camera System Rear View
+					Not coded
+				Auxiliary Parking Heater
+					Not coded
+				Node 0x6B
+					Not coded
+				Node 0x6C
+					Not coded
+				TV Tuner
+					Not coded
+				Node 0x6E
+					Not coded
+				Sound System
+					Not coded
+				Media Player Position 1
+					Not coded
+				Tachograph
+					Not coded
+				Wheel Dampening Electronics
+					Not coded
+				Information Control Unit 1
+					coded
+				Node 0x74
+					Not coded
+				Node 0x75
+					Not coded
+				Engine Control Module 1
+					coded
+				Transmission Control Module
+					Not coded
+				Node 0x78
+					Not coded
+				Node 0x79
+					Not coded
+				Node 0x7A
+					Not coded
+				Battery Energy Control Module
+					Not coded
+				Drive Motor Control Module
+					Not coded
+				Node 0x7D
+					Not coded
+				Node 0x7E
+					Not coded
+				Node 0x7F
+					Not coded
+				Node 0x80
+					Not coded
+				Node 0x81
+					Not coded
+				Node 0x82
+					Not coded
+				Node 0x83
+					Not coded
+				Control Module For Sunroof
+					Not coded
+				Starter / Generator Control Module
+					Not coded
+				Node 0x86
+					Not coded
+				Node 0x87
+					Not coded
+				Node 0x88
+					Not coded
+				Node 0x89
+					Not coded
+				Control Unit Lane Change Assistant 2
+					Not coded
+				Node 0x8B
+					Not coded
+				Node 0x8C
+					Not coded
+				Node 0x8D
+					Not coded
+				Node 0x8E
+					Not coded
+				Node 0x8F
+					Not coded
+				Node 0x90
+					Not coded
+				Node 0x91
+					Not coded
+				Node 0x92
+					Not coded
+				Node 0x93
+					Not coded
+				Node 0x94
+					Not coded
+				Node 0x95
+					Not coded
+				Node 0x96
+					Not coded
+				Node 0x97
+					Not coded
+				Node 0x98
+					Not coded
+				Node 0x99
+					Not coded
+				Node 0x9A
+					Not coded
+				Node 0x9B
+					Not coded
+				Battery Energy Control Module 2
+					Not coded
+				Node 0x9D
+					Not coded
+				Node 0x9E
+					Not coded
+				Node 0x9F
+					Not coded
+				Node 0xA0
+					Not coded
+				Node 0xA1
+					Not coded
+				Node 0xA2
+					Not coded
+				Node 0xA3
+					Not coded
+				Auxiliary Air Heater
+					Not coded
+				Node 0xA5
+					Not coded
+				Node 0xA6
+					Not coded
+				Node 0xA7
+					Not coded
+				Node 0xA8
+					Not coded
+				Multifunction Module
+					Not coded
+				Node 0xAA
+					Not coded
+				Node 0xAB
+					Not coded
+				Node 0xAC
+					Not coded
+				Node 0xAD
+					Not coded
+				Battery Regulation Auxiliary Accumulator 1
+					Not coded
+				Node 0xAF
+					Not coded
+				Node 0xB0
+					Not coded
+				Node 0xB1
+					Not coded
+				Node 0xB2
+					Not coded
+				Node 0xB3
+					Not coded
+				Node 0xB4
+					Not coded
+				Node 0xB5
+					Not coded
+				Node 0xB6
+					Not coded
+				Node 0xB7
+					Not coded
+				Node 0xB8
+					Not coded
+				Node 0xB9
+					Not coded
+				Node 0xBA
+					Not coded
+				Node 0xBB
+					Not coded
+				Node 0xBC
+					Not coded
+				Node 0xBD
+					Not coded
+				Node 0xBE
+					Not coded
+				Node 0xBF
+					Not coded
+				Node 0xC0
+					Not coded
+				Node 0xC1
+					Not coded
+				Node 0xC2
+					Not coded
+				Node 0xC3
+					Not coded
+				Node 0xC4
+					Not coded
+				Node 0xC5
+					Not coded
+				Node 0xC6
+					Not coded
+				Node 0xC7
+					Not coded
+				Node 0xC8
+					Not coded
+				Node 0xC9
+					Not coded
+				Node 0xCA
+					Not coded
+				Node 0xCB
+					Not coded
+				Node 0xCC
+					Not coded
+				Node 0xCD
+					Not coded
+				Node 0xCE
+					Not coded
+				Node 0xCF
+					Not coded
+				Node 0xD0
+					Not coded
+				Node 0xD1
+					Not coded
+				Node 0xD2
+					Not coded
+				Node 0xD3
+					Not coded
+				Node 0xD4
+					Not coded
+				Node 0xD5
+					Not coded
+				Node 0xD6
+					Not coded
+				Node 0xD7
+					Not coded
+				Node 0xD8
+					Not coded
+				Node 0xD9
+					Not coded
+				Node 0xDA
+					Not coded
+				Node 0xDB
+					Not coded
+				Node 0xDC
+					Not coded
+				Node 0xDD
+					Not coded
+				Node 0xDE
+					Not coded
+				Node 0xDF
+					Not coded
+				Node 0xE0
+					Not coded
+				Node 0xE1
+					Not coded
+				Node 0xE2
+					Not coded
+				Node 0xE3
+					Not coded
+				Node 0xE4
+					Not coded
+				Node 0xE5
+					Not coded
+				Node 0xE6
+					Not coded
+				Node 0xE7
+					Not coded
+				Node 0xE8
+					Not coded
+				Node 0xE9
+					Not coded
+				Node 0xEA
+					Not coded
+				Node 0xEB
+					Not coded
+				Node 0xEC
+					Not coded
+				Node 0xED
+					Not coded
+				Node 0xEE
+					Not coded
+				Node 0xEF
+					Not coded
+				Node 0xF0
+					Not coded
+				Node 0xF1
+					Not coded
+				Node 0xF2
+					Not coded
+				Node 0xF3
+					Not coded
+				Node 0xF4
+					Not coded
+				Node 0xF5
+					Not coded
+				Node 0xF6
+					Not coded
+				Node 0xF7
+					Not coded
+				Node 0xF8
+					Not coded
+				Node 0xF9
+					Not coded
+				Node 0xFA
+					Not coded
+				Node 0xFB
+					Not coded
+				Node 0xFC
+					Not coded
+				Node 0xFD
+					Not coded
+				Node 0xFE
+					Not coded
+				Node 0xFF
+					Not coded
+			
+			
+		Mileage: 99541 mi
+		Date: 2024-01-11 17:42:02
+		
+	Backup
+		44 Steering Assistance
+		System description: EPS_MQB_ZFLS
+		Software number: 3Q0909144K
+		Software version: 5072
+		Hardware number: 3Q0909144H
+		Hardware version: 506
+		Backup name: Steering Assistance
+		Long coding
+			8102
+		Adaptations
+			Activating and deactivating all development messages	
+				Development messages
+					not active
+			
+			
+		Mileage: 99541 mi
+		Date: 2024-01-11 17:42:03
+		
+	Backup
+		75 Telematics
+		System description: OCULowMQBUS
+		Software number: 5QE035285A
+		Software version: 0568
+		Hardware number: 5QE035285A
+		Hardware version: 007
+		Backup name: Telematics
+		Long coding
+			02730002C2821A017F1E06000000
+		Adaptations
+			Deactivate production mode	
+			
+			Production mode	
+				---
+					000000
+			
+			Online_Services_Communication_Protocol	
+				APN Auth Type
+					PAP CHAP
+				GSM Automatic Operator
+					Manual
+				PDP Type
+					IPv4
+				TCP Max Receive Window
+					65535 B
+				TCP Max Transmit Window
+					65535 B
+				Keep Connection Alive If Event Expected Within
+					10 min
+				TCPMS
+					532 B
+				PDP Grace Time
+					120 s
+			
+			Online_Services_Timeouts	
+				Transport Protocol Timeout
+					120 s
+				HTTP Timeout
+					125 s
+				Secure Connection Timeout
+					120 s
+				PDP Timeout
+					120 s
+				Network Timeout
+					120 s
+			
+			Online_Services_Data_Roaming	
+				Core Service Management
+					activated
+				Remote Speed Alert
+					activated
+				Geofencing
+					activated
+				Remote Vehicle Tracking
+					activated
+				Remote Vehicle Disabling
+					activated
+				Core Service Telephony
+					activated
+				JobMechanism
+					activated
+				Remote Door Unlock
+					activated
+				Remote Honking And Flashing
+					activated
+				Roadside Assistance
+					activated
+				Vehicle Health Report
+					activated
+				POI Address Import
+					activated
+				Remote Battery Charging Management
+					activated
+				Remote Pre Trip Climatisation
+					activated
+				Remote Departure Time Programming
+					activated
+				Remote Vehicle Status
+					activated
+				Remote Trip Statistics
+					activated
+			
+			Online_Services_Voice_Roaming	
+				Voice Roaming
+					activated
+			
+			Voice_Connection_Timeouts	
+				Call Failed Timer
+					10 s
+				Wait Tone Timer
+					30 s
+				Redial Attempts
+					6
+				Redial ACN MEC If Failed
+					Yes
+				Redial Timer
+					2 s
+				Voice Data Transfer Failed Timer
+					15 s
+			
+			Emergency_Call_Trigger_Condition	
+				---
+					crash intensity 2
+			
+			Remote_Vehicle_Status	
+				Remote Vehicle Status Clamp 15 On Delay
+					1275 s
+				Remote Vehicle Status Clamp 15 Off Delay
+					60 s
+			
+			Roof_Crash_Detection_Speed_Limit	
+				Speed
+					30 km/h
+			
+			Pearl_Chain_Generation_Criteria	
+				Distance
+					500 m
+				Driving direction
+					30 °
+				Speed
+					30 km/h
+				Height
+					50 m
+				Time
+					60 s
+				Debounce
+					10 m
+			
+			Status of GPS antenna	
+				---
+					external
+			
+			Antenna for telephone status	
+				---
+					automatic
+			
+			Manual_Emergency_Call	
+				Radio On Trigger
+					On
+				Vehicle Termination
+					On
+			
+			Geofencing_Area_First_Radius	
+				max.value
+					4294967294 m
+				min.value
+					1 m
+			
+			Geofencing_Area_Second_Radius	
+				max.value
+					4294967294 m
+				min.value
+					1 m
+			
+			Geofencing_Area_Width	
+				max.value
+					4294967294 m
+				min.value
+					1 m
+			
+			Geofencing_Area_Highth	
+				max.value
+					4294967294 m
+				min.value
+					1 m
+			
+			Geofencing_Area_Longitude	
+				max.value
+					+2.147.483.647
+				min.value
+					-2.147.483.648
+			
+			Geofencing_Area_Latitude	
+				max.value
+					+2.147.483.647
+				min.value
+					-2.147.483.648
+			
+			Vehicle_Health_Report	
+				Maintenance Distance Threshold
+					15000 km
+			
+			Driving_Follow_Up_Time	
+				Driving Follow Up Time
+					5 min
+			
+			Remote_Vehicle_Tracking_Mileage_Trigger	
+				max.value
+					65535 m
+				min.value
+					0 m
+			
+			Remote_Vehicle_Tracking_Time_Trigger	
+				max.value
+					65535 s
+				min.value
+					0 s
+			
+			Serial_Tracing	
+				Login
+					      
+			
+			Cycle_Data_Log_Level	
+				Core Service Management
+					Error
+				Remote Speed Alert
+					Error
+				Geofencing
+					Error
+				Remote Vehicle Tracking
+					Error
+				Remote Vehicle Disabling
+					Error
+				Manual Emergency Call
+					Error
+				Automatic Crash Notification
+					Error
+				Remote Door Unlock
+					Error
+				Remote Honking And Flashing
+					Error
+				Roadside Assistance Dealer Maintenance Scheduling
+					Error
+				Vehicle Health Report
+					Error
+				Information Call
+					Error
+				POI Address Import
+					Error
+				Remote Battery Charging Management
+					Error
+				Remote Pre Trip Climatisation
+					Error
+				Remote Departure Time Programming
+					Error
+				Remote Vehicle Status
+					Error
+				Remote Trip Statistics
+					Error
+			
+			Number 2 for Info call	
+				---
+					8882915686
+			
+			Number 2 for roadside assistance	
+				---
+					8882449811
+			
+			Number 1 for Info call	
+				---
+					8774193655
+			
+			Number 1 for roadside assistance	
+				---
+					8774193654
+			
+			Vehicle shut-down, maximum speed	
+				---
+					5 km/h
+			
+			Waiting period for activation vehicle shutdown	
+				---
+					30 s
+			
+			Safety mode for activation vehicle shutdown	
+				---
+					activated
+			
+			Safety mode for deactivation vehicle shutdown	
+				---
+					Not activated
+			
+			Speed warning maximum speed	
+				---
+					0 km/h
+			
+			Acoustic warning for vehicle shut-down	
+				---
+					activated
+			
+			Number 1 for roadside assistance	
+				---
+					8774193653
+			
+			Number 2 for roadside assistance	
+				---
+					8882449108
+			
+			SMS number 1 for call for help	
+				---
+					60000004
+			
+			Vehicle function list BAP	
+				Time
+					activated
+				Charge manager
+					Not activated
+				Multifunction indicator
+					activated
+			
+			Test tel. number for roadside assistance	
+				---
+					0
+			
+			After-run time	
+				Long term energy budget
+					3600 mAh
+				Short term energy budget
+					1000 mAh
+				Waiting period from sleep to standby mode
+					0 min
+				Waiting period from standby to stop mode
+					336 h
+				Time period for cyclic stop mode in operating mode
+					0 min
+				Time period for cyclic standby mode in operating mode
+					0 min
+				Time period for operating mode
+					0 d
+				Cyclic time after the operating mode
+					0 h
+				Connection after T. 15 on
+					No
+				Time period for connection after T. 15 on
+					15 min
+			
+			Mobile network operator	
+				---
+					aprd3.hughestelematics.com.attz
+			
+			Mobile Online services, first host name	
+				---
+					vw.us.p.tos.hughestelematics.net
+			
+			Fallback DNS Server	
+				---
+					0.0.0.0
+			
+			User profile name	
+				---
+					none
+			
+			User profile password	
+				---
+					none
+			
+			Mobile Online services, second host name	
+				---
+					vw.us.p.tos.hughestelematics.net
+			
+			Mobile Online services, activation threshold	
+				Distance for activation
+					5 km
+				Lock time during deactivation
+					0 min
+			
+			Number_Of_Navigation_Destinations	
+				---
+					20
+			
+			Fuel tank volume	
+				---
+					50 L
+			
+			Base volume of speech output	
+				---
+					0 dB(A)
+			
+			Microphone sensitivity	
+				---
+					0 dB(A)
+			
+			Reference channel delay	
+				---
+					40 ms
+			
+			Emergency telephone number	
+				---
+					112
+			
+			Dimming charac. curve of red function illumination	
+				X1
+					0
+				Y1
+					1 %
+				X2
+					10
+				Y2
+					1 %
+				X3
+					50
+				Y3
+					2 %
+				X4
+					100
+				Y4
+					4 %
+				X5
+					150
+				Y5
+					80 %
+				X6
+					253
+				Y6
+					100 %
+			
+			Dimming charac. curve of green function illumination	
+				X1
+					0
+				Y1
+					1 %
+				X2
+					10
+				Y2
+					1 %
+				X3
+					50
+				Y3
+					2 %
+				X4
+					100
+				Y4
+					4 %
+				X5
+					150
+				Y5
+					80 %
+				X6
+					253
+				Y6
+					100 %
+			
+			Dimming coefficient of red function illumination	
+				Dimming Coefficient
+					50 %
+			
+			Dimming coefficient of green function illumination	
+				Dimming Coefficient
+					50 %
+			
+			Threshold for vehicle movement recognition	
+				---
+					5 km/h
+			
+			Radio mode	
+				---
+					activated
+			
+			
+		Advanced identification
+			
+		Mileage: 99541 mi
+		Date: 2024-01-11 17:42:03
+		
+	Backup
+		A9 Structure Borne Sound
+		System description: SAS-GEN 2
+		Software number: 5G0907159
+		Software version: 0014
+		Hardware number: 4H0907159A
+		Hardware version: H06
+		Backup name: Structure Borne SoundAdaptations
+			Volume of structure-borne noise actuator	
+				---
+					100.0 %
+			
+			
+		Advanced identification
+			
+		Mileage: 99541 mi
+		Date: 2024-01-11 17:42:04
+		
+---------------------------------------------------------------
+
+
+	Backup
+		01 Engine
+		System description: 2.0l R4 TFSI
+		Software number: 5G0906259L
+		Software version: 0002
+		Hardware number: 06K907425B
+		Hardware version: H13
+		Backup name: Engine
+		Long coding
+			091900122424002F0000
+		Adaptations
+			Idle RPM correction	
+				1 Byte UINT LINEAR  10x minus 1 p 28E3  FLOAT 0 Revolutions Per Minute
+					0 1/min
+			
+			Engine run-in oil pressure	
+				Engine run-in oil pressure
+					not active
+			
+			Roller test bench mode, functional	
+				---
+					Not activated
+			
+			Deactivate production mode	
+				---
+					000000
+			
+			Production mode	
+				---
+					000000
+			
+			Activation of start-stop function	
+				---
+					not active
+			
+			Protective function	
+				---
+					Enabled
+			
+			Operating mode selec.	
+				CNG operation
+					Not activated
+				DI operation
+					Not activated
+				---
+					Not activated
+			
+			Timing deviation after chain replacement, intake bank 1	
+				---
+					0.00 °
+			
+			Timing deviation after chain replacement, exhaust bank 1	
+				---
+					0.00 °
+			
+			Timing deviation after other repairs, intake bank 1	
+				---
+					0.00 °
+			
+			Timing deviation after other repairs, exhaust bank 1	
+				---
+					0.00 °
+			
+			Timing deviation, current value intake bank 1	
+				---
+					0.31 °
+			
+			Timing deviation, current value exhaust bank 1	
+				---
+					0.00 °
+			
+			Chain elongation, no. of valid initial values, intake bank 1	
+				---
+					3
+			
+			Chain elongation, no. of valid initial values, exhaust bank 1	
+				---
+					0
+			
+			Chain elongation, initial values valid, intake bank 1	
+				---
+					active
+			
+			Chain elongation, initial values valid, exhaust bank 1	
+				---
+					not active
+			
+			
+		Mileage: 99541 mi
+		Date: 2024-01-11 17:40:58
+		
+	Backup
+		03 Brakes
+		System description: ESC
+		Software number: 5Q0614517AF
+		Software version: 0398
+		Hardware number: 5Q0614517AF
+		Hardware version: H62
+		Backup name: Brakes
+		Long coding
+			01FA6BA13422096E407A020181C52980D62C90024081943400430050C00903
+		Adaptations
+			Tire pressure monitoring display	
+				Warning thresholds, tire pressure monitoring system
+					2
+			
+			Roller test bench mode	
+				---
+					Manual activation, possible
+			
+			Running manufacturer number	
+				Status
+					activated
+			
+			Engine drag torque control	
+				---
+					activated
+			
+			Activating and deactivating all development messages	
+				---
+					0
+			
+			OFFROAD	
+				Offroad portion electronic differential lock
+					0
+			
+			Brake system vacuum pump	
+				Offset
+					5
+			
+			Hydraulic brake booster	
+				Offset
+					8
+			
+			Brake prefill	
+				Brake prefill
+					activated
+			
+			Braking torque boost for distance regulation	
+				Braking torque boost for distance regulation
+					3
+			
+			Brake booster	
+				Brake booster
+					4
+			
+			Hydraulic brake assistant	
+				Hydraulic brake assistant
+					normal
+			
+			Electronic Stability Program	
+				Speed-dependent activation
+					Not activated
+			
+			Brake disk drying	
+				Brake disk drying
+					medium
+			
+			Hill-start assistant	
+				Hill-start assistant
+					normal
+			
+			Straight ahead brake stabilization	
+				Straight ahead brake stabilization
+					Not activated
+			
+			Starting vibration reduction	
+				Starting vibration reduction
+					Strong
+				Torque limitation
+					Deactivated
+			
+			Developer_Function_1	
+				Developer Function 1
+					0
+			
+			Roller test bench mode, functional	
+				---
+					Not activated
+			
+			Overboost in brake system	
+				Overboost in brake system
+					activated
+			
+			Tire pressure monitoring display, tire selection	
+				Tire pressure monitoring display, tire selection
+					1
+			
+			
+		Mileage: 99541 mi
+		Date: 2024-01-11 17:40:58
+		
+---------------------------------------------------------------
+17 Dashboard
+		System description: KOMBI
+		Software number: 5G1920856B
+		Software version: 8311
+		Hardware number: 5G1920856B
+		Hardware version: 344
+		
+		Faults:
+			No trouble codes found
+
+---------------------------------------------------------------
+17 Dashboard
+		System description: KOMBI
+		Software number: 5G1920856B
+		Software version: 8311
+		Hardware number: 5G1920856B
+		Hardware version: 344
+		
+		Faults:
+				U111000 - Function restriction due to communication interruption
+				static
+				
+				
+
+---------------------------------------------------------------
+Full scan
+	Control Units: 14
+	Fault count: 20
+	Control Units:
+		08 Air Conditioning
+		System description: AC Manuell
+		Software number: 5GM907426C
+		Software version: 1601
+		Hardware number: 5GM907426C
+		Hardware version: H03
+		
+		Faults:
+			No trouble codes found
+
+		16 Steering Column
+		System description: Lenks.Modul
+		Software number: 5Q0953521K
+		Software version: 0235
+		Hardware number: 5Q0953569A
+		Hardware version: 075
+		
+		Faults:
+			No trouble codes found
+
+		03 Brakes
+		System description: ESC
+		Software number: 5Q0614517AF
+		Software version: 0398
+		Hardware number: 5Q0614517AF
+		Hardware version: H62
+		
+		Faults:
+			No trouble codes found
+
+		75 Telematics
+		System description: OCULowMQBUS
+		Software number: 5QE035285A
+		Software version: 0568
+		Hardware number: 5QE035285A
+		Hardware version: 007
+		
+		Faults:
+			No trouble codes found
+
+		19 Gateway
+		System description: GW MQB Mid
+		Software number: 5Q0907530AL
+		Software version: 2265
+		Hardware number: 5Q0907530L
+		Hardware version: 211
+		
+		Faults:
+			No trouble codes found
+
+		5F Multimedia
+		System description: MU-S-S-US
+		Software number: 3Q0035844A
+		Software version: 0751
+		Hardware number: 3Q0035844A
+		Hardware version: 710
+		
+		Faults:
+			No trouble codes found
+
+		52 Passenger Door
+		System description: TSG BFS
+		Software number: 5Q0959592E
+		Software version: 0041
+		Hardware number: 5Q0959592B
+		Hardware version: 020
+		
+		Faults:
+			No trouble codes found
+
+		44 Steering Assistance
+		System description: EPS_MQB_ZFLS
+		Software number: 3Q0909144K
+		Software version: 5072
+		Hardware number: 3Q0909144H
+		Hardware version: 506
+		
+		Faults:
+			No trouble codes found
+
+		01 Engine
+		System description: 2.0l R4 TFSI
+		Software number: 5G0906259L
+		Software version: 0002
+		Hardware number: 06K907425B
+		Hardware version: H13
+		
+		Faults:
+				P006800 - MAP/MAF - Throttle Position
+			Correlation
+				Intermittent
+				
+				
+				P006800 - MAP/MAF - Throttle Position
+			Correlation
+				Intermittent
+				
+				
+				P227900 - Intake Air System Leak
+				Intermittent
+				
+				
+				P050700 - Idle Control System
+			RPM Higher than Expected
+				Intermittent
+				
+				
+
+		17 Dashboard
+		System description: KOMBI
+		Software number: 5G1920856B
+		Software version: 8311
+		Hardware number: 5G1920856B
+		Hardware version: 344
+		
+		Faults:
+				U111000 - Function restriction due to communication interruption
+				static
+				
+				
+
+		15 Airbag
+		System description: AirbagVW20
+		Software number: 5Q0959655J
+		Software version: 0830
+		Hardware number: 5Q0959655J
+		Hardware version: 010
+		
+		Faults:
+				B100A1B - Front passenger side airbag igniter
+			Resistance too high
+				Intermittent
+				
+				
+				B101F15 - Seat position sensor, front passenger side
+			Open circuit/short circuit to B+
+				Intermittent
+				
+				
+
+		09 Central Electrics
+		System description: BCM PQ37BOSCH
+		Software number: 5Q0937087AA
+		Software version: 0162
+		Hardware number: 5Q0937087AA
+		Hardware version: 028
+		
+		Faults:
+				U101100 - Supply voltage
+			Voltage too low
+				Intermittent
+				
+				
+				U140000 - Function restriction
+			due to insufficient voltage
+				Intermittent
+				
+				
+				B121715 - Left low beam headlamp bulb
+			Open circuit/short circuit to B+
+				Intermittent
+				
+				
+				B12CA15 - License plate lamp
+			Open circuit/short circuit to B+
+				Intermittent
+				
+				
+				B12CA01 - License plate lamp
+			Electrical error
+				Intermittent
+				
+				
+				B12BA15 - Left front side marker lamp bulb
+			Open circuit/short circuit to B+
+				Intermittent
+				
+				
+				B12BB15 - Right front side marker lamp bulb
+			Open circuit/short circuit to B+
+				static
+				
+				
+				B147918 - Remote key 1
+			Voltage too low
+				static
+				
+				
+				B147A18 - Remote key 2
+			Voltage too low
+				Intermittent
+				
+				
+				U110500 - Transport mode active
+				Intermittent
+				
+				
+
+		42 Driver Door
+		System description: TSG FS
+		Software number: 5Q0959593E
+		Software version: 0041
+		Hardware number: 5Q0959593B
+		Hardware version: 020
+		
+		Faults:
+				U103000 - Local data bus
+			Electrical error
+				Intermittent
+				
+				
+				U10BA00 - Local data bus
+			No communication
+				Intermittent
+				
+				
+
+		A9 Structure Borne Sound
+		System description: SAS-GEN 2
+		Software number: 5G0907159
+		Software version: 0014
+		Hardware number: 4H0907159A
+		Hardware version: H06
+		
+		Faults:
+				P193A00 - Structure-borne sound actuator
+			Open circuit
+				static
+				
+				
+
+---------------------------------------------------------------
+App
+	Name: Straight Ahead Brake Stabilization
+	Old value: ON
+	New value: OFF
+	Mileage: 99541 mi
+	Date: 2024-01-11 17:35:08
+---------------------------------------------------------------
+Full scan
+	Control Units: 14
+	Fault count: 23
+	Control Units:
+		03 Brakes
+		System description: ESC
+		Software number: 5Q0614517AF
+		Software version: 0398
+		Hardware number: 5Q0614517AF
+		Hardware version: H62
+		
+		Faults:
+			No trouble codes found
+
+		5F Multimedia
+		System description: MU-S-S-US
+		Software number: 3Q0035844A
+		Software version: 0751
+		Hardware number: 3Q0035844A
+		Hardware version: 710
+		
+		Faults:
+			No trouble codes found
+
+		08 Air Conditioning
+		System description: AC Manuell
+		Software number: 5GM907426C
+		Software version: 1601
+		Hardware number: 5GM907426C
+		Hardware version: H03
+		
+		Faults:
+			No trouble codes found
+
+		44 Steering Assistance
+		System description: EPS_MQB_ZFLS
+		Software number: 3Q0909144K
+		Software version: 5072
+		Hardware number: 3Q0909144H
+		Hardware version: 506
+		
+		Faults:
+			No trouble codes found
+
+		19 Gateway
+		System description: GW MQB Mid
+		Software number: 5Q0907530AL
+		Software version: 2265
+		Hardware number: 5Q0907530L
+		Hardware version: 211
+		
+		Faults:
+			No trouble codes found
+
+		16 Steering Column
+		System description: Lenks.Modul
+		Software number: 5Q0953521K
+		Software version: 0235
+		Hardware number: 5Q0953569A
+		Hardware version: 075
+		
+		Faults:
+			No trouble codes found
+
+		75 Telematics
+		System description: OCULowMQBUS
+		Software number: 5QE035285A
+		Software version: 0568
+		Hardware number: 5QE035285A
+		Hardware version: 007
+		
+		Faults:
+			No trouble codes found
+
+		52 Passenger Door
+		System description: TSG BFS
+		Software number: 5Q0959592E
+		Software version: 0041
+		Hardware number: 5Q0959592B
+		Hardware version: 020
+		
+		Faults:
+			No trouble codes found
+
+		15 Airbag
+		System description: AirbagVW20
+		Software number: 5Q0959655J
+		Software version: 0830
+		Hardware number: 5Q0959655J
+		Hardware version: 010
+		
+		Faults:
+				B100A1B - Front passenger side airbag igniter
+			Resistance too high
+				Intermittent
+				
+				
+				B101F15 - Seat position sensor, front passenger side
+			Open circuit/short circuit to B+
+				Intermittent
+				
+				
+				B102231 - Passenger occupant detection system control module
+			No signal
+				Intermittent
+				
+				
+
+		17 Dashboard
+		System description: KOMBI
+		Software number: 5G1920856B
+		Software version: 8311
+		Hardware number: 5G1920856B
+		Hardware version: 344
+		
+		Faults:
+				U111000 - Function restriction due to communication interruption
+				Intermittent
+				
+				
+
+		A9 Structure Borne Sound
+		System description: SAS-GEN 2
+		Software number: 5G0907159
+		Software version: 0014
+		Hardware number: 4H0907159A
+		Hardware version: H06
+		
+		Faults:
+				P193A00 - Structure-borne sound actuator
+			Open circuit
+				static
+				
+				
+
+		09 Central Electrics
+		System description: BCM PQ37BOSCH
+		Software number: 5Q0937087AA
+		Software version: 0162
+		Hardware number: 5Q0937087AA
+		Hardware version: 028
+		
+		Faults:
+				U101100 - Supply voltage
+			Voltage too low
+				Intermittent
+				
+				
+				U140000 - Function restriction
+			due to insufficient voltage
+				Intermittent
+				
+				
+				U112300 - Databus error value received
+				Intermittent
+				
+				
+				B121715 - Left low beam headlamp bulb
+			Open circuit/short circuit to B+
+				Intermittent
+				
+				
+				B12CA15 - License plate lamp
+			Open circuit/short circuit to B+
+				Intermittent
+				
+				
+				B12CA01 - License plate lamp
+			Electrical error
+				Intermittent
+				
+				
+				B12BA15 - Left front side marker lamp bulb
+			Open circuit/short circuit to B+
+				Intermittent
+				
+				
+				B12BB15 - Right front side marker lamp bulb
+			Open circuit/short circuit to B+
+				static
+				
+				
+				B147918 - Remote key 1
+			Voltage too low
+				static
+				
+				
+				B147A18 - Remote key 2
+			Voltage too low
+				Intermittent
+				
+				
+				B1806F0 - Heated seat passenger&apos;s side
+			Safety shutdon due to occupant detection
+				Intermittent
+				
+				
+				U110500 - Transport mode active
+				Intermittent
+				
+				
+
+		42 Driver Door
+		System description: TSG FS
+		Software number: 5Q0959593E
+		Software version: 0041
+		Hardware number: 5Q0959593B
+		Hardware version: 020
+		
+		Faults:
+				U103000 - Local data bus
+			Electrical error
+				Intermittent
+				
+				
+				U10BA00 - Local data bus
+			No communication
+				Intermittent
+				
+				
+
+		01 Engine
+		System description: 2.0l R4 TFSI
+		Software number: 5G0906259L
+		Software version: 0002
+		Hardware number: 06K907425B
+		Hardware version: H13
+		
+		Faults:
+				P006800 - MAP/MAF - Throttle Position
+			Correlation
+				Intermittent
+				
+				
+				P006800 - MAP/MAF - Throttle Position
+			Correlation
+				Intermittent
+				
+				
+				P227900 - Intake Air System Leak
+				Intermittent
+				
+				
+				P050700 - Idle Control System
+			RPM Higher than Expected
+				Intermittent
+				
+				
+
+---------------------------------------------------------------
+01 Engine
+		System description: 2.0l R4 TFSI
+		Software number: 5G0906259L
+		Software version: 0002
+		Hardware number: 06K907425B
+		Hardware version: H13
+		
+		Faults:
+				P006800 - MAP/MAF - Throttle Position
+			Correlation
+				Intermittent
+				
+				
+				P006800 - MAP/MAF - Throttle Position
+			Correlation
+				Intermittent
+				
+				
+				P227900 - Intake Air System Leak
+				Intermittent
+				
+				
+				P050700 - Idle Control System
+			RPM Higher than Expected
+				Intermittent
+				
+				
