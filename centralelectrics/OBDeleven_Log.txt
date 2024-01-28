@@ -1,0 +1,5303 @@
+OBDeleven vehicle history log
+Date: 2024-01-28 07:17:23
+
+	VIN: 3VW5T7AUXHM022312
+	Car: DAVOD 
+	Year: 2017
+	Body type: D5 Hatchback
+	Engine: CXCA  kW ( hp) l
+	Mileage: 100343 mi
+
+---------------------------------------------------------------
+
+09 Central Electrics
+System description: BCM PQ37BOSCH
+Software number: 5Q0937087AA
+Software version: 0162
+Hardware number: 5Q0937087AA
+Hardware version: 028
+Backup name: 
+Long coding
+	000008464041804969E44000001407201000000000000000000000000000
+Adaptations
+	Driving light and parking light	
+		Kontrollleuchte fuer Begrenzungslicht
+			integriert in Suchbeleuchtung
+		Schlusslicht mit Bremslichtfunktion
+			not active
+		Standlicht aus
+			active
+		Parklicht ueber LSS aktiviert
+			not active
+		Standlichtreduzierung mit beidseitigem Parklicht
+			not active
+		Zahl der aktiven Scheinwerfer auf 2 limitieren
+			limitieren
+		Warnung Fahrt mit Standlicht
+			not active
+		Zeitwert Einschaltzeit Abbiegelicht
+			15 min
+		Lichthupe bei Zuendung aus moeglich
+			active
+		Lichtwarnungsverhalten
+			klemmenabhaengig
+		Menueeinstellung CHO LHO
+			Menuesteuerung Zeit aktivieren
+		Allwetterlicht Einschaltgrenze
+			350 km/h
+		Allwetterlicht Ausschaltgrenze
+			350 km/h
+		Nebelschlusslicht Warngeschwindigkeit
+			0 km/h
+	
+	Transport mode	
+		---
+			active
+	
+	Read parameter address	
+		---
+			FE0000
+	
+	Writing parameter	
+		Parameter address
+			FE0000
+		value
+			130
+	
+	Deactivate production mode	
+		---
+			not active
+	
+	Auxiliary functions	
+		Spoiler Komfortsenken des Spoiler ueber Schliesszylinder FT
+			not active
+		Spoiler Einfahrunterdrueckung nach manuellem Ausfahren
+			not active
+		Reserved 1
+			not active
+		Signalhorn ohne KL15
+			active
+		Klemmenfehler auf CAN ausgeben
+			active
+		reserved 2
+			not active
+	
+	Anti-theft device	
+		Alarmsignal
+			frequency modulated
+		Verzoegerung Panikalarm
+			keine verzoegerung
+		DWA Alarmverzoegerung
+			not active
+		DWA Camper Modus
+			not active
+		Ueberwachung Innenentriegelungshebel
+			not active
+		Sirenen Alarmzahl
+			1 Alarm
+		Akustischer Alarm Signalhorn
+			active
+	
+	Acknowledgement signals	
+		Akustische Rueckmeldung entriegeln
+			not active
+		Akustische Rueckmeldung verriegeln
+			active
+		Dauer der Akustischen Rueckmeldung vom Einfachhorn
+			kurz
+		Optical feedback during locking
+			Decelerate
+		Optische Rueckmeldung Komfortschliessen
+			active
+		Optische Rueckmeldung 3.Bremsleuchte
+			not active
+		Menuesteuerung akustische Rueckmeldung
+			active
+		Akustische Rueckmeldung global
+			active
+		Akustische Rueckmeldung Signalhorn
+			active
+		Quittierton bei zweitem ZV-AUF-Befehl
+			not active
+		Quittierton bei zweitem ZV-ZU-Befehl
+			not active
+	
+	Access control 2	
+		Komfortbedienung global
+			active
+		Comfort opening
+			not active
+		Comfort closing
+			active
+		Komfortoeffnen nur FH Fahrertuer
+			not active
+		Nachsaven nach Verdecklauf
+			not active
+		Funk Komfort schliessen
+			not active
+		Funk Komfort oeffnen
+			not active
+		Schliesszylinder Komfort oeffnen
+			not active
+		Schliesszylinder Komfort schliessen
+			not active
+		SAD Richtung Komfortoeffnen
+			tilting
+		SAD Komfort schliessen
+			not active
+		SAD Komfort oeffnen
+			not active
+		Freigabenachlauf FH bei Kl 15 aus
+			active
+		Freigabenachlauf FH bei Tueroeffnen abbrechen
+			active
+		Regenschliessen ein aus
+			not active
+		Regenschliessen art
+			once
+		Spiegelabsenkung bei Rueckwaertsfahrt
+			not active
+		Spiegelverstellung Synchron
+			not active
+		Kessy Komfort oeffnen
+			not active
+		Kessy Komfort schliessen
+			active
+		Kessy Komfortbedienung Reichweitenbegrenzung
+			not active
+		Menuesteuerung Spiegelabsenkung
+			not active
+		Funk Spiegelanklappen
+			not active
+		Funk Spiegelanklappung Modus
+			by convenience operation via remote control key
+		Menuesteuerung synchrone Spiegelverstellung
+			not active
+		Menuesteuerung Funk Spiegel anklappen
+			not active
+		Menuesteuerung Komfortbedienung einstellbar
+			adjustable
+		Menuesteuerung Regenschliessen
+			not active
+		SAD PreCrash Konturschliessen
+			not active
+		FH SAD Kl15Aus Freigabezeit
+			600 s
+		Fahrertuerbedienung Fensterheber oeffnen
+			active
+		Fahrertuerbedienung Fensterheber schliessen
+			not active
+		Remote Unlock Lock
+			Via ZV-Absicherung Light
+		Profilfunktion fuer Anklappung der Aussenspiegel
+			active
+		Signalisierung Spiegelanklappung
+			active
+		virtuelles pedal
+			not active
+		virtuelles pedal HMI einstellbar
+			not active
+		easycloselight aktiv
+			not active
+		Spiegelanklappen bei Wiederverriegelung
+			not active
+	
+	Access control	
+		Funk bei Klemme 15 ein
+			not active
+		Notschliessfunktion
+			active
+		Automatisches Verriegeln bei Geschwindigkeit
+			active
+		automatisches Entriegeln
+			active
+		Geschwindigkeitsabhaengige Tankdeckelverriegelung
+			not active
+		ZV Tuerentriegelung
+			Einzeltuerentriegelung
+		CAN Wecken bei Softtouchbetaetigung
+			not active
+		Wiederoeffnung Elektrische-Schiebetuer
+			not active
+		Oeffnung Heckdeckel bei Wiederentriegelung
+			not active
+		Heckdeckel-Bedienstellen nachCrash temporaer sperren
+			active
+		Valet parking
+			not active
+		Direkter Auswurf des Heckdeckels
+			not active
+		ZV entriegelt auch Heckdeckel
+			active
+		Nach externer Verriegelung ist Heck noch zeitbegrenzt entriegelt
+			not active
+		Autolock Autounlock wirkt auf Heck
+			active
+		ZV Heck nur direkt auswerfen
+			not active
+		Wiederholte Heckansteuerung beim Schliessen FT oder BT
+			not active
+		Schliessung der Schiebetuer bei geoeffneter Tankklappe
+			not active
+		Bewusstes Safe mit 2. Betaetigung der FFB
+			not active
+		ZV-Entriegelung nach Seitencrash
+			not active
+		Entsafen mit autorisierte Klemme 15 Ein
+			not active
+		Elektrische Laderaumabdeckung
+			not active
+		Menuesteuerung Tuerentriegelung
+			active
+		Menuesteuerung ZV Autolock-Unlock
+			adjustable
+		Autounlock NAR
+			active
+		Freigabenachlauf Heck nach Einzeloeffnung ueber HDF-Funktaster
+			not active
+		Softtouch-Betaetigung senden
+			immer
+		Servoheck Schlossansteuerung
+			immer
+		Deaktivierung SAFE ueber DWA Deaktivierungstaster
+			active
+		Entriegelungwunsch verzoegert waehrend Zuziehvorgang
+			not active
+		Vorrastenhaenger Freigabe
+			not active
+		Heckfreigabe Ohne Verzoegerung
+			not active
+		Deaktivierung Laderaumschliessung extern
+			not active
+		LS Taster Togglefunktion
+			not active
+		Nutzfahrzeug Schliessung
+			not active
+		Wiederverriegelung Laderaum
+			Freigabe Softtouch
+		Mindestbetaetigung HDF Innentaster
+			0.00 s
+	
+	Windshield wiper	
+		Anzahl Betaetigungen Frontwaschanlage pro SRA Aktivierung
+			0
+		SRA Verzoegerungszeit
+			0 ms
+		SRA Waschzeit
+			0 ms
+		SRA Einweichpausenzeit
+			0 ms
+		SRA Nachwaschzeit
+			0 ms
+		SRA Pausenzeit
+			0 ms
+		SRA bei Waschwassermangel
+			not active
+		Frontwischer Referenzlauf
+			active
+		Variable Regensensoraktivierung
+			not active
+		Wischer stop bei KL15 aus
+			not active
+		Wischer abparken bei Oeffnen der Motorhaube
+			not active
+		Regensensor aktivieren
+			Deactivating
+		Menuesteuerung Frontwischer
+			not active
+		Frontwischer Notlaufprogramm
+			active
+		Tippwischen mit erhoehter Wischfrequenz
+			active
+		Geschwindigkeitsabhaengige Wischstufenrueckschaltung
+			active
+		Traenenwischen Front Status
+			not active
+		Washer Tipwiping Variant
+			0
+		Adaptives Nachwischen bei SRA
+			not active
+		Wischer Stopp bei Oeffnen der Motorhaube
+			not active
+		Tippendes Frontwaschen
+			not active
+		Frontwischer Abtauposition
+			not active
+	
+	Turn signal control	
+		Warnblinken bei Verdeckentriegelung
+			not active
+		Komfortblinken Blinkzyklen
+			3
+		Sonderfunktionen
+			not enabled
+		Signalprioritaet fuer Blinker
+			MFG
+		Blinkkontrolleuchte fuer Anhaenger
+			separte
+		Warnblinktastersuchbeleuchtung Aktivierung
+			always active
+		Komfortblinken
+			active
+		Warnblinktastersuchbeleuchtung Grundwert
+			10.00 %
+		Warnblinktastersuchbeleuchtung Faktor
+			0.10
+		Abbruch Komfortblinken
+			active
+	
+	Production mode	
+		Scheinwerferreinigung
+			not active
+		Frontwischer deaktivieren
+			not active
+		Heckwischer
+			not active
+		Innenbeleuchtung
+			not active
+		Aussenbeleuchtung
+			not active
+		Zugangskontrolle
+			not active
+		Virtuel pedal
+			not active
+	
+	Light configuration	
+		Lasttyp 0
+			12 - Blinkleuchten
+		BAP Bitposition 0
+			34
+		Reserved 0
+			0
+		Fehlerort mittleres Byte DTC-DFCC 0
+			14
+		Lichtfunktion A 0
+			2
+		Lichtfunktion B 0
+			0
+		Dimmwert AB 0
+			100
+		Lichtansteuerung HD AB 0
+			always
+		Lichtfunktion C 0
+			0
+		Lichtfunktion D 0
+			0
+		Dimmwert CD 0
+			0
+		Dimming Direction CD 0
+			maximize
+		Lichtfunktion E 0
+			0
+		Lichtfunktion F 0
+			0
+		Dimmwert EF 0
+			0
+		Dimming Direction EF 0
+			maximize
+		Lichtfunktion G 0
+			0
+		Lichtfunktion H 0
+			0
+		Dimmwert GH 0
+			0
+		Dimming Direction GH 0
+			maximize
+		Lasttyp 1
+			12 - Blinkleuchten
+		BAP Bitposition 1
+			3E
+		Reserved 1
+			0
+		Fehlerort mittleres Byte DTC-DFCC 1
+			15
+		Lichtfunktion A 1
+			4
+		Lichtfunktion B 1
+			0
+		Dimmwert AB 1
+			100
+		Lichtansteuerung HD AB 1
+			always
+		Lichtfunktion C 1
+			0
+		Lichtfunktion D 1
+			0
+		Dimmwert CD 1
+			0
+		Dimming Direction CD 1
+			maximize
+		Lichtfunktion E 1
+			0
+		Lichtfunktion F 1
+			0
+		Dimmwert EF 1
+			0
+		Dimming Direction EF 1
+			maximize
+		Lichtfunktion G 1
+			0
+		Lichtfunktion H 1
+			0
+		Dimmwert GH 1
+			0
+		Dimming Direction GH 1
+			maximize
+		Lasttyp 2
+			8 - allgemeine Glühlampe 12W
+		BAP Bitposition 2
+			0
+		Reserved 2
+			0
+		Fehlerort mittleres Byte DTC-DFCC 2
+			45
+		Lichtfunktion A 2
+			8
+		Lichtfunktion B 2
+			11
+		Dimmwert AB 2
+			100
+		Lichtansteuerung HD AB 2
+			always
+		Lichtfunktion C 2
+			0
+		Lichtfunktion D 2
+			0
+		Dimmwert CD 2
+			0
+		Dimming Direction CD 2
+			maximize
+		Lichtfunktion E 2
+			0
+		Lichtfunktion F 2
+			0
+		Dimmwert EF 2
+			0
+		Dimming Direction EF 2
+			maximize
+		Lichtfunktion G 2
+			0
+		Lichtfunktion H 2
+			0
+		Dimmwert GH 2
+			0
+		Dimming Direction GH 2
+			maximize
+		Lasttyp 3
+			8 - allgemeine Glühlampe 12W
+		BAP Bitposition 3
+			0
+		Reserved 3
+			0
+		Fehlerort mittleres Byte DTC-DFCC 3
+			46
+		Lichtfunktion A 3
+			8
+		Lichtfunktion B 3
+			12
+		Dimmwert AB 3
+			100
+		Lichtansteuerung HD AB 3
+			always
+		Lichtfunktion C 3
+			0
+		Lichtfunktion D 3
+			0
+		Dimmwert CD 3
+			0
+		Dimming Direction CD 3
+			maximize
+		Lichtfunktion E 3
+			0
+		Lichtfunktion F3
+			0
+		Dimmwert EF 3
+			0
+		Dimming Direction EF 3
+			maximize
+		Lichtfunktion G 3
+			0
+		Lichtfunktion H 3
+			0
+		Dimmwert GH 3
+			0
+		Dimming Direction GH 3
+			maximize
+		Lasttyp 4
+			9 - allgemeine Glühlampe 27W, auch H15
+		BAP Bitposition 4
+			48
+		Reserved 4
+			0
+		Fehlerort mittleres Byte DTC-DFCC 4
+			43
+		Lichtfunktion A 4
+			20
+		Lichtfunktion B 4
+			11
+		Dimmwert AB 4
+			100
+		Lichtansteuerung HD AB 4
+			always
+		Lichtfunktion C 4
+			6
+		Lichtfunktion D 4
+			0
+		Dimmwert CD 4
+			0
+		Dimming Direction CD 4
+			minimize
+		Lichtfunktion E 4
+			8
+		Lichtfunktion F 4
+			0
+		Dimmwert EF 4
+			31
+		Dimming Direction EF 4
+			maximize
+		Lichtfunktion G 4
+			0
+		Lichtfunktion H 4
+			0
+		Dimmwert GH 4
+			0
+		Dimming Direction GH 4
+			maximize
+		Lasttyp 5
+			9 - allgemeine Glühlampe 27W, auch H15
+		BAP Bitposition 5
+			4C
+		Reserved 5
+			0
+		Fehlerort mittleres Byte DTC-DFCC 5
+			44
+		Lichtfunktion A 5
+			20
+		Lichtfunktion B 5
+			12
+		Dimmwert AB 5
+			100
+		Lichtansteuerung HD AB 5
+			always
+		Lichtfunktion C 5
+			7
+		Lichtfunktion D 5
+			0
+		Dimmwert CD 5
+			0
+		Dimming Direction CD 5
+			minimize
+		Lichtfunktion E 5
+			8
+		Lichtfunktion F5
+			0
+		Dimmwert EF 5
+			31
+		Dimming Direction EF 5
+			maximize
+		Lichtfunktion G 5
+			0
+		Lichtfunktion H 5
+			0
+		Dimmwert GH 5
+			0
+		Dimming Direction GH 5
+			maximize
+		Lasttyp 6
+			11 - Abblendlicht
+		BAP Bitposition 6
+			36
+		Reserved 6
+			0
+		Fehlerort mittleres Byte DTC-DFCC 6
+			1A
+		Lichtfunktion A 6
+			11
+		Lichtfunktion B 6
+			0
+		Dimmwert AB 6
+			100
+		Lichtansteuerung HD AB 6
+			always
+		Lichtfunktion C 6
+			0
+		Lichtfunktion D 6
+			0
+		Dimmwert CD 6
+			0
+		Dimming Direction CD 6
+			maximize
+		Lichtfunktion E 6
+			0
+		Lichtfunktion F 6
+			0
+		Dimmwert EF 6
+			0
+		Dimming Direction EF 6
+			maximize
+		Lichtfunktion G 6
+			0
+		Lichtfunktion H 6
+			0
+		Dimmwert GH 6
+			0
+		Dimming Direction GH 6
+			maximize
+		Lasttyp 7
+			11 - Abblendlicht
+		BAP Bitposition 7
+			40
+		Reserved 7
+			0
+		Fehlerort mittleres Byte DTC-DFCC 7
+			1B
+		Lichtfunktion A 7
+			12
+		Lichtfunktion B 7
+			0
+		Dimmwert AB 7
+			100
+		Lichtansteuerung HD AB 7
+			always
+		Lichtfunktion C 7
+			0
+		Lichtfunktion D 7
+			0
+		Dimmwert CD 7
+			0
+		Dimming Direction CD 7
+			maximize
+		Lichtfunktion E 7
+			0
+		Lichtfunktion F 7
+			0
+		Dimmwert EF 7
+			0
+		Dimming Direction EF 7
+			maximize
+		Lichtfunktion G 7
+			0
+		Lichtfunktion H 7
+			0
+		Dimmwert GH 7
+			0
+		Dimming Direction GH 7
+			maximize
+		Lasttyp 8
+			10 - allgemeine Scheinwerfer
+		BAP Bitposition 8
+			37
+		Reserved 8
+			0
+		Fehlerort mittleres Byte DTC-DFCC 8
+			1C
+		Lichtfunktion A 8
+			13
+		Lichtfunktion B 8
+			15
+		Dimmwert AB 8
+			100
+		Lichtansteuerung HD AB 8
+			always
+		Lichtfunktion C 8
+			0
+		Lichtfunktion D 8
+			0
+		Dimmwert CD 8
+			0
+		Dimming Direction CD 8
+			maximize
+		Lichtfunktion E 8
+			0
+		Lichtfunktion F 8
+			0
+		Dimmwert EF 8
+			0
+		Dimming Direction EF 8
+			maximize
+		Lichtfunktion G 8
+			0
+		Lichtfunktion H 8
+			0
+		Dimmwert GH 8
+			0
+		Dimming Direction GH 8
+			maximize
+		Lasttyp 9
+			10 - allgemeine Scheinwerfer
+		BAP Bitposition 9
+			41
+		Reserved 9
+			0
+		Fehlerort mittleres Byte DTC-DFCC 9
+			1D
+		Lichtfunktion A 9
+			14
+		Lichtfunktion B 9
+			15
+		Dimmwert AB 9
+			100
+		Lichtansteuerung HD AB 9
+			always
+		Lichtfunktion C 9
+			0
+		Lichtfunktion D 9
+			0
+		Dimmwert CD 9
+			0
+		Dimming Direction CD 9
+			maximize
+		Lichtfunktion E 9
+			0
+		Lichtfunktion F 9
+			0
+		Dimmwert EF 9
+			0
+		Dimming Direction EF 9
+			maximize
+		Lichtfunktion G 9
+			0
+		Lichtfunktion H 9
+			0
+		Dimmwert GH 9
+			0
+		Dimming Direction GH 9
+			maximize
+		Lasttyp 10
+			not active
+		BAP Bitposition 10
+			0
+		Reserved 10
+			0
+		Fehlerort mittleres Byte DTC-DFCC 10
+			0
+		Lichtfunktion A 10
+			0
+		Lichtfunktion B 10
+			0
+		Dimmwert AB 10
+			0
+		Lichtansteuerung HD AB 10
+			always
+		Lichtfunktion C 10
+			0
+		Lichtfunktion D 10
+			0
+		Dimmwert CD 10
+			0
+		Dimming Direction CD 10
+			maximize
+		Lichtfunktion E 10
+			0
+		Lichtfunktion F 10
+			0
+		Dimmwert EF 10
+			0
+		Dimming Direction EF 10
+			maximize
+		Lichtfunktion G 10
+			0
+		Lichtfunktion H 10
+			0
+		Dimmwert GH 10
+			0
+		Dimming Direction GH 10
+			maximize
+		Lasttyp 11
+			not active
+		BAP Bitposition 11
+			0
+		Reserved 11
+			0
+		Fehlerort mittleres Byte DTC-DFCC 11
+			0
+		Lichtfunktion A 11
+			0
+		Lichtfunktion B 11
+			0
+		Dimmwert AB 11
+			0
+		Lichtansteuerung HD AB 11
+			always
+		Lichtfunktion C 11
+			0
+		Lichtfunktion D 11
+			0
+		Dimmwert CD 11
+			0
+		Dimming Direction CD 11
+			maximize
+		Lichtfunktion E 11
+			0
+		Lichtfunktion F 11
+			0
+		Dimmwert EF 11
+			0
+		Dimming Direction EF 11
+			maximize
+		Lichtfunktion G 11
+			0
+		Lichtfunktion H 11
+			0
+		Dimmwert GH 11
+			0
+		Dimming Direction GH 11
+			maximize
+		Lasttyp 12
+			6 - LED Lichtmodul
+		BAP Bitposition 12
+			38
+		Reserved 12
+			0
+		Fehlerort mittleres Byte DTC-DFCC 12
+			22
+		Lichtfunktion A 12
+			18
+		Lichtfunktion B 12
+			22
+		Dimmwert AB 12
+			127
+		Lichtansteuerung HD AB 12
+			always
+		Lichtfunktion C 12
+			0
+		Lichtfunktion D 12
+			0
+		Dimmwert CD 12
+			0
+		Dimming Direction CD 12
+			maximize
+		Lichtfunktion E 12
+			0
+		Lichtfunktion F 12
+			0
+		Dimmwert EF 12
+			0
+		Dimming Direction EF 12
+			maximize
+		Lichtfunktion G 12
+			0
+		Lichtfunktion H 12
+			15
+		Dimmwert GH 12
+			100
+		Dimming Direction GH 12
+			maximize
+		Lasttyp 13
+			6 - LED Lichtmodul
+		BAP Bitposition 13
+			42
+		Reserved 13
+			0
+		Fehlerort mittleres Byte DTC-DFCC 13
+			23
+		Lichtfunktion A 13
+			19
+		Lichtfunktion B 13
+			23
+		Dimmwert AB 13
+			127
+		Lichtansteuerung HD AB 13
+			always
+		Lichtfunktion  C 13
+			0
+		Lichtfunktion D 13
+			0
+		Dimmwert CD 13
+			0
+		Dimming Direction CD 13
+			maximize
+		Lichtfunktion E 13
+			0
+		Lichtfunktion F 13
+			0
+		Dimmwert EF 13
+			0
+		Dimming Direction EF 13
+			maximize
+		Lichtfunktion G 13
+			0
+		Lichtfunktion H 13
+			15
+		Dimmwert GH 13
+			100
+		Dimming Direction GH 13
+			maximize
+		Lasttyp 14
+			not active
+		BAP Bitposition 14
+			0
+		Reserved 14
+			0
+		Fehlerort mittleres Byte DTC-DFCC 14
+			0
+		Lichtfunktion A 14
+			0
+		Lichtfunktion B 14
+			0
+		Dimmwert AB 14
+			0
+		Lichtansteuerung HD AB 14
+			always
+		Lichtfunktion C 14
+			0
+		Lichtfunktion D 14
+			0
+		Dimmwert CD 14
+			0
+		Dimming Direction CD 14
+			maximize
+		Lichtfunktion E 14
+			0
+		Lichtfunktion F 14
+			0
+		Dimmwert EF 14
+			0
+		Dimming Direction EF 14
+			maximize
+		Lichtfunktion G 14
+			0
+		Lichtfunktion H 14
+			0
+		Dimmwert GH 14
+			0
+		Dimming Direction GH 14
+			maximize
+		Lasttyp 15
+			not active
+		BAP Bitposition 15
+			0
+		Reserved 15
+			0
+		Fehlerort mittleres Byte DTC-DFCC 15
+			0
+		Lichtfunktion A 15
+			0
+		Lichtfunktion B 15
+			0
+		Dimmwert AB 15
+			0
+		Lichtansteuerung HD AB 15
+			always
+		Lichtfunktion C 15
+			0
+		Lichtfunktion D 15
+			0
+		Dimmwert CD 15
+			0
+		Dimming Direction CD 15
+			maximize
+		Lichtfunktion E 15
+			0
+		Lichtfunktion F 15
+			0
+		Dimmwert EF 15
+			0
+		Dimming Direction EF 15
+			maximize
+		Lichtfunktion G 15
+			0
+		Lichtfunktion H 15
+			0
+		Dimmwert GH 15
+			0
+		Dimming Direction GH 15
+			maximize
+		Lasttyp 16
+			not active
+		BAP Bitposition 16
+			0
+		Reserved 16
+			0
+		Fehlerort mittleres Byte DTC-DFCC 16
+			0
+		Lichtfunktion A 16
+			0
+		Lichtfunktion B 16
+			0
+		Dimmwert AB 16
+			0
+		Lichtansteuerung HD AB 16
+			always
+		Lichtfunktion C 16
+			0
+		Lichtfunktion D 16
+			0
+		Dimmwert CD 16
+			0
+		Dimming Direction CD 16
+			maximize
+		Lichtfunktion E 16
+			0
+		Lichtfunktion F 16
+			0
+		Dimmwert EF 16
+			0
+		Dimming Direction EF 16
+			maximize
+		Lichtfunktion G 16
+			0
+		Lichtfunktion H 16
+			0
+		Dimmwert GH 16
+			0
+		Dimming Direction GH 16
+			maximize
+		Lasttyp 17
+			not active
+		BAP Bitposition 17
+			0
+		Reserved 17
+			0
+		Fehlerort mittleres Byte DTC-DFCC 17
+			0
+		Lichtfunktion A 17
+			0
+		Lichtfunktion  B 17
+			0
+		Dimmwert AB 17
+			0
+		Lichtansteuerung HD AB 17
+			always
+		Lichtfunktion C 17
+			0
+		Lichtfunktion D 17
+			0
+		Dimmwert CD 17
+			0
+		Dimming Direction CD 17
+			maximize
+		Lichtfunktion E 17
+			0
+		Lichtfunktion F 17
+			0
+		Dimmwert EF 17
+			0
+		Dimming Direction EF 17
+			maximize
+		Lichtfunktion G 17
+			0
+		Lichtfunktion H 17
+			0
+		Dimmwert GH 17
+			0
+		Dimming Direction GH 17
+			maximize
+		Lasttyp 18
+			not active
+		BAP Bitposition 18
+			0
+		Reserved 18
+			0
+		Fehlerort mittleres Byte DTC-DFCC 18
+			0
+		Lichtfunktion A 18
+			0
+		Lichtfunktion B 18
+			0
+		Dimmwert AB 18
+			0
+		Lichtansteuerung HD AB 18
+			always
+		Lichtfunktion C 18
+			0
+		Lichtfunktion D 18
+			0
+		Dimmwert CD 18
+			0
+		Dimming Direction CD 18
+			maximize
+		Lichtfunktion E 18
+			0
+		Lichtfunktion F 18
+			0
+		Dimmwert EF 18
+			0
+		Dimming Direction EF 18
+			maximize
+		Lichtfunktion G 18
+			0
+		Lichtfunktion H 18
+			0
+		Dimmwert GH 18
+			0
+		Dimming Direction GH 18
+			maximize
+		Lasttyp 19
+			not active
+		BAP Bitposition 19
+			0
+		Reserved 19
+			0
+		Fehlerort mittleres Byte DTC-DFCC 19
+			0
+		Lichtfunktion A 19
+			0
+		Lichtfunktion B 19
+			0
+		Dimmwert AB 19
+			0
+		Lichtansteuerung HD AB 19
+			always
+		Lichtfunktion C 19
+			0
+		Lichtfunktion D 19
+			0
+		Dimmwert CD 19
+			0
+		Dimming Direction CD 19
+			maximize
+		Lichtfunktion E 19
+			0
+		Lichtfunktion F 19
+			0
+		Dimmwert EF 19
+			0
+		Dimming Direction EF 19
+			maximize
+		Lichtfunktion G 19
+			0
+		Lichtfunktion H 19
+			0
+		Dimmwert GH 19
+			0
+		Dimming Direction GH 19
+			maximize
+		Lasttyp 20
+			14 - kombinierte Blink- Bremsleuchten
+		BAP Bitposition 20
+			13
+		Reserved 20
+			0
+		Fehlerort mittleres Byte DTC-DFCC 20
+			3D
+		Lichtfunktion A 20
+			24
+		Lichtfunktion B 20
+			3
+		Dimmwert AB 20
+			100
+		Lichtansteuerung HD AB 20
+			always
+		Lichtfunktion C 20
+			8
+		Lichtfunktion D 20
+			0
+		Dimmwert CD 20
+			36
+		Dimming Direction CD 20
+			maximize
+		Lichtfunktion E 20
+			2
+		Lichtfunktion F 20
+			0
+		Dimmwert EF 20
+			0
+		Dimming Direction EF 20
+			minimize
+		Lichtfunktion G 20
+			0
+		Lichtfunktion H 20
+			0
+		Dimmwert GH 20
+			0
+		Dimming Direction GH 20
+			maximize
+		Lasttyp 21
+			14 - kombinierte Blink- Bremsleuchten
+		BAP Bitposition 21
+			23
+		Reserved 21
+			0
+		Fehlerort mittleres Byte DTC-DFCC 21
+			3E
+		Lichtfunktion A 21
+			24
+		Lichtfunktion B 21
+			5
+		Dimmwert AB 21
+			100
+		Lichtansteuerung HD AB 21
+			always
+		Lichtfunktion C 21
+			8
+		Lichtfunktion D 21
+			0
+		Dimmwert CD 21
+			36
+		Dimming Direction CD 21
+			maximize
+		Lichtfunktion E 21
+			4
+		Lichtfunktion F 21
+			0
+		Dimmwert EF 21
+			0
+		Dimming Direction EF 21
+			minimize
+		Lichtfunktion G 21
+			0
+		Lichtfunktion H 21
+			0
+		Dimmwert GH 21
+			0
+		Dimming Direction GH 21
+			maximize
+		Lasttyp 22
+			42 - LED dritte Bremsleuchte
+		BAP Bitposition 22
+			29
+		Reserved 22
+			0
+		Fehlerort mittleres Byte DTC-DFCC 22
+			2C
+		Lichtfunktion A 22
+			24
+		Lichtfunktion B 22
+			0
+		Dimmwert AB 22
+			100
+		Lichtansteuerung HD AB 22
+			always
+		Lichtfunktion C 22
+			0
+		Lichtfunktion D 22
+			0
+		Dimmwert CD 22
+			0
+		Dimming Direction CD 22
+			maximize
+		Lichtfunktion E 22
+			0
+		Lichtfunktion F 22
+			0
+		Dimmwert EF 22
+			0
+		Dimming Direction EF 22
+			maximize
+		Lichtfunktion G 22
+			0
+		Lichtfunktion H 22
+			0
+		Dimmwert GH 22
+			0
+		Dimming Direction GH 22
+			maximize
+		Lasttyp 23
+			9 - allgemeine Glühlampe 27W, auch H15
+		BAP Bitposition 23
+			A
+		Reserved 23
+			0
+		Fehlerort mittleres Byte DTC-DFCC 23
+			29
+		Lichtfunktion A 23
+			24
+		Lichtfunktion B 23
+			2
+		Dimmwert AB 23
+			100
+		Lichtansteuerung HD AB 23
+			always
+		Lichtfunktion C 23
+			8
+		Lichtfunktion D 23
+			0
+		Dimmwert CD 23
+			36
+		Dimming Direction CD 23
+			maximize
+		Lichtfunktion E 23
+			3
+		Lichtfunktion F 23
+			0
+		Dimmwert EF 23
+			0
+		Dimming Direction EF 23
+			minimize
+		Lichtfunktion G 23
+			0
+		Lichtfunktion H 23
+			0
+		Dimmwert GH 23
+			0
+		Dimming Direction GH 23
+			maximize
+		Lasttyp 24
+			9 - allgemeine Glühlampe 27W, auch H15
+		BAP Bitposition 24
+			1A
+		Reserved 24
+			0
+		Fehlerort mittleres Byte DTC-DFCC 24
+			2A
+		Lichtfunktion A 24
+			24
+		Lichtfunktion B 24
+			4
+		Dimmwert AB 24
+			100
+		Lichtansteuerung HD AB 24
+			always
+		Lichtfunktion C 24
+			8
+		Lichtfunktion D 24
+			0
+		Dimmwert CD 24
+			36
+		Dimming Direction CD 24
+			maximize
+		Lichtfunktion E 24
+			5
+		Lichtfunktion F 24
+			0
+		Dimmwert EF 24
+			0
+		Dimming Direction EF 24
+			minimize
+		Lichtfunktion G 24
+			0
+		Lichtfunktion H 24
+			0
+		Dimmwert GH 24
+			0
+		Dimming Direction GH 24
+			maximize
+		Lasttyp 25
+			18 - 2* 5W
+		BAP Bitposition 25
+			28
+		Reserved 25
+			0
+		Fehlerort mittleres Byte DTC-DFCC 25
+			30
+		Lichtfunktion A 25
+			8
+		Lichtfunktion B 25
+			0
+		Dimmwert AB 25
+			100
+		Lichtansteuerung HD AB 25
+			always
+		Lichtfunktion C 25
+			0
+		Lichtfunktion D 25
+			0
+		Dimmwert CD 25
+			0
+		Dimming Direction CD 25
+			maximize
+		Lichtfunktion E 25
+			0
+		Lichtfunktion F 25
+			0
+		Dimmwert EF 25
+			0
+		Dimming Direction EF 25
+			maximize
+		Lichtfunktion G 25
+			0
+		Lichtfunktion H 25
+			0
+		Dimmwert GH 25
+			0
+		Dimming Direction GH 25
+			maximize
+		Lasttyp 26
+			not active
+		BAP Bitposition 26
+			0
+		Reserved 26
+			0
+		Fehlerort mittleres Byte DTC-DFCC 26
+			0
+		Lichtfunktion A 26
+			0
+		Lichtfunktion B 26
+			0
+		Dimmwert AB 26
+			0
+		Lichtansteuerung HD AB 26
+			always
+		Lichtfunktion C 26
+			0
+		Lichtfunktion D 26
+			0
+		Dimmwert CD 26
+			0
+		Dimming Direction CD 26
+			maximize
+		Lichtfunktion E 26
+			0
+		Lichtfunktion F 26
+			0
+		Dimmwert EF 26
+			0
+		Dimming Direction EF 26
+			maximize
+		Lichtfunktion G 26
+			0
+		Lichtfunktion H 26
+			0
+		Dimmwert GH 26
+			0
+		Dimming Direction GH 26
+			maximize
+		Lasttyp 27
+			36 - LED Kleinleistung
+		BAP Bitposition 27
+			0
+		Reserved 27
+			0
+		Fehlerort mittleres Byte DTC-DFCC 27
+			47
+		Lichtfunktion A 27
+			8
+		Lichtfunktion B 27
+			0
+		Dimmwert AB 27
+			127
+		Lichtansteuerung HD AB 27
+			always
+		Lichtfunktion C 27
+			0
+		Lichtfunktion D 27
+			0
+		Dimmwert CD 27
+			0
+		Dimming Direction CD 27
+			maximize
+		Lichtfunktion E 27
+			0
+		Lichtfunktion F 27
+			0
+		Dimmwert EF 27
+			0
+		Dimming Direction EF 27
+			maximize
+		Lichtfunktion G 27
+			0
+		Lichtfunktion H 27
+			0
+		Dimmwert GH 27
+			0
+		Dimming Direction GH 27
+			maximize
+		Lasttyp 28
+			9 - allgemeine Glühlampe 27W, auch H15
+		BAP Bitposition 28
+			B
+		Reserved 28
+			0
+		Fehlerort mittleres Byte DTC-DFCC 28
+			31
+		Lichtfunktion A 28
+			25
+		Lichtfunktion B 28
+			0
+		Dimmwert AB 28
+			100
+		Lichtansteuerung HD AB 28
+			always
+		Lichtfunktion C 28
+			0
+		Lichtfunktion D 28
+			0
+		Dimmwert CD 28
+			0
+		Dimming Direction CD 28
+			maximize
+		Lichtfunktion E 28
+			0
+		Lichtfunktion F 28
+			0
+		Dimmwert EF 28
+			0
+		Dimming Direction EF 28
+			maximize
+		Lichtfunktion G 28
+			0
+		Lichtfunktion H 28
+			0
+		Dimmwert GH 28
+			0
+		Dimming Direction GH 28
+			maximize
+		Lasttyp 29
+			9 - allgemeine Glühlampe 27W, auch H15
+		BAP Bitposition 29
+			1B
+		Reserved 29
+			0
+		Fehlerort mittleres Byte DTC-DFCC 29
+			32
+		Lichtfunktion A 29
+			25
+		Lichtfunktion B 29
+			0
+		Dimmwert AB 29
+			100
+		Lichtfunktion C 29
+			0
+		Lichtansteuerung HD AB 29
+			always
+		Lichtfunktion D 29
+			0
+		Dimmwert CD 29
+			0
+		Dimming Direction CD 29
+			maximize
+		Lichtfunktion E 29
+			0
+		Lichtfunktion F 29
+			0
+		Dimmwert EF 29
+			0
+		Dimming Direction EF 29
+			maximize
+		Lichtfunktion G 29
+			0
+		Lichtfunktion H 29
+			0
+		Dimmwert GH 29
+			0
+		Dimming Direction GH 29
+			maximize
+		Lasttyp 30
+			36 - LED Kleinleistung
+		BAP Bitposition 30
+			0
+		Reserved 30
+			0
+		Fehlerort mittleres Byte DTC-DFCC 30
+			2
+		Lichtfunktion A 30
+			43
+		Lichtfunktion B 30
+			0
+		Dimmwert AB 30
+			100
+		Lichtansteuerung HD AB 30
+			always
+		Lichtfunktion C 30
+			2
+		Lichtfunktion D 30
+			4
+		Dimmwert CD 30
+			100
+		Dimming Direction CD 30
+			maximize
+		Lichtfunktion E 30
+			3
+		Lichtfunktion F 30
+			5
+		Dimmwert EF 30
+			0
+		Dimming Direction EF 30
+			minimize
+		Lichtfunktion G 30
+			0
+		Lichtfunktion H 30
+			0
+		Dimmwert GH 30
+			0
+		Dimming Direction GH 30
+			maximize
+		Lasttyp 31
+			not active
+		BAP Bitposition 31
+			0
+		Reserved 31
+			0
+		Fehlerort mittleres Byte DTC-DFCC 31
+			0
+		Lichtfunktion A 31
+			0
+		Lichtfunktion B 31
+			0
+		Dimmwert AB 31
+			0
+		Lichtansteuerung HD AB 31
+			always
+		Lichtfunktion C 31
+			0
+		Lichtfunktion D 31
+			0
+		Dimmwert CD 31
+			0
+		Dimming Direction CD 31
+			maximize
+		Lichtfunktion E 31
+			0
+		Lichtfunktion F 31
+			0
+		Dimmwert EF 31
+			0
+		Dimming Direction EF 31
+			maximize
+		Lichtfunktion G 31
+			0
+		Lichtfunktion H 31
+			0
+		Dimmwert GH 31
+			0
+		Dimming Direction GH 31
+			maximize
+		Lasttyp 32
+			not active
+		BAP Bitposition 32
+			0
+		Reserved 32
+			0
+		Fehlerort mittleres Byte DTC-DFCC 32
+			0
+		Lichtfunktion A 32
+			0
+		Lichtfunktion B 32
+			0
+		Dimmwert AB 32
+			0
+		Lichtansteuerung HD AB 32
+			always
+		Lichtfunktion C 32
+			0
+		Lichtfunktion D 32
+			0
+		Dimmwert CD 32
+			0
+		Dimming Direction CD 32
+			maximize
+		Lichtfunktion E 32
+			0
+		Lichtfunktion F 32
+			0
+		Dimmwert EF 32
+			0
+		Dimming Direction EF 32
+			maximize
+		Lichtfunktion G 32
+			0
+		Lichtfunktion H 32
+			0
+		Dimmwert GH 32
+			0
+		Dimming Direction GH 32
+			maximize
+		Lasttyp 33
+			not active
+		BAP Bitposition 33
+			0
+		Reserved 33
+			0
+		Fehlerort mittleres Byte DTC-DFCC 33
+			0
+		Lichtfunktion A 33
+			0
+		Lichtfunktion B 33
+			0
+		Dimmwert AB 33
+			0
+		Lichtansteuerung HD AB 33
+			always
+		Lichtfunktion C 33
+			0
+		Lichtfunktion D 33
+			0
+		Dimmwert CD 33
+			0
+		Dimming Direction CD 33
+			maximize
+		Lichtfunktion E 33
+			0
+		Lichtfunktion F 33
+			0
+		Dimmwert EF 33
+			0
+		Dimming Direction EF 33
+			maximize
+		Lichtfunktion G 33
+			0
+		Lichtfunktion H 33
+			0
+		Dimmwert GH 33
+			0
+		Dimming Direction GH 33
+			maximize
+		Lasttyp 34
+			not active
+		BAP Bitposition 34
+			0
+		Reserved 34
+			0
+		Fehlerort mittleres Byte DTC-DFCC 34
+			0
+		Lichtfunktion A 34
+			0
+		Lichtfunktion B 34
+			0
+		Dimmwert AB 34
+			0
+		Lichtansteuerung HD AB 34
+			always
+		Lichtfunktion C 34
+			0
+		Lichtfunktion D 34
+			0
+		Dimmwert CD 34
+			0
+		Dimming Direction CD 34
+			maximize
+		Lichtfunktion E 34
+			0
+		Lichtfunktion F 34
+			0
+		Dimmwert EF 34
+			0
+		Dimming Direction EF 34
+			maximize
+		Lichtfunktion G 34
+			0
+		Lichtfunktion H 34
+			0
+		Dimmwert GH 34
+			0
+		Dimming Direction GH 34
+			maximize
+	
+	Vernetzungs- Diagnosefunktionen	
+		can msg 1
+			0
+		can msg 2
+			0
+		can msg 3
+			0
+		can msg 4
+			0
+		lin msg 1
+			0
+		lin msg 2
+			0
+		lin msg 3
+			0
+		lin msg 4
+			0
+		lin msg 5
+			0
+		lin msg 6
+			0
+	
+	Comfort illumination	
+		Coming Home Verbaustatus
+			Not present
+		Menuesteuerung Coming Home Werkseinstellung
+			not active
+		Menueeinstellung Cominghome
+			not active
+		Coming home Leuchten
+			Low beam
+		Coming-home Einschaltereignis
+			ignition
+		Helligkeitsschwelle Infrarot-Messung
+			0 lx
+		Leaving-Home Verbausstatus
+			not enabled
+		Menuesteuerung Leaving-home Freischaltung per BAP
+			not active
+		Menueeinstellung Leaving-home Zeit per BAP
+			not active
+		Helligkeitsschwelle Forward-Messung
+			0 lx
+	
+	Seat heater level current consumption allocation	
+		Sitzheizung Stufe 1 untere Schaltschwelle
+			21.50 °C
+		Sitzheizung Stufe 1 obere Schaltschwelle
+			22.50 °C
+		Sitzheizung Stufe 2 untere Schaltschwelle
+			21.50 °C
+		Sitzheizung Stufe 2 obere Schaltschwelle
+			22.50 °C
+		Sitzheizung Stufe 3 untere Schaltschwelle
+			33.00 °C
+		Sitzheizung Stufe 3 obere Schaltschwelle
+			35.00 °C
+		Sitzheizung Stufe 4 untere Schaltschwelle
+			33.00 °C
+		Sitzheizung Stufe 4 obere Schaltschwelle
+			35.00 °C
+		Sitzheizung Stufe 5 untere Schaltschwelle
+			50.00 °C
+		Sitzheizung Stufe 5 obere Schaltschwelle
+			51.00 °C
+		Sitzheizung Stufe 6 untere Schaltschwelle
+			50.00 °C
+		Sitzheizung Stufe 6 obere Schaltschwelle
+			51.00 °C
+		Sitzheizung Filterkonstante fuer Waermefluss
+			1 s
+		Sitzheizung Regeltemperaturkorrektur bei Waermefluss
+			0.00 °C
+	
+	Innenbeleuchtung KL 58xs max	
+		x0
+			0 lx
+		x1
+			8 lx
+		x2
+			50 lx
+		x3
+			500 lx
+		y0
+			100.00
+		y1
+			100.00
+		y2
+			100.00
+		y3
+			100.00
+	
+	Innenbeleuchtung KL 58xt min	
+		x0
+			0 lx
+		x1
+			8 lx
+		x2
+			50 lx
+		x3
+			500 lx
+		y0
+			6.00
+		y1
+			6.00
+		y2
+			100.00
+		y3
+			100.00
+	
+	Innenbeleuchtung KL 58xt max	
+		x0
+			0 lx
+		x1
+			8 lx
+		x2
+			50 lx
+		x3
+			500 lx
+		y0
+			100.00
+		y1
+			100.00
+		y2
+			100.00
+		y3
+			100.00
+	
+	Innenbeleuchtung KL 58xd log Bus	
+		x0
+			0.00 %
+		x1
+			6.00 %
+		x2
+			16.00 %
+		x3
+			30.00 %
+		x4
+			60.00 %
+		x5
+			100.00 %
+		y0
+			10
+		y1
+			10
+		y2
+			100
+		y3
+			150
+		y4
+			220
+		y5
+			253
+	
+	Innenbeleuchtung KL 58xd max	
+		x0
+			0 lx
+		x1
+			8 lx
+		x2
+			200 lx
+		x3
+			300 lx
+		x4
+			500 lx
+		y0
+			16.00
+		y1
+			16.00
+		y2
+			100.00
+		y3
+			100.00
+		y4
+			100.00
+	
+	Innenbeleuchtung KL 58xs PWM	
+		x0
+			0.00 %
+		x1
+			50.00 %
+		x2
+			100.00 %
+		y0
+			0.00 %
+		y1
+			50.00 %
+		y2
+			100.00 %
+	
+	Innenbeleuchtung KL 58xd PWM	
+		x0
+			0
+		x1
+			10
+		x2
+			50
+		x3
+			100
+		x4
+			220
+		x5
+			253
+		y0
+			2.00 %
+		y1
+			2.00 %
+		y2
+			6.00 %
+		y3
+			10.00 %
+		y4
+			80.00 %
+		y5
+			100.00 %
+	
+	Innenbeleuchtung KL 58xt PWM	
+		x0
+			0.00 %
+		x1
+			50.00 %
+		x2
+			100.00 %
+		y0
+			0.00 %
+		y1
+			50.00 %
+		y2
+			100.00 %
+	
+	Rear Window Wiper	
+		Komfortwischen Heck
+			active
+		Menuesteuerung Komfortwischen HW
+			active
+		Automatisches Heckwischen
+			not active
+		Traenenwischen Heck
+			active
+		Heckwischer Weiterlauf
+			not active
+		Kein automatisches Abparken
+			not active
+		Komofortwischen Heck Intervallpausenzeit Stufe Intervall
+			7 s
+		Komofortwischen Heck Intervallpausenzeit Stufe Automatik
+			7 s
+		Komofortwischen Heck Intervallpausenzeit Stufe 1
+			5 s
+		Komofortwischen Heck Intervallpausenzeit Stufe 2
+			3 s
+		Einzelansteuerung Heckintervallwischen Zeitintervall 1
+			0 s
+		Einzelansteuerung Heckintervallwischen Zeitintervall 2
+			0.0 s
+		Einzelansteuerung Heckintervallwischen
+			not active
+	
+	upper turn position	
+		---
+			170.49 °
+	
+	lower turn position	
+		---
+			31.49 °
+	
+	Position during interval mode	
+		---
+			31.49 °
+	
+	Alternating park position 1	
+		---
+			7.49 °
+	
+	Alternating park position 2	
+		---
+			29.49 °
+	
+	Service position	
+		---
+			170.49 °
+	
+	Innenbeleuchtung Tasterdimmung	
+		tasterdimmung x0
+			0 ms
+		tasterdimmung x1
+			100 ms
+		tasterdimmung x2
+			160 ms
+		tasterdimmung x3
+			200 ms
+		tasterdimmung x4
+			260 ms
+		tasterdimmung y0
+			1.00 %
+		tasterdimmung y1
+			5.00
+		tasterdimmung y2
+			15.00
+		tasterdimmung y3
+			10.00
+		tasterdimmung y4
+			100.00
+	
+	Innenbeleuchtung Hochdimmen	
+		x0
+			0 ms
+		x1
+			200 ms
+		x2
+			400 ms
+		x3
+			600 ms
+		x4
+			800 ms
+		x5
+			1000 ms
+		x6
+			1200 ms
+		x7
+			1400 ms
+		x8
+			1600 ms
+		x9
+			1800 ms
+		x10
+			2000 ms
+		y0
+			0.00 %
+		y1
+			1.00 %
+		y2
+			3.00 %
+		y3
+			5.00 %
+		y4
+			11.00 %
+		y5
+			22.00 %
+		y6
+			40.00 %
+		y7
+			80.00 %
+		y8
+			95.00 %
+		y9
+			100.00 %
+		y10
+			100.00 %
+	
+	Innenbeleuchtung Fotosensor	
+		x0
+			0
+		x1
+			50
+		x2
+			100
+		x3
+			200
+		x4
+			253
+		x5
+			0
+		x6
+			0
+		x7
+			0
+		x8
+			0
+		x9
+			0
+		x10
+			0
+		y0
+			0 lx
+		y1
+			50 lx
+		y2
+			100 lx
+		y3
+			200
+		y4
+			500
+		y5
+			0
+		y6
+			0 lx
+		y7
+			0 lx
+		y8
+			0 lx
+		y9
+			0 lx
+		y10
+			0 lx
+	
+	Innenbeleuchtung KL 58xs min	
+		x0
+			0 lx
+		x1
+			8 lx
+		x2
+			50 lx
+		x3
+			500 lx
+		y0
+			6.00
+		y1
+			6.00
+		y2
+			100.00
+		y3
+			100.00
+	
+	Innenbeleuchtung KL 58xd min	
+		x0
+			0 lx
+		x1
+			8 lx
+		x2
+			220 lx
+		x3
+			300 lx
+		x4
+			500 lx
+		y0
+			6.00
+		y1
+			6.00
+		y2
+			100.00
+		y3
+			100.00
+		y4
+			100.00
+	
+	Innenbeleuchtung Abdimmen	
+		x0
+			0 ms
+		x1
+			200 ms
+		x2
+			400 ms
+		x3
+			600 ms
+		x4
+			800 ms
+		x5
+			1000 ms
+		x6
+			1200 ms
+		x7
+			1400 ms
+		x8
+			1600 ms
+		x9
+			1800 ms
+		x10
+			2000 ms
+		y0
+			100.00 %
+		y1
+			72.00 %
+		y2
+			48.00 %
+		y3
+			33.00 %
+		y4
+			18.00 %
+		y5
+			12.00 %
+		y6
+			8.00 %
+		y7
+			6.00 %
+		y8
+			4.00 %
+		y9
+			2.00 %
+		y10
+			0.00 %
+	
+	Static AFS light	
+		bei Rueckwaertsfahrt
+			both sides
+		Vorschrift
+			ECE R119
+		Untere Geschwindigkeitsschwelle
+			0.00 km/h
+		Obere Geschwindigkeitsschwelle
+			40.00 km/h
+		Steering wheel angle, offset
+			-63.75 °
+		Unterer Lenkradwinkel
+			180 °
+		Oberer Lenkradwinkel
+			120 °
+		Abdimmgeschwindigkeit
+			50.00 %/s
+		Maximaltemperatur
+			100.00 °C
+		obere Grenztemperatur
+			95.00 °C
+		untere Grenztemperatur
+			80.00 °C
+	
+	Assistance light functions	
+		Notbremsanzeige NBA
+			not active
+		Menuesteuerung Fernlichtassistent
+			Not present
+		Fernlichtassistent Zeitverzoegerungswert
+			0 ms
+		Umfeldleuchte als Manoevrierleuchte
+			not active
+		Fernlichtassistent Reset
+			not active
+		Menuesteuerung Fernlichtassistent Werkseinstellung
+			Present
+		Assistenzfahrlicht bei Regen
+			active
+		Fahrlichtwarnung Hinweis Konfig
+			kein Hinweis
+		LS Error Ausgabe
+			not active
+		AFL Zeitverzoegerung
+			0 ms
+		Lichtsensorempfindlichkeit
+			sensitive
+		Fahrlicht Hinweis mehrfach
+			not active
+	
+	Ambient lighting	
+		Defaultwert Ambienteprofil Fussraum
+			80 %
+		Defaultwert Ambienteprofil Tuer
+			80 %
+		Defaultwert Ambienteprofil Vorn
+			80 %
+		Tuerinnengriffbeleuchtung mit I-Tafel
+			not installed
+		Tuerinnengriff mit Tuertafel
+			not installed
+		Innenlichtinszenierung
+			not enabled
+	
+	Roller test bench mode, functional	
+		---
+			not active
+	
+	LuB Lichtrouter Kennlinie 1	
+		x0
+			0.00 %
+		x1
+			5.00 %
+		x2
+			50.00 %
+		x3
+			75.00 %
+		x4
+			110.00
+		x5
+			126.50
+		y0
+			0.00 %
+		y1
+			6.00 %
+		y2
+			16.00 %
+		y3
+			30.00 %
+		y4
+			60.00 %
+		y5
+			100.00 %
+	
+	Activating and deactivating all development messages	
+		---
+			not active
+	
+	Characteristics in production mode	
+		Headlamp washer system
+			2000 ms
+	
+	Kopfraumheizung	
+		blower speed
+			1
+		temperature
+			-2
+	
+	Access control 3	
+		Komfortbedienung Verdeck global
+			active
+		Komfortbedienung Verdeck oeffnen
+			active
+		Komfortbedienung Verdeck schliessen
+			active
+		Verdeck oeffnen via Schliesszylinder
+			active
+		Verdeck schliessen via Schliesszylinder
+			active
+		Verdeck oeffnen via Funkfernbedienung
+			active
+		Verdeck schliessen via Funkfernbedienung
+			active
+		Verdeck oeffnen via Kessy
+			active
+		Verdeck schliessen via Kessy
+			active
+		Doppelpuls nur Verdeck
+			active
+		Verdeck mit Schiebedach
+			not active
+		Heckdeckel sperren bei Verdeckbetrieb
+			not active
+		Heckschloss oeffnen durch Verdeck-SG
+			not active
+		Reichweitenbegrenzung fuer Servoheck schliessen
+			not active
+		ZV verriegeln bei Klemme 15 Ein
+			not active
+		Remote Lock Unlock Timer s1
+			0 s
+		Remote Lock Unlock Timer s3
+			0.000 ms
+	
+	After-run for park light	
+		Bedingungen zur Beendigung des Standlichtnachlaufs
+			abschalten nach der Nachlaufzeit
+		Standlicht-Nachlaufzeit
+			30 min
+		Bedingungen zur Standlichtbegrenzung
+			begrenzen auf Mindestverfügbarkeit
+		Bedingungen zur Parklichtbegrenzung
+			begrenzen auf Mindestverfügbarkeit
+		Faktor fuer Verfügbarkeitstimer
+			Faktor fuer x5 Minuten
+		Standlicht-Verfügbarkeit
+			6 s
+	
+	Energy management	
+		Energy Management Adaptation
+			Energy management active
+		Praediktives Energiemanagement
+			not active
+	
+	Dyn. turn signal modes	
+		Schluessel Anlern Blinken
+			not active
+		UGDO  Anlern Blinken
+			not active
+		ZV Blinken zu
+			not active
+		ZV Blinken auf
+			not active
+		Telematikblinken1 STS Blinken Telematikblinken2 OCU Blinken
+			not active
+		DWA Schaerfungsquittung
+			not active
+		DWA Alarm Blinken
+			not active
+		Taxialarmblinken
+			not active
+		Panikblinken
+			not active
+		Multi kollisions Blinken
+			not active
+		Notwarn blinken NBA Phase 2
+			not active
+		Richtungs blinken rechts
+			not active
+		Richtungs blinken links
+			not active
+		ABBA Blinken
+			not active
+		Crashblinken
+			not active
+		Warnblinken Zuendung EIN
+			not active
+		Warnblinken Zuendung AUS
+			not active
+		Emergency alert blinken
+			not active
+	
+	Interior lighting	
+		Innenlicht bei offenem Heckdeckel einschalten
+			not active
+		KL30G ohne PWM
+			not active
+		KL58 Einschalten mit Rampe
+			not active
+		KL58 Verriegelungsausschalten
+			not active
+		Lichtsensor wirkt auf Suchbeleuchtung
+			active
+		Suchbeleuchtung Festwert
+			100 %
+	
+	Int. light, 2nd generation	
+		Aufloesung Dimmzeit
+			0.10 s
+		weicher Farbwechsel
+			not active
+		Tuertafelbeleuchtung mehrfarbig
+			not active
+		Instrumententafelbeleuchtung mehrfarbig
+			not active
+		Cockpitbeleuchtung mehrfarbig
+			not active
+		Lautsprecherbeleuchtung mehrfarbig
+			not active
+		Mittelkonsolenbeleuchtung mehrfarbig
+			not active
+		Dachbeleuchtung mehrfarbig
+			not active
+		Panoramaschiebedachbeleuchtung mehrfarbig
+			not active
+		Panoramaschiebedachbeleuchtung bei geoeffnetem Rollo deaktivieren
+			not active
+		BAP Farbwert Farbe 1
+			0
+		BAP Farbwert Farbe 2
+			0
+		BAP Farbwert Farbe 3
+			0
+		Defaultwert Ambienteprofil Mittelkonsole
+			80 %
+		Defaultwert Ambienteprofil Dach
+			80 %
+		Defaultwert Ambienteprofil Farbe
+			0
+		Helligkeit Tuertafelbeleuchtung nicht berechnen
+			not active
+		Helligkeit Instrumententafelbeleuchtung nicht berechnen
+			active
+		Helligkeit Cockpitbeleuchtung nicht berechnen
+			active
+		Helligkeit Lautsprecherbeleuchtung nicht berechnen
+			active
+		Helligkeit Mittelkonsolenbeleuchtung nicht berechnen
+			active
+		Helligkeit Dachbeleuchtung nicht berechnen
+			active
+		Helligkeit Panoramaschiebedachbeleuchtung nicht berechnen
+			active
+		Farbausgabe Tuertafelbeleuchtung nicht berechnen
+			active
+		Farbausgabe Instrumententafelbeleuchtung nicht berechnen
+			active
+		Farbausgabe Cockpitbeleuchtung nicht berechnen
+			active
+		Farbausgabe Lautsprecherbeleuchtung nicht berechnen
+			active
+		Farbausgabe Mittelkonsolenbeleuchtung nicht berechnen
+			active
+		Farbausgabe Dachbeleuchtung nicht berechnen
+			active
+		Farbausgabe Panoramaschiebedachbeleuchtung nicht berechnen
+			active
+		Rotwert Farbe 1
+			225
+		Gruenwert Farbe 1
+			225
+		Blauwert Farbe 1
+			225
+		Rotwert Farbe 2
+			225
+		Gruenwert Farbe 2
+			225
+		Blauwert Farbe 2
+			225
+		Rotwert Farbe 3
+			225
+		Gruenwert Farbe 3
+			225
+		Blauwert Farbe 3
+			225
+	
+	Interior light, light configuration	
+		Ambiente Applikationsleisten in Tuertafel
+			installed
+		Ambiente Lautsprecher
+			not installed
+		Ambiente Applikationsleisten in Instrumententafel
+			not installed
+		Cockpitbeleuchtung
+			not installed
+		Mittelkonsolenbeleuchtung
+			not installed
+		Dachbeleuchtung
+			not installed
+		Panoramaschiebedachbeleuchtung
+			not installed
+		Fussraumbeleuchtung
+			installed
+		Farbwahl ueber HMI
+			not installed
+		Farbwahl ueber Fahrprofil
+			not installed
+		LIN-Dachkonsole lokal aktivierbar
+			not active
+		Ambientemenue mit globalem aus
+			not active
+		Ambientemenue mit alle Zonen
+			not active
+		Ambient Farbliste HMI
+			not active
+		Frei Farbwahl ueber HMI
+			not active
+	
+	Seat fan charac. curve	
+		Level 1 Sitz
+			25 %
+		Level 1 Lehne
+			30 %
+		Level 2 Sitz
+			25 %
+		Level 2 Lehne
+			30 %
+		Level 3 Sitz
+			53 %
+		Level 3 Lehne
+			58 %
+		Level 4 Sitz
+			53 %
+		Level 4 Lehne
+			58 %
+		Level 5 Sitz
+			80 %
+		Level 5 Lehne
+			85 %
+		Level 6 Sitz
+			80 %
+		Level 6 Lehne
+			85 %
+	
+	Window heater	
+		Temperaturabhaengige Einschaltzeit HSH
+			active
+		Temperaturabhaengige Einschaltzeit FSH
+			active
+		FSH Automatik
+			active
+		Heckscheibenheizung Zeitwert
+			320 s
+		Running time of heated front window
+			240 s
+		Abschalttemperatur fuer Heckscheibenheizung
+			35.00 °C
+		Abschalttemperatur fuer Frontscheibenheizung
+			35.00 °C
+	
+	debug_light_function	
+		Adresse
+			0
+		Bitmask
+			0
+		Offset
+			0
+		Divisor
+			0
+		Polaritaet
+			0
+		Aktivierung
+			0
+		WBT-Ausgabe
+			0
+	
+	LIN-Mirrormode	
+		mirror mode typ
+			not active
+		Data bus LIN 1
+			active
+		Data bus LIN 2
+			active
+		Data bus LIN 3
+			active
+		Data bus LIN 4
+			active
+		Data bus LIN 5
+			active
+		Data bus LIN 6
+			active
+	
+	ambient_lighting_lin_slaves_groups	
+		pa verbauinfo gruppe 1
+			not installed
+		pa lichtfunktion gruppe 1
+			Door
+		pa korrekturfaktor gruppe 1
+			1.00
+		pa verbauinfo gruppe 2
+			not installed
+		pa lichtfunktion gruppe 2
+			Door
+		pa korrekturfaktor gruppe 2
+			1.00
+		pa verbauinfo gruppe 3
+			not installed
+		pa lichtfunktion gruppe 3
+			Door
+		pa korrekturfaktor gruppe 3
+			1.00
+		pa verbauinfo gruppe 4
+			not installed
+		pa lichtfunktion gruppe 4
+			Door
+		pa korrekturfaktor gruppe 4
+			1.00
+		pa verbauinfo gruppe 5
+			not installed
+		pa lichtfunktion gruppe 5
+			Door
+		pa korrekturfaktor gruppe 5
+			1.00
+		pa verbauinfo gruppe 6
+			not installed
+		pa lichtfunktion gruppe 6
+			Door
+		pa korrekturfaktor gruppe 6
+			1.00
+		pa verbauinfo gruppe 7
+			not installed
+		pa lichtfunktion gruppe 7
+			Door
+		pa korrekturfaktor gruppe 7
+			1.00
+		pa verbauinfo gruppe 8
+			not installed
+		pa lichtfunktion gruppe 8
+			Door
+		pa korrekturfaktor gruppe 8
+			1.00
+		pa verbauinfo gruppe 9
+			not installed
+		pa lichtfunktion gruppe 9
+			Door
+		pa korrekturfaktor gruppe 9
+			1.00
+		pa verbauinfo gruppe 10
+			not installed
+		pa lichtfunktion gruppe 10
+			Door
+		pa korrekturfaktor gruppe 10
+			1.00
+		pa verbauinfo gruppe 11
+			not installed
+		pa lichtfunktion gruppe 11
+			Door
+		pa korrekturfaktor gruppe 11
+			1.00
+		pa verbauinfo gruppe 12
+			not installed
+		pa lichtfunktion gruppe 12
+			Door
+		pa korrekturfaktor gruppe 12
+			1.00
+		pa verbauinfo gruppe 13
+			not installed
+		pa lichtfunktion gruppe 13
+			Door
+		pa korrekturfaktor gruppe 13
+			1.00
+		pa verbauinfo gruppe 14
+			not installed
+		pa lichtfunktion gruppe 14
+			Door
+		pa korrekturfaktor gruppe 14
+			1.00
+		pa verbauinfo gruppe 15
+			not installed
+		pa lichtfunktion gruppe 15
+			Door
+		pa korrekturfaktor gruppe 15
+			1.00
+	
+	Personalisierung	
+		Personalisierung aktiv
+			active
+		Aktivierungsoption im HMI-Menue sichtbar
+			active
+		Benutzerkontenverwaltung in HMI-Menue sichtbar
+			active
+		Personalisierungsfunktionen in HMI-Menue sichtbar
+			active
+		Anzahl Benutzerkonten
+			4
+		Automatische  Schluesselzuordnung
+			active
+		PSO FSG Setup2 Bit 0
+			active
+		PSO FSG Setup2 Bit 1
+			active
+		PSO FSG Setup2 Bit 2
+			active
+		PSO FSG Setup2 Bit 3
+			active
+		PSO FSG Setup2 Bit 4
+			active
+		PSO FSG Setup2 Bit 5
+			active
+		PSO FSG Setup2 Bit 6
+			active
+		PSO FSG Setup2 Bit 7
+			active
+	
+	Daytime running lights	
+		Scheinwerferferreinigungsansteuerung und Abblendlichtanzeige bei Dauerfahrlicht
+			not active
+		Werkseinstellung fuer Tagfahrlicht Freischaltung BAP / Bedienfolge
+			active
+		Standlicht aktiviert zusaetzlich Tagfahrlicht
+			active
+		Tagfahrlicht Dauerfahrlicht bei Handbremse abschalten
+			active
+		Tagfahrlicht-Dauerfahrlicht aktiviert zusaetzlich Standlicht
+			not active
+		Tagfahrlichtkontrollleuchte
+			not active
+		Fahrlicht bei Tag
+			Daytime running lights
+		Tagfahrlicht Aktivierung durch BAP oder Bedienfolge moeglich
+			active
+		Tagfahrlicht nur in Schalterstellung AUTO
+			not active
+	
+	Remote_Start_Adaption	
+		Rueckmeldung bei Aktivierung
+			active
+		Kombi Fahrerhinweis m Uebernahme RSt
+			active
+	
+	Leuchte 0 BLK VL B36	
+		Lasttyp 0
+			12 - Blinkleuchten
+		Lampendefektbit Position 0
+			34
+		Fehlerort mittleres Byte DTC-DFCC 0
+			14
+		Lichtfunktion A 0
+			Blinken links Hellphase
+		Lichtfunktion B 0
+			nicht aktiv
+		Dimmwert AB 0
+			100
+		Lichtansteuerung HD AB 0
+			always
+		Lichtfunktion C 0
+			nicht aktiv
+		Lichtfunktion D 0
+			nicht aktiv
+		Dimmwert CD 0
+			0
+		Dimming Direction CD 0
+			maximize
+		Lichtfunktion E 0
+			nicht aktiv
+		Lichtfunktion F 0
+			nicht aktiv
+		Dimmwert EF 0
+			0
+		Dimming Direction EF 0
+			maximize
+		Lichtfunktion H 0
+			nicht aktiv
+		Dimmwert GH 0
+			0
+		Dimming Direction GH 0
+			maximize
+		Lichtfunktion G 0
+			nicht aktiv
+	
+	Leuchte1BLK VRB20	
+		Lasttyp 1
+			12 - Blinkleuchten
+		Lampendefektbitposition 1
+			3E
+		Fehlerort mittleres Byte DTC-DFCC 1
+			15
+		Lichtfunktion A 1
+			Blinken rechts Hellphase
+		Lichtfunktion B 1
+			nicht aktiv
+		Dimmwert AB 1
+			100
+		Lichtansteuerung HD AB 1
+			always
+		Lichtfunktion C 1
+			nicht aktiv
+		Lichtfunktion D 1
+			nicht aktiv
+		Dimmwert CD 1
+			0
+		Dimming Direction CD 1
+			maximize
+		Lichtfunktion E 1
+			nicht aktiv
+		Lichtfunktion F 1
+			nicht aktiv
+		Dimmwert EF 1
+			0
+		Dimming Direction EF 1
+			maximize
+		Lichtfunktion G 1
+			nicht aktiv
+		Lichtfunktion H 1
+			nicht aktiv
+		Dimmwert GH 1
+			0
+		Dimming Direction GH 1
+			maximize
+	
+	Leuchte2SL VLB10	
+		Lasttyp 2
+			8 - allgemeine Glühlampe 12W
+		Lampendefektbitposition 2
+			0
+		Fehlerort mittleres Byte DTC-DFCC 2
+			45
+		Lichtfunktion A 2
+			Standlicht allgemein (Schlusslicht, Positionslicht, Begrenzungslicht)
+		Lichtfunktion B 2
+			Abblendlicht links
+		Dimmwert AB 2
+			100
+		Lichtansteuerung HD AB 2
+			always
+		Lichtfunktion C 2
+			nicht aktiv
+		Lichtfunktion D 2
+			nicht aktiv
+		Dimmwert CD 2
+			0
+		Dimming Direction CD 2
+			maximize
+		Lichtfunktion E 2
+			nicht aktiv
+		Lichtfunktion F 2
+			nicht aktiv
+		Dimmwert EF 2
+			0
+		Dimming Direction EF 2
+			maximize
+		Lichtfunktion G 2
+			nicht aktiv
+		Lichtfunktion H 2
+			nicht aktiv
+		Dimmwert GH 2
+			0
+		Dimming Direction GH 2
+			maximize
+	
+	Leuchte3SL VRB21	
+		Lasttyp 3
+			8 - allgemeine Glühlampe 12W
+		Lampendefektbitposition 3
+			0
+		Fehlerort mittleres Byte DTC-DFCC 3
+			46
+		Lichtfunktion A 3
+			Standlicht allgemein (Schlusslicht, Positionslicht, Begrenzungslicht)
+		Lichtfunktion B 3
+			Abblendlicht rechts
+		Dimmwert AB 3
+			100
+		Lichtansteuerung HD AB 3
+			always
+		Lichtfunktion C 3
+			nicht aktiv
+		Lichtfunktion D 3
+			nicht aktiv
+		Dimmwert CD 3
+			0
+		Dimming Direction CD 3
+			maximize
+		Lichtfunktion E 3
+			nicht aktiv
+		Lichtfunktion F 3
+			nicht aktiv
+		Dimmwert EF 3
+			0
+		Dimming Direction EF 3
+			maximize
+		Lichtfunktion G 3
+			nicht aktiv
+		Lichtfunktion H 3
+			nicht aktiv
+		Dimmwert GH 3
+			0
+		Dimming Direction GH 3
+			maximize
+	
+	Leuchte4TFL LB4	
+		Lasttyp 4
+			9 - allgemeine Glühlampe 27W, auch H15
+		Lampendefektbitposition 4
+			48
+		Fehlerort mittleres Byte DTC-DFCC 4
+			43
+		Lichtfunktion A 4
+			Tagfahrlicht
+		Lichtfunktion B 4
+			Abblendlicht links
+		Dimmwert AB 4
+			100
+		Lichtansteuerung HD AB 4
+			always
+		Lichtfunktion C 4
+			Blinken links aktiv (beide Phasen)
+		Lichtfunktion D 4
+			nicht aktiv
+		Dimmwert CD 4
+			0
+		Dimming Direction CD 4
+			minimize
+		Lichtfunktion E 4
+			Standlicht allgemein (Schlusslicht, Positionslicht, Begrenzungslicht)
+		Lichtfunktion F 4
+			nicht aktiv
+		Dimmwert EF 4
+			31
+		Dimming Direction EF 4
+			maximize
+		Lichtfunktion G 4
+			nicht aktiv
+		Lichtfunktion H 4
+			nicht aktiv
+		Dimmwert GH 4
+			0
+		Dimming Direction GH 4
+			maximize
+	
+	Leuchte5 TFL RB32	
+		Lasttyp 5
+			9 - allgemeine Glühlampe 27W, auch H15
+		Lampendefektbitposition 5
+			4C
+		Fehlerort mittleres Byte DTC-DFCC 5
+			44
+		Lichtfunktion A 5
+			Tagfahrlicht
+		Lichtfunktion B 5
+			Abblendlicht rechts
+		Dimmwert AB 5
+			100
+		Lichtansteuerung HD AB 5
+			always
+		Lichtfunktion C 5
+			Blinken rechts aktiv (beide Phasen)
+		Lichtfunktion D 5
+			nicht aktiv
+		Dimmwert CD 5
+			0
+		Dimming Direction CD 5
+			minimize
+		Lichtfunktion E 5
+			Standlicht allgemein (Schlusslicht, Positionslicht, Begrenzungslicht)
+		Lichtfunktion F 5
+			nicht aktiv
+		Dimmwert EF 5
+			31
+		Dimming Direction EF 5
+			maximize
+		Lichtfunktion G 5
+			nicht aktiv
+		Lichtfunktion H 5
+			nicht aktiv
+		Dimmwert GH 5
+			0
+		Dimming Direction GH 5
+			maximize
+	
+	Leuchte6ABL LC5	
+		Lasttyp 6
+			11 - Abblendlicht
+		Lampendefektbitposition 6
+			36
+		Fehlerort mittleres Byte DTC-DFCC 6
+			1A
+		Lichtfunktion A 6
+			Abblendlicht links
+		Lichtfunktion B 6
+			nicht aktiv
+		Dimmwert AB 6
+			100
+		Lichtansteuerung HD AB 6
+			always
+		Lichtfunktion C 6
+			nicht aktiv
+		Lichtfunktion D 6
+			nicht aktiv
+		Dimmwert CD 6
+			0
+		Dimming Direction CD 6
+			maximize
+		Lichtfunktion E 6
+			nicht aktiv
+		Lichtfunktion F 6
+			nicht aktiv
+		Dimmwert EF 6
+			0
+		Dimming Direction EF 6
+			maximize
+		Lichtfunktion G 6
+			nicht aktiv
+		Lichtfunktion H 6
+			nicht aktiv
+		Dimmwert GH 6
+			0
+		Dimming Direction GH 6
+			maximize
+	
+	Leuchte7ABL RB1	
+		Lasttyp 7
+			11 - Abblendlicht
+		Lampendefektbitposition 7
+			40
+		Fehlerort mittleres Byte DTC-DFCC 7
+			1B
+		Lichtfunktion A 7
+			Abblendlicht rechts
+		Lichtfunktion B 7
+			nicht aktiv
+		Dimmwert AB 7
+			100
+		Lichtansteuerung HD AB 7
+			always
+		Lichtfunktion C 7
+			nicht aktiv
+		Lichtfunktion D 7
+			nicht aktiv
+		Dimmwert CD 7
+			0
+		Dimming Direction CD 7
+			maximize
+		Lichtfunktion E 7
+			nicht aktiv
+		Lichtfunktion F 7
+			nicht aktiv
+		Dimmwert EF 7
+			0
+		Dimming Direction EF 7
+			maximize
+		Lichtfunktion G 7
+			nicht aktiv
+		Lichtfunktion H 7
+			nicht aktiv
+		Dimmwert GH 7
+			0
+		Dimming Direction GH 7
+			maximize
+	
+	Leuchte8FL LB39	
+		Lasttyp 8
+			10 - allgemeine Scheinwerfer
+		Lampendefektbitposition 8
+			37
+		Fehlerort mittleres Byte DTC-DFCC 8
+			1C
+		Lichtfunktion A 8
+			Fernlicht links
+		Lichtfunktion B 8
+			Lichthupe generell
+		Dimmwert AB 8
+			100
+		Lichtansteuerung HD AB 8
+			always
+		Lichtfunktion C 8
+			nicht aktiv
+		Lichtfunktion D 8
+			nicht aktiv
+		Dimmwert CD 8
+			0
+		Dimming Direction CD 8
+			maximize
+		Lichtfunktion E 8
+			nicht aktiv
+		Lichtfunktion F 8
+			nicht aktiv
+		Dimmwert EF 8
+			0
+		Dimming Direction EF 8
+			maximize
+		Lichtfunktion G 8
+			nicht aktiv
+		Lichtfunktion H 8
+			nicht aktiv
+		Dimmwert GH 8
+			0
+		Dimming Direction GH 8
+			maximize
+	
+	Leuchte9FL RB2	
+		Lasttyp 9
+			10 - allgemeine Scheinwerfer
+		Lampendefektbitposition 9
+			41
+		Fehlerort mittleres Byte DTC-DFCC 9
+			1D
+		Lichtfunktion A 9
+			Fernlicht rechts
+		Lichtfunktion B 9
+			Lichthupe generell
+		Dimmwert AB 9
+			100
+		Lichtansteuerung HD AB 9
+			always
+		Lichtfunktion C 9
+			nicht aktiv
+		Lichtfunktion D 9
+			nicht aktiv
+		Dimmwert CD 9
+			0
+		Dimming Direction CD 9
+			maximize
+		Lichtfunktion E 9
+			nicht aktiv
+		Lichtfunktion F 9
+			nicht aktiv
+		Dimmwert EF 9
+			0
+		Dimming Direction EF 9
+			maximize
+		Lichtfunktion G 9
+			nicht aktiv
+		Lichtfunktion H 9
+			nicht aktiv
+		Dimmwert GH 9
+			0
+		Dimming Direction GH 9
+			maximize
+	
+	Leuchte10SHUTTER LB23	
+		Lasttyp 10
+			not active
+		Lampendefektbitposition 10
+			0
+		Fehlerort mittleres Byte DTC-DFCC 10
+			0
+		Lichtfunktion A 10
+			nicht aktiv
+		Lichtfunktion B 10
+			nicht aktiv
+		Dimmwert AB 10
+			0
+		Lichtansteuerung HD AB 10
+			always
+		Lichtfunktion C 10
+			nicht aktiv
+		Lichtfunktion D 10
+			nicht aktiv
+		Dimmwert CD 10
+			0
+		Dimming Direction CD 10
+			maximize
+		Lichtfunktion E 10
+			nicht aktiv
+		Lichtfunktion F 10
+			nicht aktiv
+		Dimmwert EF 10
+			0
+		Dimming Direction EF 10
+			maximize
+		Lichtfunktion G 10
+			nicht aktiv
+		Lichtfunktion H 10
+			nicht aktiv
+		Dimmwert GH 10
+			0
+		Dimming Direction GH 10
+			maximize
+	
+	Leuchte11SHUTTER RB22	
+		Lasttyp 11
+			not active
+		Lampendefektbitposition 11
+			0
+		Fehlerort mittleres Byte DTC-DFCC 11
+			0
+		Lichtfunktion A 11
+			nicht aktiv
+		Lichtfunktion B 11
+			nicht aktiv
+		Dimmwert AB 11
+			0
+		Lichtansteuerung HD AB 11
+			always
+		Lichtfunktion C 11
+			nicht aktiv
+		Lichtfunktion D 11
+			nicht aktiv
+		Dimmwert CD 11
+			0
+		Dimming Direction CD 11
+			maximize
+		Lichtfunktion E 11
+			nicht aktiv
+		Lichtfunktion F 11
+			nicht aktiv
+		Dimmwert EF 11
+			0
+		Dimming Direction EF 11
+			maximize
+		Lichtfunktion G 11
+			nicht aktiv
+		Lichtfunktion H 11
+			nicht aktiv
+		Dimmwert GH 11
+			0
+		Dimming Direction GH 11
+			maximize
+	
+	Leuchte12NL LB45	
+		Lasttyp 12
+			6 - LED Lichtmodul
+		Lampendefektbitposition 12
+			38
+		Fehlerort mittleres Byte DTC-DFCC 12
+			22
+		Lichtfunktion A 12
+			Nebellicht links
+		Lichtfunktion B 12
+			Abbiegelicht links
+		Dimmwert AB 12
+			127
+		Lichtansteuerung HD AB 12
+			always
+		Lichtfunktion C 12
+			nicht aktiv
+		Lichtfunktion D 12
+			nicht aktiv
+		Dimmwert CD 12
+			0
+		Dimming Direction CD 12
+			maximize
+		Lichtfunktion E 12
+			nicht aktiv
+		Lichtfunktion F 12
+			nicht aktiv
+		Dimmwert EF 12
+			0
+		Dimming Direction EF 12
+			maximize
+		Lichtfunktion G 12
+			nicht aktiv
+		Lichtfunktion H 12
+			Lichthupe generell
+		Dimmwert GH 12
+			100
+		Dimming Direction GH 12
+			maximize
+	
+	Leuchte13NL RB5	
+		Lasttyp 13
+			6 - LED Lichtmodul
+		Lampendefektbitposition 13
+			42
+		Fehlerort mittleres Byte DTC-DFCC 13
+			23
+		Lichtfunktion A 13
+			Nebellicht rechts
+		Lichtfunktion B 13
+			Abbiegelicht rechts
+		Dimmwert AB 13
+			127
+		Lichtansteuerung HD AB 13
+			always
+		Lichtfunktion C 13
+			nicht aktiv
+		Lichtfunktion D 13
+			nicht aktiv
+		Dimmwert CD 13
+			0
+		Dimming Direction CD 13
+			maximize
+		Lichtfunktion E 13
+			nicht aktiv
+		Lichtfunktion F 13
+			nicht aktiv
+		Dimmwert EF 13
+			0
+		Dimming Direction EF 13
+			maximize
+		Lichtfunktion G 13
+			nicht aktiv
+		Lichtfunktion H 13
+			Lichthupe generell
+		Dimmwert GH 13
+			100
+		Dimming Direction GH 13
+			maximize
+	
+	Leuchten14AL LB6	
+		Lasttyp 14
+			not active
+		Lampendefektbitposition 14
+			0
+		Fehlerort mittleres Byte DTC-DFCC 14
+			0
+		Lichtfunktion A 14
+			nicht aktiv
+		Lichtfunktion B 14
+			nicht aktiv
+		Dimmwert AB 14
+			0
+		Lichtansteuerung HD AB 14
+			always
+		Lichtfunktion C 14
+			nicht aktiv
+		Lichtfunktion D 14
+			nicht aktiv
+		Dimmwert CD 14
+			0
+		Dimming Direction CD 14
+			maximize
+		Lichtfunktion E 14
+			nicht aktiv
+		Lichtfunktion F 14
+			nicht aktiv
+		Dimmwert EF 14
+			0
+		Dimming Direction EF 14
+			maximize
+		Lichtfunktion G 14
+			nicht aktiv
+		Lichtfunktion H 14
+			nicht aktiv
+		Dimmwert GH 14
+			0
+		Dimming Direction GH 14
+			maximize
+	
+	Leuchte15AL RB44	
+		Lasttyp 15
+			not active
+		Lampendefektbitposition 15
+			0
+		Fehlerort mittleres Byte DTC-DFCC 15
+			0
+		Lichtfunktion A 15
+			nicht aktiv
+		Lichtfunktion B 15
+			nicht aktiv
+		Dimmwert AB 15
+			0
+		Lichtansteuerung HD AB 15
+			always
+		Lichtfunktion C 15
+			nicht aktiv
+		Lichtfunktion D 15
+			nicht aktiv
+		Dimmwert CD 15
+			0
+		Dimming Direction CD 15
+			maximize
+		Lichtfunktion E 15
+			nicht aktiv
+		Lichtfunktion F 15
+			nicht aktiv
+		Dimmwert EF 15
+			0
+		Dimming Direction EF 15
+			maximize
+		Lichtfunktion G 15
+			nicht aktiv
+		Lichtfunktion H 15
+			nicht aktiv
+		Dimmwert GH 15
+			0
+		Dimming Direction GH 15
+			maximize
+	
+	Leuchte16BLK SLB35BLK SL KC9	
+		Lasttyp 16
+			not active
+		Lampendefektbitposition 16
+			0
+		Fehlerort mittleres Byte DTC-DFCC 16
+			0
+		Lichtfunktion A 16
+			nicht aktiv
+		Lichtfunktion B 16
+			nicht aktiv
+		Dimmwert AB 16
+			0
+		Lichtansteuerung HD AB 16
+			always
+		Lichtfunktion C 16
+			nicht aktiv
+		Lichtfunktion D 16
+			nicht aktiv
+		Dimmwert CD 16
+			0
+		Dimming Direction CD 16
+			maximize
+		Lichtfunktion E 16
+			nicht aktiv
+		Lichtfunktion F 16
+			nicht aktiv
+		Dimmwert EF 16
+			0
+		Dimming Direction EF 16
+			maximize
+		Lichtfunktion G 16
+			nicht aktiv
+		Lichtfunktion H 16
+			nicht aktiv
+		Dimmwert GH 16
+			0
+		Dimming Direction GH 16
+			maximize
+	
+	Leuchte17TFL R BLK SRB3TFL R BLK SR KC3	
+		Lasttyp 17
+			not active
+		Lampendefektbitposition 17
+			0
+		Fehlerort mittleres Byte DTC-DFCC 17
+			0
+		Lichtfunktion A 17
+			nicht aktiv
+		Lichtfunktion B 17
+			nicht aktiv
+		Dimmwert AB 17
+			0
+		Lichtansteuerung HD AB 17
+			always
+		Lichtfunktion C 17
+			nicht aktiv
+		Lichtfunktion D 17
+			nicht aktiv
+		Dimmwert CD 17
+			0
+		Dimming Direction CD 17
+			maximize
+		Lichtfunktion E 17
+			nicht aktiv
+		Lichtfunktion F 17
+			nicht aktiv
+		Dimmwert EF 17
+			0
+		Dimming Direction EF 17
+			maximize
+		Lichtfunktion G 17
+			nicht aktiv
+		Lichtfunktion H 17
+			nicht aktiv
+		Dimmwert GH 17
+			0
+		Dimming Direction GH 17
+			maximize
+	
+	Leuchte18BLK HLA60	
+		Lasttyp 18
+			not active
+		Lampendefektbitposition 18
+			0
+		Fehlerort mittleres Byte DTC-DFCC 18
+			0
+		Lichtfunktion A 18
+			nicht aktiv
+		Lichtfunktion B 18
+			nicht aktiv
+		Dimmwert AB 18
+			0
+		Lichtansteuerung HD AB 18
+			always
+		Lichtfunktion C 18
+			nicht aktiv
+		Lichtfunktion D 18
+			nicht aktiv
+		Dimmwert CD 18
+			0
+		Dimming Direction CD 18
+			maximize
+		Lichtfunktion E 18
+			nicht aktiv
+		Lichtfunktion F 18
+			nicht aktiv
+		Dimmwert EF 18
+			0
+		Dimming Direction EF 18
+			maximize
+		Lichtfunktion G 18
+			nicht aktiv
+		Lichtfunktion H 18
+			nicht aktiv
+		Dimmwert GH 18
+			0
+		Dimming Direction GH 18
+			maximize
+	
+	Leuchte19BLK HRC31	
+		Lasttyp 19
+			not active
+		Lampendefektbitposition 19
+			0
+		Fehlerort mittleres Byte DTC-DFCC 19
+			0
+		Lichtfunktion A 19
+			nicht aktiv
+		Lichtfunktion B 19
+			nicht aktiv
+		Dimmwert AB 19
+			0
+		Lichtansteuerung HD AB 19
+			always
+		Lichtfunktion C 19
+			nicht aktiv
+		Lichtfunktion D 19
+			nicht aktiv
+		Dimmwert CD 19
+			0
+		Dimming Direction CD 19
+			maximize
+		Lichtfunktion E 19
+			nicht aktiv
+		Lichtfunktion F 19
+			nicht aktiv
+		Dimmwert EF 19
+			0
+		Dimming Direction EF 19
+			maximize
+		Lichtfunktion G 19
+			nicht aktiv
+		Lichtfunktion H 19
+			nicht aktiv
+		Dimmwert GH 19
+			0
+		Dimming Direction GH 19
+			maximize
+	
+	Leuchte20BR LA71	
+		Lasttyp 20
+			14 - kombinierte Blink- Bremsleuchten
+		Lampendefektbitposition 20
+			13
+		Fehlerort mittleres Byte DTC-DFCC 20
+			3D
+		Lichtfunktion A 20
+			Bremslicht
+		Lichtfunktion B 20
+			Blinken links Dunkelphase
+		Dimmwert AB 20
+			100
+		Lichtansteuerung HD AB 20
+			always
+		Lichtfunktion C 20
+			Standlicht allgemein (Schlusslicht, Positionslicht, Begrenzungslicht)
+		Lichtfunktion D 20
+			nicht aktiv
+		Dimmwert CD 20
+			36
+		Dimming Direction CD 20
+			maximize
+		Lichtfunktion E 20
+			Blinken links Hellphase
+		Lichtfunktion F 20
+			nicht aktiv
+		Dimmwert EF 20
+			0
+		Dimming Direction EF 20
+			minimize
+		Lichtfunktion G 20
+			nicht aktiv
+		Lichtfunktion H 20
+			nicht aktiv
+		Dimmwert GH 20
+			0
+		Dimming Direction GH 20
+			maximize
+	
+	Leuchte21BR RC8	
+		Lasttyp 21
+			14 - kombinierte Blink- Bremsleuchten
+		Lampendefektbitposition 21
+			23
+		Fehlerort mittleres Byte DTC-DFCC 21
+			3E
+		Lichtfunktion A 21
+			Bremslicht
+		Lichtfunktion B 21
+			Blinken rechts Dunkelphase
+		Dimmwert AB 21
+			100
+		Lichtansteuerung HD AB 21
+			always
+		Lichtfunktion C 21
+			Standlicht allgemein (Schlusslicht, Positionslicht, Begrenzungslicht)
+		Lichtfunktion D 21
+			nicht aktiv
+		Dimmwert CD 21
+			36
+		Dimming Direction CD 21
+			maximize
+		Lichtfunktion E 21
+			Blinken rechts Hellphase
+		Lichtfunktion F 21
+			nicht aktiv
+		Dimmwert EF 21
+			0
+		Dimming Direction EF 21
+			minimize
+		Lichtfunktion G 21
+			nicht aktiv
+		Lichtfunktion H 21
+			nicht aktiv
+		Dimmwert GH 21
+			0
+		Dimming Direction GH 21
+			maximize
+	
+	Leuchte22BR MA57	
+		Lasttyp 22
+			42 - LED dritte Bremsleuchte
+		Lampendefektbitposition 22
+			29
+		Fehlerort mittleres Byte DTC-DFCC 22
+			2C
+		Lichtfunktion A 22
+			Bremslicht
+		Lichtfunktion B 22
+			nicht aktiv
+		Dimmwert AB 22
+			100
+		Lichtansteuerung HD AB 22
+			always
+		Lichtfunktion C 22
+			nicht aktiv
+		Lichtfunktion D 22
+			nicht aktiv
+		Dimmwert CD 22
+			0
+		Dimming Direction CD 22
+			maximize
+		Lichtfunktion E 22
+			nicht aktiv
+		Lichtfunktion F 22
+			nicht aktiv
+		Dimmwert EF 22
+			0
+		Dimming Direction EF 22
+			maximize
+		Lichtfunktion G 22
+			nicht aktiv
+		Lichtfunktion H 22
+			nicht aktiv
+		Dimmwert GH 22
+			0
+		Dimming Direction GH 22
+			maximize
+	
+	Leuchte23SL HLC10	
+		Lasttyp 23
+			9 - allgemeine Glühlampe 27W, auch H15
+		Lampendefektbitposition 23
+			A
+		Fehlerort mittleres Byte DTC-DFCC 23
+			29
+		Lichtfunktion A 23
+			Bremslicht
+		Lichtfunktion B 23
+			Blinken links Hellphase
+		Dimmwert AB 23
+			100
+		Lichtansteuerung HD AB 23
+			always
+		Lichtfunktion C 23
+			Standlicht allgemein (Schlusslicht, Positionslicht, Begrenzungslicht)
+		Lichtfunktion D 23
+			nicht aktiv
+		Dimmwert CD 23
+			36
+		Dimming Direction CD 23
+			maximize
+		Lichtfunktion E 23
+			Blinken links Dunkelphase
+		Lichtfunktion F 23
+			nicht aktiv
+		Dimmwert EF 23
+			0
+		Dimming Direction EF 23
+			minimize
+		Lichtfunktion G 23
+			nicht aktiv
+		Lichtfunktion H 23
+			nicht aktiv
+		Dimmwert GH 23
+			0
+		Dimming Direction GH 23
+			maximize
+	
+	Leuchte24SL HRA65	
+		Lasttyp 24
+			9 - allgemeine Glühlampe 27W, auch H15
+		Lampendefektbitposition 24
+			1A
+		Fehlerort mittleres Byte DTC-DFCC 24
+			2A
+		Lichtfunktion A 24
+			Bremslicht
+		Lichtfunktion B 24
+			Blinken rechts Hellphase
+		Dimmwert AB 24
+			100
+		Lichtansteuerung HD AB 24
+			always
+		Lichtfunktion C 24
+			Standlicht allgemein (Schlusslicht, Positionslicht, Begrenzungslicht)
+		Lichtfunktion D 24
+			nicht aktiv
+		Dimmwert CD 24
+			36
+		Dimming Direction CD 24
+			maximize
+		Lichtfunktion E 24
+			Blinken rechts Dunkelphase
+		Lichtfunktion F 24
+			nicht aktiv
+		Dimmwert EF 24
+			0
+		Dimming Direction EF 24
+			minimize
+		Lichtfunktion G 24
+			nicht aktiv
+		Lichtfunktion H 24
+			nicht aktiv
+		Dimmwert GH 24
+			0
+		Dimming Direction GH 24
+			maximize
+	
+	Leuchte25KZL HA59	
+		Lasttyp 25
+			18 - 2* 5W
+		Lampendefektbitposition 25
+			28
+		Fehlerort mittleres Byte DTC-DFCC 25
+			30
+		Lichtfunktion A 25
+			Standlicht allgemein (Schlusslicht, Positionslicht, Begrenzungslicht)
+		Lichtfunktion B 25
+			nicht aktiv
+		Dimmwert AB 25
+			100
+		Lichtansteuerung HD AB 25
+			always
+		Lichtfunktion C 25
+			nicht aktiv
+		Lichtfunktion D 25
+			nicht aktiv
+		Dimmwert CD 25
+			0
+		Dimming Direction CD 25
+			maximize
+		Lichtfunktion E 25
+			nicht aktiv
+		Lichtfunktion F 25
+			nicht aktiv
+		Dimmwert EF 25
+			0
+		Dimming Direction EF 25
+			maximize
+		Lichtfunktion G 25
+			nicht aktiv
+		Lichtfunktion H 25
+			nicht aktiv
+		Dimmwert GH 25
+			0
+		Dimming Direction GH 25
+			maximize
+	
+	Leuchte26NSL LA72	
+		Lasttyp 26
+			not active
+		Lampendefektbitposition 26
+			0
+		Fehlerort mittleres Byte DTC-DFCC 26
+			0
+		Lichtfunktion A 26
+			nicht aktiv
+		Lichtfunktion B 26
+			nicht aktiv
+		Dimmwert AB 26
+			0
+		Lichtansteuerung HD AB 26
+			always
+		Lichtfunktion C 26
+			nicht aktiv
+		Lichtfunktion D 26
+			nicht aktiv
+		Dimmwert CD 26
+			0
+		Dimming Direction CD 26
+			maximize
+		Lichtfunktion E 26
+			nicht aktiv
+		Lichtfunktion F 26
+			nicht aktiv
+		Dimmwert EF 26
+			0
+		Dimming Direction EF 26
+			maximize
+		Lichtfunktion G 26
+			nicht aktiv
+		Lichtfunktion H 26
+			nicht aktiv
+		Dimmwert GH 26
+			0
+		Dimming Direction GH 26
+			maximize
+	
+	Leuchte27NSL RC6	
+		Lasttyp 27
+			36 - LED Kleinleistung
+		Lampendefektbitposition 27
+			0
+		Fehlerort mittleres Byte DTC-DFCC 27
+			47
+		Lichtfunktion A 27
+			Standlicht allgemein (Schlusslicht, Positionslicht, Begrenzungslicht)
+		Lichtfunktion B 27
+			nicht aktiv
+		Dimmwert AB 27
+			127
+		Lichtansteuerung HD AB 27
+			always
+		Lichtfunktion C 27
+			nicht aktiv
+		Lichtfunktion D 27
+			nicht aktiv
+		Dimmwert CD 27
+			0
+		Dimming Direction CD 27
+			maximize
+		Lichtfunktion E 27
+			nicht aktiv
+		Lichtfunktion F 27
+			nicht aktiv
+		Dimmwert EF 27
+			0
+		Dimming Direction EF 27
+			maximize
+		Lichtfunktion G 27
+			nicht aktiv
+		Lichtfunktion H 27
+			nicht aktiv
+		Dimmwert GH 27
+			0
+		Dimming Direction GH 27
+			maximize
+	
+	Leuchte28RFL LC11	
+		Lasttyp 28
+			9 - allgemeine Glühlampe 27W, auch H15
+		Lampendefektbitposition 28
+			B
+		Fehlerort mittleres Byte DTC-DFCC 28
+			31
+		Lichtfunktion A 28
+			Rueckfahrlicht
+		Lichtfunktion B 28
+			nicht aktiv
+		Dimmwert AB 28
+			100
+		Lichtansteuerung HD AB 28
+			always
+		Lichtfunktion C 28
+			nicht aktiv
+		Lichtfunktion D 28
+			nicht aktiv
+		Dimmwert CD 28
+			0
+		Dimming Direction CD 28
+			maximize
+		Lichtfunktion E 28
+			nicht aktiv
+		Lichtfunktion F 28
+			nicht aktiv
+		Dimmwert EF 28
+			0
+		Dimming Direction EF 28
+			maximize
+		Lichtfunktion G 28
+			nicht aktiv
+		Lichtfunktion H 28
+			nicht aktiv
+		Dimmwert GH 28
+			0
+		Dimming Direction GH 28
+			maximize
+	
+	Leuchte29RFL RA64	
+		Lasttyp 29
+			9 - allgemeine Glühlampe 27W, auch H15
+		Lampendefektbitposition 29
+			1B
+		Fehlerort mittleres Byte DTC-DFCC 29
+			32
+		Lichtfunktion A 29
+			Rueckfahrlicht
+		Lichtfunktion B 29
+			nicht aktiv
+		Dimmwert AB 29
+			100
+		Lichtansteuerung HD AB 29
+			always
+		Lichtfunktion C 29
+			nicht aktiv
+		Lichtfunktion D 29
+			nicht aktiv
+		Dimmwert CD 29
+			0
+		Dimming Direction CD 29
+			maximize
+		Lichtfunktion E 29
+			nicht aktiv
+		Lichtfunktion F 29
+			nicht aktiv
+		Dimmwert EF 29
+			0
+		Dimming Direction EF 29
+			maximize
+		Lichtfunktion G 29
+			nicht aktiv
+		Lichtfunktion H 29
+			nicht aktiv
+		Dimmwert GH 29
+			0
+		Dimming Direction GH 29
+			maximize
+	
+	Leuchte30FR LC72	
+		Lasttyp 30
+			36 - LED Kleinleistung
+		Lampendefektbitposition 30
+			0
+		Fehlerort mittleres Byte DTC-DFCC 30
+			2
+		Lichtfunktion A 30
+			Fussraumlicht
+		Lichtfunktion B 30
+			nicht aktiv
+		Dimmwert AB 30
+			100
+		Lichtansteuerung HD AB 30
+			always
+		Lichtfunktion C 30
+			Blinken links Hellphase
+		Lichtfunktion D 30
+			Blinken rechts Hellphase
+		Dimmwert CD 30
+			100
+		Dimming Direction CD 30
+			maximize
+		Lichtfunktion E 30
+			Blinken links Dunkelphase
+		Lichtfunktion F 30
+			Blinken rechts Dunkelphase
+		Dimmwert EF 30
+			0
+		Dimming Direction EF 30
+			minimize
+		Lichtfunktion G 30
+			nicht aktiv
+		Lichtfunktion H 30
+			nicht aktiv
+		Dimmwert GH 30
+			0
+		Dimming Direction GH 30
+			maximize
+	
+	Leuchte31AMBL 1C61	
+		Lasttyp 31
+			not active
+		Lampendefektbitposition 31
+			0
+		Fehlerort mittleres Byte DTC-DFCC 31
+			0
+		Lichtfunktion A 31
+			nicht aktiv
+		Lichtfunktion B 31
+			nicht aktiv
+		Dimmwert AB 31
+			0
+		Lichtansteuerung HD AB 31
+			always
+		Lichtfunktion C 31
+			nicht aktiv
+		Lichtfunktion D 31
+			nicht aktiv
+		Dimmwert CD 31
+			0
+		Dimming Direction CD 31
+			maximize
+		Lichtfunktion E 31
+			nicht aktiv
+		Lichtfunktion F 31
+			nicht aktiv
+		Dimmwert EF 31
+			0
+		Dimming Direction EF 31
+			maximize
+		Lichtfunktion G 31
+			nicht aktiv
+		Lichtfunktion H 31
+			nicht aktiv
+		Dimmwert GH 31
+			0
+		Dimming Direction GH 31
+			maximize
+	
+	Leuchte32AMBL 2C35	
+		Lasttyp 32
+			not active
+		Lampendefektbitposition 32
+			0
+		Fehlerort mittleres Byte DTC-DFCC 32
+			0
+		Lichtfunktion A 32
+			nicht aktiv
+		Lichtfunktion B 32
+			nicht aktiv
+		Dimmwert AB 32
+			0
+		Lichtansteuerung HD AB 32
+			always
+		Lichtfunktion C 32
+			nicht aktiv
+		Lichtfunktion D 32
+			nicht aktiv
+		Dimmwert CD 32
+			0
+		Dimming Direction CD 32
+			maximize
+		Lichtfunktion E 32
+			nicht aktiv
+		Lichtfunktion F 32
+			nicht aktiv
+		Dimmwert EF 32
+			0
+		Dimming Direction EF 32
+			maximize
+		Lichtfunktion G 32
+			nicht aktiv
+		Lichtfunktion H 32
+			nicht aktiv
+		Dimmwert GH 32
+			0
+		Dimming Direction GH 32
+			maximize
+	
+	Leuchte33AMBL 3C36	
+		Lasttyp 33
+			not active
+		Lampendefektbitposition 33
+			0
+		Fehlerort mittleres Byte DTC-DFCC 33
+			0
+		Lichtfunktion A 33
+			nicht aktiv
+		Lichtfunktion B 33
+			nicht aktiv
+		Dimmwert AB 33
+			0
+		Lichtansteuerung HD AB 33
+			always
+		Lichtfunktion C 33
+			nicht aktiv
+		Lichtfunktion D 33
+			nicht aktiv
+		Dimmwert CD 33
+			0
+		Dimming Direction CD 33
+			maximize
+		Lichtfunktion E 33
+			nicht aktiv
+		Lichtfunktion F 33
+			nicht aktiv
+		Dimmwert EF 33
+			0
+		Dimming Direction EF 33
+			maximize
+		Lichtfunktion G 33
+			nicht aktiv
+		Lichtfunktion H 33
+			nicht aktiv
+		Dimmwert GH 33
+			0
+		Dimming Direction GH 33
+			maximize
+	
+	Leuchte34AMBL 4C37	
+		Lasttyp 34
+			not active
+		Lampendefektbitposition 34
+			0
+		Fehlerort mittleres Byte DTC-DFCC 34
+			0
+		Lichtfunktion A 34
+			nicht aktiv
+		Lichtfunktion B 34
+			nicht aktiv
+		Dimmwert AB 34
+			0
+		Lichtansteuerung HD AB 34
+			always
+		Lichtfunktion C 34
+			nicht aktiv
+		Lichtfunktion D 34
+			nicht aktiv
+		Dimmwert CD 34
+			0
+		Dimming Direction CD 34
+			maximize
+		Lichtfunktion E 34
+			nicht aktiv
+		Lichtfunktion F 34
+			nicht aktiv
+		Dimmwert EF 34
+			0
+		Dimming Direction EF 34
+			maximize
+		Lichtfunktion G 34
+			nicht aktiv
+		Lichtfunktion H 34
+			nicht aktiv
+		Dimmwert GH 34
+			0
+		Dimming Direction GH 34
+			maximize
+	
+	ambient_lighting_lin_slaves_modules	
+		pa einzeladresse slave 1
+			0
+		pa verbauinfo slave 1
+			not installed
+		pa fehlerort slave 1
+			0
+		pa einzeladresse slave 2
+			0
+		pa verbauinfo slave 2
+			not installed
+		pa fehlerort slave 2
+			0
+		pa einzeladresse slave 3
+			0
+		pa verbauinfo slave 3
+			not installed
+		pa fehlerort slave 3
+			0
+		pa einzeladresse slave 4
+			0
+		pa verbauinfo slave 4
+			not installed
+		pa fehlerort slave 4
+			0
+		pa einzeladresse slave 5
+			0
+		pa verbauinfo slave 5
+			not installed
+		pa fehlerort slave 5
+			0
+		pa einzeladresse slave 6
+			0
+		pa verbauinfo slave 6
+			not installed
+		pa fehlerort slave 6
+			0
+		pa einzeladresse slave 7
+			0
+		pa verbauinfo slave 7
+			not installed
+		pa fehlerort slave 7
+			0
+		pa einzeladresse slave 8
+			0
+		pa verbauinfo slave8
+			not installed
+		pa fehlerort slave8
+			0
+		pa einzeladresse slave 9
+			0
+		pa verbauinfo slave 9
+			not installed
+		pa fehlerort slave 9
+			0
+		pa einzeladresse slave 10
+			0
+		pa verbauinfo slave 10
+			not installed
+		pa fehlerort slave 10
+			0
+		pa einzeladresse slave 11
+			0
+		pa verbauinfo slave 11
+			not installed
+		pa fehlerort slave 11
+			0
+		pa einzeladresse slave :12
+			0
+		pa verbauinfo slave 12
+			not installed
+		pa fehlerort slave 12
+			0
+		pa einzeladresse slave 13
+			0
+		pa verbauinfo slave 13
+			not installed
+		pa fehlerort slave 13
+			0
+		pa einzeladresse slave 14
+			0
+		pa verbauinfo slave 14
+			not installed
+		pa fehlerort slave 14
+			0
+		pa einzeladresse slave 15
+			0
+		pa verbauinfo slave 15
+			not installed
+		pa fehlerort slave 15
+			0
+		pa einzeladresse slave 16
+			0
+		pa verbauinfo slave 16
+			not installed
+		pa fehlerort slave 16
+			0
+		pa einzeladresse slave 17
+			0
+		pa verbauinfo slave 17
+			not installed
+		pa fehlerort slave 17
+			0
+		pa einzeladresse slave 18
+			0
+		pa verbauinfo slave 18
+			not installed
+		pa fehlerort slave 18
+			0
+		pa einzeladresse slave 19
+			0
+		pa verbauinfo slave 19
+			not installed
+		pa fehlerort slave 19
+			0
+		pa einzeladresse slave 20
+			0
+		pa verbauinfo slave 20
+			not installed
+		pa fehlerort slave 20
+			0
+	
+	Interior lighting, parameter	
+		p t verzoegerung einstieg innenlicht
+			0 s
+		p t verzoegerung ausstieg innenlicht
+			0 s
+		p t verzoegerung oeffnen innenlicht
+			0 s
+		p t verzoegerung entriegelt innenlicht
+			0 s
+		p t verzoegerung schliessen innenlicht
+			0 s
+		p t verzoegerung schluessel ab innenlicht
+			0 s
+		p t verzoegerung verriegelt innenlicht
+			0 s
+		p t verzoegerung einstieg tueren
+			5 s
+		p t verzoegerung ausstieg tueren
+			0 s
+		p t verzoegerung oeffnen tueren
+			0 s
+		p t verzoegerung entriegelt tueren
+			0 s
+		p t verzoegerung schliessen tueren
+			0 s
+		p t verzoegerung schluessel ab tueren
+			0 s
+		p t verzoegerung verriegelt tueren
+			0 s
+		p t verzoegerung einstieg fussraum
+			20 s
+		p t verzoegerung ausstieg fussraum
+			0 s
+		p t verzoegerung oeffnen fussraum
+			0 s
+		p t verzoegerung entriegelt fussraum
+			0 s
+		p t verzoegerung schliessen fussraum
+			0 s
+		p t verzoegerung schluessel ab fussraum
+			0 s
+		p t verzoegerung verriegelt fussraum
+			0 s
+		p t verzoegerung einstieg cockpit
+			0 s
+		p t verzoegerung ausstieg cockpit
+			0 s
+		p t verzoegerung oeffnen cockpit
+			0 s
+		p t verzoegerung entriegelt cockpit
+			0 s
+		p t verzoegerung schliessen cockpit
+			0 s
+		p t verzoegerung schluessel ab cockpit
+			0 s
+		p t verzoegerung verriegelt cockpit
+			0 s
+		p t verzoegerung einstieg miko
+			0 s
+		p t verzoegerung ausstieg miko
+			0 s
+		p t verzoegerung oeffnen miko
+			0 s
+		p t verzoegerung entriegelt miko
+			0 s
+		p t verzoegerung schliessen miko
+			0 s
+		p t verzoegerung schluessel ab miko
+			0 s
+		p t verzoegerung verriegelt miko
+			0 s
+		p t verzoegerung einstieg dach
+			0 s
+		p t verzoegerung ausstieg dach
+			0 s
+		p t verzoegerung oeffnen dach
+			0 s
+		p t verzoegerung entriegelt dach
+			0 s
+		p t verzoegerung schliessen dach
+			0 s
+		p t verzoegerung schluessel ab dach
+			0 s
+		p t verzoegerung verriegelt dach
+			0 s
+		p helligkeit entriegelt innenlicht
+			100 %
+		p helligkeit max innenlicht
+			100 %
+		p helligkeit HD auf zuendung ein innenlicht
+			100 %
+		p helligkeit HD auf zuendung aus innenlicht
+			100 %
+		p helligkeit dieseTuer auf zuendung ein innenlicht
+			100 %
+		p helligkeit andereTuer auf zuendung ein innenlicht
+			100 %
+		p helligkeit Fzg geschlossen zuendung ein innenlicht
+			0 %
+		p helligkeit dieseTuer auf zuendung aus innenlicht
+			100 %
+		p helligkeit andereTuer auf zuendung aus innenlicht
+			100 %
+		p helligkeit einausstieg innenlicht
+			100 %
+		p helligkeit Fzg geschlossen zuendung aus innenlicht
+			100 %
+		p helligkeit Tueren geschlossen HD auf zuendung aus innenlicht
+			100 %
+		p helligkeit Tueren geschlossen HD zu zuendung aus innenlicht
+			100 %
+		p helligkeit Tueren geschlossen schluessel ab innenlicht
+			100 %
+		p helligkeit Fzg geschlossen schluessel ab innenlicht
+			100 %
+		p adaption kundenwunsch tuer
+			3C
+		p helligkeit entriegelt tueren
+			0 %
+		p helligkeit max tueren
+			96 %
+		p helligkeit HD auf zuendung ein tueren
+			126 %
+		p helligkeit HD auf zuendung aus tueren
+			127 %
+		p helligkeit dieseTuer auf zuendung ein tueren
+			96 %
+		p helligkeit andereTuer auf zuendung ein tueren
+			96 %
+		p helligkeit Fzg geschlossen zuendung ein tueren
+			126 %
+		p helligkeit dieseTuer auf zuendung aus tueren
+			96 %
+		p helligkeit andereTuer auf zuendung aus tueren
+			96 %
+		p helligkeit einausstieg tueren
+			96 %
+		p helligkeit Fzg geschlossen zuendung aus tueren
+			127 %
+		p helligkeit Tueren geschlossen HD auf zuendung aus tueren
+			96 %
+		p helligkeit Tueren geschlossen HD zu zuendung aus tueren
+			96 %
+		p helligkeit Tueren geschlossen schluessel ab tueren
+			96 %
+		p helligkeit Fzg geschlossen schluessel ab tueren
+			96 %
+		p adaption kundenwunsch fussraum
+			14
+		p helligkeit entriegelt fussraum
+			0 %
+		p helligkeit max fussraum
+			70 %
+		p helligkeit HD auf zuendung ein fussraum
+			126 %
+		p helligkeit HD auf zuendung aus fussraum
+			127 %
+		p helligkeit dieseTuer auf zuendung ein fussraum
+			70 %
+		p helligkeit andereTuer auf zuendung ein fussraum
+			70 %
+		p helligkeit Fzg geschlossen zuendung ein fussraum
+			126 %
+		p helligkeit dieseTuer auf zuendung aus fussraum
+			70 %
+		p helligkeit andereTuer auf zuendung aus fussraum
+			70 %
+		p helligkeit einausstieg fussraum
+			70 %
+		p helligkeit Fzg geschlossen zuendung aus fussraum
+			127 %
+		p helligkeit Tueren geschlossen HD auf zuendung aus fussraum
+			70 %
+		p helligkeit Tueren geschlossen HD zu zuendung aus fussraum
+			70 %
+		p helligkeit Tueren geschlossen schluessel ab fussraum
+			70 %
+		p helligkeit Fzg geschlossen schluessel ab fussraum
+			70 %
+		p adaption kundenwunsch lautsprecher
+			64
+		p helligkeit entriegelt lautsprecher
+			100 %
+		p helligkeit max lautsprecher
+			100 %
+		p helligkeit HD auf zuendung ein lautsprecher
+			100 %
+		p helligkeit HD auf zuendung aus lautsprecher
+			100 %
+		p helligkeit dieseTuer auf zuendung ein lautsprecher
+			100 %
+		p helligkeit andereTuer auf zuendung ein lautsprecher
+			100 %
+		p helligkeit Fzg geschlossen zuendung ein lautsprecher
+			126 %
+		p helligkeit dieseTuer auf zuendung aus lautsprecher
+			100 %
+		p helligkeit andereTuer auf zuendung aus lautsprecher
+			100 %
+		p helligkeit einausstieg lautsprecher
+			100 %
+		p helligkeit Fzg geschlossen zuendung aus lautsprecher
+			100 %
+		p helligkeit Tueren geschlossen HD auf zuendung aus lautsprecher
+			100 %
+		p helligkeit Tueren geschlossen HD zu zuendung aus lautsprecher
+			100 %
+		p helligkeit Tueren geschlossen schluessel ab lautsprecher
+			100 %
+		p helligkeit Fzg geschlossen schluessel ab lautsprecher
+			100 %
+		p adaption kundenwunsch itafel
+			64
+		p helligkeit entriegelt itafel
+			100 %
+		p helligkeit max itafel
+			100 %
+		p helligkeit HD auf zuendung ein itafel
+			100 %
+		p helligkeit HD auf zuendung aus itafel
+			100 %
+		p helligkeit dieseTuer auf zuendung ein itafel
+			100 %
+		p helligkeit andereTuer auf zuendung ein itafel
+			100 %
+		p helligkeit Fzg geschlossen zuendung ein itafel
+			126 %
+		p helligkeit dieseTuer auf zuendung aus itafel
+			100 %
+		p helligkeit andereTuer auf zuendung aus itafel
+			100 %
+		p helligkeit einausstieg itafel
+			100 %
+		p helligkeit Fzg geschlossen zuendung aus itafel
+			100 %
+		p helligkeit Tueren geschlossen HD auf zuendung aus itafel
+			100 %
+		p helligkeit Tueren geschlossen HD zu zuendung aus itafel
+			100 %
+		p helligkeit Tueren geschlossen schluessel ab itafel
+			100 %
+		p helligkeit Fzg geschlossen schluessel ab itafel
+			100 %
+		p adaption kundenwunsch cockpit
+			64
+		p helligkeit entriegelt cockpit
+			100 %
+		p helligkeit max cockpit
+			100 %
+		p helligkeit HD auf zuendung ein cockpit
+			100 %
+		p helligkeit HD auf zuendung aus cockpit
+			100 %
+		p helligkeit dieseTuer auf zuendung ein cockpit
+			100 %
+		p helligkeit andereTuer auf zuendung ein cockpit
+			100 %
+		p helligkeit Fzg geschlossen zuendung ein cockpit
+			126 %
+		p helligkeit dieseTuer auf zuendung aus cockpit
+			100 %
+		p helligkeit andereTuer auf zuendung aus cockpit
+			100 %
+		p helligkeit einausstieg cockpit
+			100 %
+		p helligkeit Fzg geschlossen zuendung aus cockpit
+			100 %
+		p helligkeit Tueren geschlossen HD auf zuendung aus cockpit
+			100 %
+		p helligkeit Tueren geschlossen HD zu zuendung aus cockpit
+			100 %
+		p helligkeit Tueren geschlossen schluessel ab cockpit
+			100 %
+		p helligkeit Fzg geschlossen schluessel ab cockpit
+			100 %
+		p adaption kundenwunsch miko
+			64
+		p helligkeit entriegelt miko
+			100 %
+		p helligkeit max miko
+			100 %
+		p helligkeit HD auf zuendung ein miko
+			100 %
+		p helligkeit HD auf zuendung aus miko
+			100 %
+		p helligkeit dieseTuer auf zuendung ein miko
+			100 %
+		p helligkeit andereTuer auf zuendung ein miko
+			100 %
+		p helligkeit Fzg geschlossen zuendung ein miko
+			126 %
+		p helligkeit dieseTuer auf zuendung aus miko
+			100 %
+		p helligkeit andereTuer auf zuendung aus miko
+			100 %
+		p helligkeit einausstieg miko
+			100 %
+		p helligkeit Fzg geschlossen zuendung aus miko
+			100 %
+		p helligkeit Tueren geschlossen HD auf zuendung aus miko
+			100 %
+		p helligkeit Tueren geschlossen HD zu zuendung aus miko
+			100 %
+		p helligkeit Tueren geschlossen schluessel ab miko
+			100 %
+		p helligkeit Fzg geschlossen schluessel ab miko
+			100 %
+		p adaption kundenwunsch dach
+			64
+		p helligkeit entriegelt dach
+			100 %
+		p helligkeit max dach
+			100 %
+		p helligkeit HD auf zuendung ein dach
+			100 %
+		p helligkeit HD auf zuendung aus dach
+			100 %
+		p helligkeit dieseTuer auf zuendung ein dach
+			100 %
+		p helligkeit andereTuer auf zuendung ein dach
+			100 %
+		p helligkeit Fzg geschlossen zuendung ein dach
+			126 %
+		p helligkeit dieseTuer auf zuendung aus dach
+			100 %
+		p helligkeit andereTuer auf zuendung aus dach
+			100 %
+		p helligkeit einausstieg dach
+			100 %
+		p helligkeit Fzg geschlossen zuendung aus dach
+			100 %
+		p helligkeit Tueren geschlossen HD auf zuendung aus dach
+			100 %
+		p helligkeit Tueren geschlossen HD zu zuendung aus dach
+			100 %
+		p helligkeit Tueren geschlossen schluessel ab dach
+			100 %
+		p helligkeit Fzg geschlossen schluessel ab dach
+			100 %
+		p adaption kundenwunsch psd
+			64
+		p helligkeit entriegelt psd
+			100 %
+		p helligkeit max psd
+			100 %
+		p helligkeit HD auf zuendung ein psd
+			100 %
+		p helligkeit HD auf zuendung aus psd
+			100 %
+		p helligkeit dieseTuer auf zuendung ein psd
+			100 %
+		p helligkeit andereTuer auf zuendung ein psd
+			100 %
+		p helligkeit Fzg geschlossen zuendung ein psd
+			126 %
+		p helligkeit dieseTuer auf zuendung aus psd
+			100 %
+		p helligkeit andereTuer auf zuendung aus psd
+			100 %
+		p helligkeit einausstieg psd
+			100 %
+		p helligkeit Fzg geschlossen zuendung aus psd
+			100 %
+		p helligkeit Tueren geschlossen HD auf zuendung aus psd
+			100 %
+		p helligkeit Tueren geschlossen HD zu zuendung aus psd
+			100 %
+		p helligkeit Tueren geschlossen schluessel ab psd
+			100 %
+		p helligkeit Fzg geschlossen schluessel ab psd
+			100 %
+		p dimmfaktor farbwechsel auf
+			01
+		p dimmfaktor farbwechsel ab
+			01
+		p farbwechsel delay
+			00
+		p farbauswahl HMI
+			00
+		p ambienteumfang mehrfarbig HMI
+			00
+		p ambienteumfang mehrfarbig HMI 2
+			00
+		p ambienteumfang mehrfarbig HMI 3
+			00
+		p ambienteumfang mehrfarbig HMI 4
+			00
+		p ambientelicht verbauinformation HMI
+			00
+		p ambientelicht verbauinformation HMI 2
+			00
+		p ambientelicht verbauinformation HMI 3
+			00
+		p ambientelicht verbauinformation HMI 4
+			00
+		p verzoegerung berechnen
+			00
+		p t HMI verzoegerung helligkeitswerte
+			0 ms
+	
+	Ambient light color list	
+		Rotwert Farbe 4
+			E1
+		Gruenwert Farbe 4
+			E1
+		Blauwert Farbe 4
+			E1
+		Rotwert Farbe 5
+			E1
+		Gruenwert Farbe 5
+			E1
+		Blauwert Farbe 5
+			E1
+		Rotwert Farbe 6
+			E1
+		Gruenwert Farbe 6
+			E1
+		Blauwert Farbe 6
+			E1
+		Rotwert Farbe 7
+			E1
+		Gruenwert Farbe 7
+			E1
+		Blauwert Farbe 7
+			E1
+		Rotwert Farbe 8
+			E1
+		Gruenwert Farbe 8
+			E1
+		Blauwert Farbe 8
+			E1
+		Rotwert Farbe 9
+			E1
+		Gruenwert Farbe 9
+			E1
+		Blauwert Farbe 9
+			E1
+		Rotwert Farbe 10
+			E1
+		Gruenwert Farbe 10
+			E1
+		Blauwert Farbe 10
+			E1
+	
+	Light sensor	
+		Einschaltgrenze CHO LHO
+			30 lx
+		Daemmerungsgrenze, Hysterese obergrenze
+			60 lx
+		Daemmerungsgrenze Hysterese untergrenze
+			110 lx
+		Helligkeitsgrenze sehr hell
+			100 lx
+		Helligkeitsgrenze Licht  einschalten
+			60 lx
+		Helligkeitsgrenze Licht ausschalten
+			110 lx
+		Minimale Beleuchtungsstaerke
+			0 lx
+		Maximale Beleuchtungsstaerke
+			300 lx
+		Minimale Ausgangsspannung
+			2000 mV
+		Maximale Ausgangsspannung
+			4500 mV
+		Tunnel einschalt verzoegerung
+			02
+		ECE Lichteinschaltschwelle
+			1000 lx
+		Helligkeitsgrenze Licht ausschalten red
+			80
+	
+	Button in center console	
+		Function of button 1
+			Start-stop
+		Function of button 2
+			Luggage hold closure
+		Function of button 3
+			Driving program
+		Function of button 4
+			steering wheel heater
+	
+	
+Advanced identification
+	
+Mileage: 100343 mi
+Date: 2024-01-28 07:15:00
+
+---------------------------------------------------------------
+09 Central Electrics
+		System description: BCM PQ37BOSCH
+		Software number: 5Q0937087AA
+		Software version: 0162
+		Hardware number: 5Q0937087AA
+		Hardware version: 028
+		
+		Faults:
+				B12BB15 - Right front side marker lamp bulb
+			Open circuit/short circuit to B+
+				Intermittent
+					Priority - 2 
+				Malfunction frequency counter - 6 
+				Unlearning counter - 171 
+				km-Mileage - 161248 km
+				Terminal 15 status - On 
+				Terminal 50 status - Off 
+				Voltage - 14.8 V
+				Outside air temperature - 5.0 °C
+				Status Bremslichtschalter (HW) - On 
+				Status Bremslichtschalter (CAN) - On 
+				Off - not activated 
+				Parking light - operated 
+				Automatic high beam assist - not activated 
+				Low beam - not activated 
+				Parking light left - not activated 
+				Parking light right - not activated 
+				Letzte Weckursache/ Werte [00;2E] - gültiges Funktelegramm 
+				CAN-Bus aktiv - On 
+				date - 2024-01-26 16:45:45 
+				
+
+---------------------------------------------------------------
+09 Central Electrics
+		System description: BCM PQ37BOSCH
+		Software number: 5Q0937087AA
+		Software version: 0162
+		Hardware number: 5Q0937087AA
+		Hardware version: 028
+		
+		Faults:
+			No trouble codes found
+
+---------------------------------------------------------------
+09 Central Electrics
+		System description: BCM PQ37BOSCH
+		Software number: 5Q0937087AA
+		Software version: 0162
+		Hardware number: 5Q0937087AA
+		Hardware version: 028
+		
+		Faults:
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 6 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Terminal 15 status - On 
+				Terminal 50 status - Off 
+				Voltage - 12.2 V
+				Outside air temperature - 3.0 °C
+				Status Bremslichtschalter (HW) - Off 
+				Status Bremslichtschalter (CAN) - Off 
+				Off - operated 
+				Parking light - not activated 
+				Automatic high beam assist - not activated 
+				Low beam - not activated 
+				Parking light left - not activated 
+				Parking light right - not activated 
+				Letzte Weckursache/ Werte [00;2E] - keine Störschutzursache 
+				CAN-Bus aktiv - On 
+				date - 2024-01-25 07:34:29 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 6 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Terminal 15 status - On 
+				Terminal 50 status - Off 
+				Voltage - 12.4 V
+				Outside air temperature - 3.0 °C
+				Status Bremslichtschalter (HW) - Off 
+				Status Bremslichtschalter (CAN) - On 
+				Off - operated 
+				Parking light - not activated 
+				Automatic high beam assist - not activated 
+				Low beam - not activated 
+				Parking light left - not activated 
+				Parking light right - not activated 
+				Letzte Weckursache/ Werte [00;2E] - keine Störschutzursache 
+				CAN-Bus aktiv - On 
+				date - 2024-01-25 07:34:29 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 6 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Terminal 15 status - On 
+				Terminal 50 status - Off 
+				Voltage - 12.4 V
+				Outside air temperature - 3.0 °C
+				Status Bremslichtschalter (HW) - Off 
+				Status Bremslichtschalter (CAN) - Off 
+				Off - operated 
+				Parking light - not activated 
+				Automatic high beam assist - not activated 
+				Low beam - not activated 
+				Parking light left - not activated 
+				Parking light right - not activated 
+				Letzte Weckursache/ Werte [00;2E] - keine Störschutzursache 
+				CAN-Bus aktiv - On 
+				date - 2024-01-25 07:34:29 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 6 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Terminal 15 status - On 
+				Terminal 50 status - Off 
+				Voltage - 12.4 V
+				Outside air temperature - 3.0 °C
+				Status Bremslichtschalter (HW) - Off 
+				Status Bremslichtschalter (CAN) - Off 
+				Off - operated 
+				Parking light - not activated 
+				Automatic high beam assist - not activated 
+				Low beam - not activated 
+				Parking light left - not activated 
+				Parking light right - not activated 
+				Letzte Weckursache/ Werte [00;2E] - keine Störschutzursache 
+				CAN-Bus aktiv - On 
+				date - 2024-01-25 07:34:29 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 6 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Terminal 15 status - On 
+				Terminal 50 status - Off 
+				Voltage - 12.4 V
+				Outside air temperature - 3.0 °C
+				Status Bremslichtschalter (HW) - Off 
+				Status Bremslichtschalter (CAN) - Off 
+				Off - operated 
+				Parking light - not activated 
+				Automatic high beam assist - not activated 
+				Low beam - not activated 
+				Parking light left - not activated 
+				Parking light right - not activated 
+				Letzte Weckursache/ Werte [00;2E] - keine Störschutzursache 
+				CAN-Bus aktiv - On 
+				date - 2024-01-25 07:34:29 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 6 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Terminal 15 status - On 
+				Terminal 50 status - Off 
+				Voltage - 12.2 V
+				Outside air temperature - 3.0 °C
+				Status Bremslichtschalter (HW) - Off 
+				Status Bremslichtschalter (CAN) - On 
+				Off - operated 
+				Parking light - not activated 
+				Automatic high beam assist - not activated 
+				Low beam - not activated 
+				Parking light left - not activated 
+				Parking light right - not activated 
+				Letzte Weckursache/ Werte [00;2E] - keine Störschutzursache 
+				CAN-Bus aktiv - On 
+				date - 2024-01-25 07:34:29 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 6 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Terminal 15 status - On 
+				Terminal 50 status - Off 
+				Voltage - 12.4 V
+				Outside air temperature - 3.0 °C
+				Status Bremslichtschalter (HW) - Off 
+				Status Bremslichtschalter (CAN) - Off 
+				Off - operated 
+				Parking light - not activated 
+				Automatic high beam assist - not activated 
+				Low beam - not activated 
+				Parking light left - not activated 
+				Parking light right - not activated 
+				Letzte Weckursache/ Werte [00;2E] - keine Störschutzursache 
+				CAN-Bus aktiv - On 
+				date - 2024-01-25 07:34:29 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 6 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Terminal 15 status - On 
+				Terminal 50 status - Off 
+				Voltage - 12.1 V
+				Outside air temperature - 3.0 °C
+				Status Bremslichtschalter (HW) - Off 
+				Status Bremslichtschalter (CAN) - On 
+				Off - operated 
+				Parking light - not activated 
+				Automatic high beam assist - not activated 
+				Low beam - not activated 
+				Parking light left - not activated 
+				Parking light right - not activated 
+				Letzte Weckursache/ Werte [00;2E] - keine Störschutzursache 
+				CAN-Bus aktiv - On 
+				date - 2024-01-25 07:34:29 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 6 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Terminal 15 status - On 
+				Terminal 50 status - Off 
+				Voltage - 12.4 V
+				Outside air temperature - 3.0 °C
+				Status Bremslichtschalter (HW) - Off 
+				Status Bremslichtschalter (CAN) - Off 
+				Off - operated 
+				Parking light - not activated 
+				Automatic high beam assist - not activated 
+				Low beam - not activated 
+				Parking light left - not activated 
+				Parking light right - not activated 
+				Letzte Weckursache/ Werte [00;2E] - keine Störschutzursache 
+				CAN-Bus aktiv - On 
+				date - 2024-01-25 07:34:29 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 6 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Terminal 15 status - On 
+				Terminal 50 status - Off 
+				Voltage - 12.4 V
+				Outside air temperature - 3.0 °C
+				Status Bremslichtschalter (HW) - Off 
+				Status Bremslichtschalter (CAN) - Off 
+				Off - operated 
+				Parking light - not activated 
+				Automatic high beam assist - not activated 
+				Low beam - not activated 
+				Parking light left - not activated 
+				Parking light right - not activated 
+				Letzte Weckursache/ Werte [00;2E] - keine Störschutzursache 
+				CAN-Bus aktiv - On 
+				date - 2024-01-25 07:34:29 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 6 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Terminal 15 status - On 
+				Terminal 50 status - Off 
+				Voltage - 12.4 V
+				Outside air temperature - 3.0 °C
+				Status Bremslichtschalter (HW) - Off 
+				Status Bremslichtschalter (CAN) - Off 
+				Off - operated 
+				Parking light - not activated 
+				Automatic high beam assist - not activated 
+				Low beam - not activated 
+				Parking light left - not activated 
+				Parking light right - not activated 
+				Letzte Weckursache/ Werte [00;2E] - keine Störschutzursache 
+				CAN-Bus aktiv - On 
+				date - 2024-01-25 07:34:29 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 6 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Terminal 15 status - On 
+				Terminal 50 status - Off 
+				Voltage - 12.4 V
+				Outside air temperature - 3.0 °C
+				Status Bremslichtschalter (HW) - Off 
+				Status Bremslichtschalter (CAN) - Off 
+				Off - operated 
+				Parking light - not activated 
+				Automatic high beam assist - not activated 
+				Low beam - not activated 
+				Parking light left - not activated 
+				Parking light right - not activated 
+				Letzte Weckursache/ Werte [00;2E] - keine Störschutzursache 
+				CAN-Bus aktiv - On 
+				date - 2024-01-25 07:34:29 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 6 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Terminal 15 status - On 
+				Terminal 50 status - Off 
+				Voltage - 12.4 V
+				Outside air temperature - 3.0 °C
+				Status Bremslichtschalter (HW) - Off 
+				Status Bremslichtschalter (CAN) - Off 
+				Off - operated 
+				Parking light - not activated 
+				Automatic high beam assist - not activated 
+				Low beam - not activated 
+				Parking light left - not activated 
+				Parking light right - not activated 
+				Letzte Weckursache/ Werte [00;2E] - keine Störschutzursache 
+				CAN-Bus aktiv - On 
+				date - 2024-01-25 07:34:29 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 6 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Terminal 15 status - On 
+				Terminal 50 status - Off 
+				Voltage - 12.4 V
+				Outside air temperature - 3.0 °C
+				Status Bremslichtschalter (HW) - Off 
+				Status Bremslichtschalter (CAN) - Off 
+				Off - operated 
+				Parking light - not activated 
+				Automatic high beam assist - not activated 
+				Low beam - not activated 
+				Parking light left - not activated 
+				Parking light right - not activated 
+				Letzte Weckursache/ Werte [00;2E] - keine Störschutzursache 
+				CAN-Bus aktiv - On 
+				date - 2024-01-25 07:34:29 
+				
+				B12CA01 - License plate lamp
+			Electrical error
+				Intermittent
+					Priority - 2 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 154 
+				km-Mileage - 160771 km
+				Terminal 15 status - On 
+				Terminal 50 status - Off 
+				Voltage - 14.8 V
+				Outside air temperature - 4.5 °C
+				Status Bremslichtschalter (HW) - Off 
+				Status Bremslichtschalter (CAN) - Off 
+				Off - not activated 
+				Parking light - not activated 
+				Automatic high beam assist - not activated 
+				Low beam - operated 
+				Parking light left - not activated 
+				Parking light right - not activated 
+				Letzte Weckursache/ Werte [00;2E] - Pin A50 Drehfalle hinten links 
+				CAN-Bus aktiv - On 
+				date - 2024-01-22 19:39:46 
+				
+				B12BB15 - Right front side marker lamp bulb
+			Open circuit/short circuit to B+
+				Intermittent
+					Priority - 2 
+				Malfunction frequency counter - 2 
+				Unlearning counter - 161 
+				km-Mileage - 160236 km
+				Terminal 15 status - On 
+				Terminal 50 status - Off 
+				Voltage - 14.7 V
+				Outside air temperature - 5.5 °C
+				Status Bremslichtschalter (HW) - Off 
+				Status Bremslichtschalter (CAN) - Off 
+				Off - not activated 
+				Parking light - not activated 
+				Automatic high beam assist - not activated 
+				Low beam - operated 
+				Parking light left - not activated 
+				Parking light right - not activated 
+				Letzte Weckursache/ Werte [00;2E] - gültiges Funktelegramm 
+				CAN-Bus aktiv - On 
+				date - 2024-01-12 05:09:35 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 6 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Terminal 15 status - On 
+				Terminal 50 status - Off 
+				Voltage - 12.4 V
+				Outside air temperature - 3.0 °C
+				Status Bremslichtschalter (HW) - Off 
+				Status Bremslichtschalter (CAN) - Off 
+				Off - operated 
+				Parking light - not activated 
+				Automatic high beam assist - not activated 
+				Low beam - not activated 
+				Parking light left - not activated 
+				Parking light right - not activated 
+				Letzte Weckursache/ Werte [00;2E] - keine Störschutzursache 
+				CAN-Bus aktiv - On 
+				date - 2024-01-25 07:34:29 
+				
+
+---------------------------------------------------------------
+09 Central Electrics
+		System description: BCM PQ37BOSCH
+		Software number: 5Q0937087AA
+		Software version: 0162
+		Hardware number: 5Q0937087AA
+		Hardware version: 028
+		
+		Faults:
+				B12BB15 - Right front side marker lamp bulb
+			Open circuit/short circuit to B+
+				Intermittent
+					Priority - 2 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 126 
+				km-Mileage - 160209 km
+				Terminal 15 status - On 
+				Terminal 50 status - Off 
+				Voltage - 14.8 V
+				Outside air temperature - 2.5 °C
+				Status Bremslichtschalter (HW) - Off 
+				Status Bremslichtschalter (CAN) - Off 
+				Off - not activated 
+				Parking light - not activated 
+				Automatic high beam assist - not activated 
+				Low beam - operated 
+				Parking light left - not activated 
+				Parking light right - not activated 
+				Letzte Weckursache/ Werte [00;2E] - keine Störschutzursache 
+				CAN-Bus aktiv - On 
+				date - 2024-01-11 18:10:08 
+				
+
+---------------------------------------------------------------
+09 Central Electrics
+		System description: BCM PQ37BOSCH
+		Software number: 5Q0937087AA
+		Software version: 0162
+		Hardware number: 5Q0937087AA
+		Hardware version: 028
+		
+		Faults:
+				B12BB15 - Right front side marker lamp bulb
+			Open circuit/short circuit to B+
+				static
+					Priority - 2 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 84 
+				km-Mileage - 160209 km
+				Terminal 15 status - On 
+				Terminal 50 status - Off 
+				Voltage - 14.8 V
+				Outside air temperature - 2.5 °C
+				Status Bremslichtschalter (HW) - Off 
+				Status Bremslichtschalter (CAN) - Off 
+				Off - not activated 
+				Parking light - not activated 
+				Automatic high beam assist - not activated 
+				Low beam - operated 
+				Parking light left - not activated 
+				Parking light right - not activated 
+				Letzte Weckursache/ Werte [00;2E] - keine Störschutzursache 
+				CAN-Bus aktiv - On 
+				date - 2024-01-11 18:10:08 
+				
