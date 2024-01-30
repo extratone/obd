@@ -1,0 +1,1926 @@
+OBDeleven vehicle history log
+Date: 2024-01-28 08:13:58
+
+	VIN: 3VW5T7AUXHM022312
+	Car: DAVOD 
+	Year: 2017
+	Body type: D5 Hatchback
+	Engine: CXCA  kW ( hp) l
+	Mileage: 100343 mi
+
+---------------------------------------------------------------
+
+5F Multimedia
+System description: MU-S-S-US
+Software number: 3Q0035844A
+Software version: 0751
+Hardware number: 3Q0035844A
+Hardware version: 710
+Backup name: NO MORE
+Long coding
+	02730000FF00000051220001001808009F0203D40120010002
+Adaptations
+	Developer mode	
+		---
+			activated
+	
+	Confirmation of installation change	
+		Key
+			362D
+	
+	Check tone frequency	
+		High note frequency range
+			4000 Hz
+		Medium note frequency range
+			1000 Hz
+		Low note frequency range
+			100 Hz
+	
+	Electrical test of loudspeakers	
+		Mode
+			automatic
+		Parameter AC-Diagnostics Channel 1 Test Frequency
+			19000 Hz
+		Parameter AC-Diagnostics Channel 1 Test Volume
+			27
+		Parameter AC-Diagnostics Channel 2 Test Frequency
+			19000 Hz
+		Parameter AC-Diagnostics Channel 2 Test Volume
+			27
+		Parameter AC-Diagnostics Channel 3 Test Frequency
+			19000 Hz
+		Parameter AC-Diagnostics Channel 3 Test Volume
+			27
+		Parameter AC-Diagnostics Channel 4 Test Frequency
+			19000 Hz
+		Parameter AC-Diagnostics Channel 4 Test Volume
+			27
+		Parameter AC-Diagnostics Channel 5 Test Frequency
+			19000 Hz
+		Parameter AC-Diagnostics Channel 5 Test Volume
+			27
+		Parameter AC-Diagnostics Channel 6 Test Frequency
+			19000 Hz
+		Parameter AC-Diagnostics Channel 6 Test Volume
+			27
+		Parameter AC-Diagnostics Channel 7 Test Frequency
+			19000 Hz
+		Parameter AC-Diagnostics Channel 7 Test Volume
+			27
+		Parameter AC-Diagnostics Channel 8 Test Frequency
+			19000 Hz
+		Parameter AC-Diagnostics Channel 8 Test Volume
+			27
+		Parameter AC-Diagnostics Channel 9 Test Frequency
+			19000 Hz
+		Parameter AC-Diagnostics Channel 9 Test Volume
+			27
+		Parameter AC-Diagnostics Channel 10 Test Frequency
+			19000 Hz
+		Parameter AC-Diagnostics Channel 10 Test Volume
+			27
+		Parameter AC-Diagnostics Channel 11 Test Frequency
+			19000 Hz
+		Parameter AC-Diagnostics Channel 11 Test Volume
+			27
+		Parameter AC-Diagnostics Channel 12 Test Frequency
+			19000 Hz
+		Parameter AC-Diagnostics Channel 12 Test Volume
+			27
+		Parameter AC-Diagnostics Channel 13 Test Frequency
+			19000 Hz
+		Parameter AC-Diagnostics Channel 13 Test Volume
+			27
+		Parameter AC-Diagnostics Channel 14 Test Frequency
+			19000 Hz
+		Parameter AC-Diagnostics Channel 14 Test Volume
+			27
+		Parameter AC-Diagnostics Channel 15 Test Frequency
+			19000 Hz
+		Parameter AC-Diagnostics Channel 15 Test Volume
+			27
+		Parameter AC-Diagnostics Channel 16 Test Frequency
+			19000 Hz
+		Parameter AC-Diagnostics Channel 16 Test Volume
+			27
+	
+	CD eject button	
+		CD eject button
+			Enabled
+	
+	Production mode	
+		---
+			000000
+	
+	Deactivate production mode	
+	
+	Number 1 for Info call	
+		---
+			FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+	
+	Number 1 for roadside assistance	
+		---
+			FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+	
+	Number 2 for roadside assistance	
+		---
+			FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+	
+	Number 2 for Info call	
+		---
+			FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+	
+	Base volume of speech output	
+		---
+			50 %
+	
+	Base volume of telephone	
+		---
+			50 %
+	
+	Microphone sensitivity	
+		---
+			0 dB(A)
+	
+	Bluetooth	
+		---
+			On
+	
+	Bluetooth: Sniff mode	
+		---
+			Off
+	
+	WLAN	
+		---
+			Off
+	
+	Number 1 for roadside assistance	
+		---
+			FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+	
+	Number 1 (roaming) for roadside assistance	
+		---
+			FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+	
+	Fan	
+		---
+			normal
+	
+	Automatic ring break diagnostic	
+		---
+			No automatic start
+	
+	Sporadic ring break detection	
+		---
+			Visual
+	
+	Awakening ability on optical databus	
+		---
+			Off
+	
+	Selection of release codes for a SWaP function	
+		---
+			FFFFFFFF
+	
+	Summertime-automatic	
+		---
+			Manual
+	
+	Infotainment recorder	
+		---
+			activated
+	
+	Dimming_Ambient_Illumination_Information_Control_Unit	
+		X1
+			0
+		Y1
+			0
+		X2
+			50
+		Y2
+			50
+		X3
+			100
+		Y3
+			100
+	
+	Dimming_Ambient_Illumination_Operating_and_Display_Unit	
+		X1
+			0
+		Y1
+			0
+		X2
+			50
+		Y2
+			50
+		X3
+			100
+		Y3
+			100
+	
+	p_HMI_Display	
+		p HMI Display
+			13 %
+	
+	p_damping_Display	
+		p damping Display
+			5 ms
+	
+	BAP_Debug_Mode_Release	
+		Release
+			not released
+	
+	Startup_Screen_Sticker_HMI	
+		Startup Screen Sticker HMI
+			0
+	
+	Activating and deactivating all development messages	
+		Infotainment CAN Messages
+			Off
+		MIB CAN Messages
+			Off
+	
+	Vehicle configuration	
+		VZAPro
+			Off
+		online POI
+			Off
+		online POI voice
+			Off
+		online portal browser services
+			Off
+		online navigation
+			Off
+		online street view
+			Off
+		WIFI Hotspot
+			Off
+		my audi
+			Off
+		picture navi
+			Off
+		online dictation
+			Off
+		remote HMI
+			Off
+		advanced range display
+			Off
+		gracenote online coverarts
+			Off
+		gracenote online other
+			Off
+		gracenote local coverarts
+			Off
+		gracenote local other
+			Off
+		UPnP
+			Off
+		OPS display in dash board display unit
+			Off
+		Joker button 1
+			Not present
+		Joker button 2
+			Not present
+		LTE modul
+			activated
+		Support second phone
+			On
+		Support of threeway calling
+			On
+		Dtmf without active call
+			On
+		Support for response and hold
+			Off
+		Sim card mode switch
+			Not present
+		Phone module operation mode
+			Data & language service active
+		PSD Protocol Version
+			PSD 1.5
+		RVC video input
+			FBAS
+		Station Logo DB Mode
+			0
+		TPEG availability
+			Off
+		VZO
+			Off
+		LGI
+			Off
+		ProbeCar vzo
+			Off
+		online media
+			Off
+		ProbeCar lgi
+			Off
+		Baidu Car Life
+			Off
+		Google GAL
+			On
+		Apple DIO
+			On
+		SDS Region Flag
+			no region
+		Privacy WithPINRequest
+			0
+		Phone HMI Privacy
+			0
+		Hybrid Radio additional online data
+			Not activated
+		media control
+			Not activated
+		UOTA
+			Off
+		WiFi Client HMI
+			Off
+		RSE software component
+			activated
+		Mirror link
+			On
+		Smartphone interface for rhmi
+			activated
+		sd slot deactivation
+			no restriction
+		map sms support
+			Off
+		map email support
+			Off
+		map instant messaging support
+			Off
+		sim data only sms support
+			Off
+		esim data only sms support
+			Off
+		allow message editing
+			Off
+		vehicle readiness sound
+			Not activated
+		MirrorLink Country Code
+			MIB EU
+		vehicle leaving sound
+			Not activated
+		MirrorLink RGB Preference
+			RGB565
+		conditioning variant
+			0
+		Map Style
+			0
+		Hybrid Radio Range Extender
+			deactivated
+		scon telephony
+			Not activated
+		voice over lte
+			Not activated
+		show volte hmi switch
+			Not activated
+		online radio
+			deactivated
+		wlan 5ghz switch
+			Not activated
+		unblock functions while piloted driving
+			blocked
+		block hmi function p epb
+			blocked
+		Popup if GPS services in use
+			Not activated
+		Baidu Car Life ios
+			Off
+		Tencent myCar canceling share location
+			Off
+		UOTA 2
+			Off
+		Pilot Parking
+			Not activated
+		perso v threshold
+			0
+		perso v threshold hysteresis
+			0
+		FoD
+			SWaP
+		Baidu Car Life Wireless
+			Off
+		Baidu Car Life ios Wireless
+			Off
+		Google GAL Wireless
+			Off
+		Apple DIO Wireless
+			Off
+		rvc low black screen velocity threshold
+			Not activated
+		rvc low failsafe
+			Not activated
+		rvc low black screen trunk open
+			Not activated
+		AliBox
+			Off
+		internet over WLAN default setting
+			Off
+		correction e mileage
+			0
+	
+	Operating_and_Display_Unit_1_Proximity_Sensor_Basic_Adaptation	
+		Proximity Sensor Basic Adaptation
+			040152045210524052320064003C007C011D0150001400140014001400FFFFFFFFFFFFFFFF0200A8
+	
+	Car_Function_List_BAP_Gen2	
+		climatic master 0x01
+			Not activated
+		climatic master 0x01 msg bus
+			Comfort data bus
+		climatic slave 0x02
+			Not activated
+		climatic slave 0x02 msg bus
+			Comfort data bus
+		auxilary heating 0x03
+			Not activated
+		auxilary heating 0x03 msg bus
+			Comfort data bus
+		headup displ 0x04
+			Not activated
+		headup displ 0x04 msg bus
+			Comfort data bus
+		ACC 0x05
+			Not activated
+		ACC 0x05 msg bus
+			Databus extended
+		air suspension 0x06
+			Not activated
+		air suspension 0x06 msg bus
+			Suspension data bus
+		tire pressure system 0x07
+			activated
+		tire pressure system 0x07 msg bus
+			Suspension data bus
+		interieur light 0x08
+			activated
+		interieur light 0x08 msg bus
+			Comfort data bus
+		exterieur light 0x09
+			activated
+		exterieur light 0x09 msg bus
+			Comfort data bus
+		parking assist 0x0A
+			Not activated
+		parking assist 0x0A msg bus
+			Terminal 15
+		VPS 0x0B
+			Not activated
+		VPS 0x0B msg bus
+			Databus Infotainment
+		wiper comfort 0x0C
+			activated
+		wiper comfort 0x0C msg bus
+			Comfort data bus
+		central locking 0x0D
+			activated
+		central locking 0x0D msg bus
+			Comfort data bus
+		mirror 0x0E
+			activated
+		mirror 0x0E msg bus
+			Comfort data bus
+		MFA 0x0F
+			activated
+		MFA 0x0F msg bus
+			Comfort data bus
+		driver seat 0x10
+			Not activated
+		driver seat 0x10 msg bus
+			Comfort data bus
+		clock 0x11
+			activated
+		clock 0x11 msg bus
+			Comfort data bus
+		service interval display 0x12
+			activated
+		service interval display 0x12 msg bus
+			Comfort data bus
+		unit master 0x13
+			activated
+		unit master 0x13 msg bus
+			Comfort data bus
+		UGDO 0x14
+			Not activated
+		UGDO 0x14 msg bus
+			Terminal 15
+		compass 0x15
+			Not activated
+		compass 0x15 msg bus
+			Not activated
+		clima slave 2 0x16
+			Not activated
+		clima slave 2 0x16 msg bus
+			Comfort data bus
+		charisma 0x17
+			activated
+		charisma 0x17 msg bus
+			Databus Infotainment
+		Night Vision 0x18
+			Not activated
+		Night Vision 0x18 msg bus
+			Not activated
+		LDW HCA 0x19
+			Not activated
+		LDW HCA 0x19 msg bus
+			Databus extended
+		SWA 0x1A
+			Not activated
+		SWA 0x1A msg bus
+			Databus extended
+		AWV 0x1B
+			Not activated
+		AWV 0x1B msg bus
+			Terminal 15
+		Hybrid 0x1D
+			Not activated
+		Hybrid 0x1D msg bus
+			Databus drivetrain
+		SideView 0x1E
+			Not activated
+		SideView 0x1E msg bus
+			Not activated
+		Reversible Seat Belt Tightener 0x1F
+			Not activated
+		Reversible Seat Belt Tightener 0x1F msg bus
+			Databus drivetrain
+		Passanger Seat 0x20
+			Not activated
+		Passanger Seat 0x20 msg bus
+			Comfort data bus
+		traffic sign recognition 0x21
+			Not activated
+		traffic sign recognition 0x21 msg bus
+			Databus extended
+		weariness rcognition 0x22
+			Not activated
+		weariness rcognition 0x22 msg bus
+			Databus Infotainment
+		BCmE 0x23
+			activated
+		BCmE 0x23 msg bus
+			Databus Infotainment
+		Brake 0x26
+			activated
+		Brake 0x26 msg bus
+			Suspension data bus
+		Start Stop reasons 0x27
+			Not activated
+		Start Stop reasons 0x27 msg bus
+			Databus Infotainment
+		Amplifier 0x2D
+			Not activated
+		Amplifier 0x2D msg bus
+			Databus Infotainment
+		TV tuner 0x2C
+			Not activated
+		TV tuner 0x2C msg bus
+			Comfort data bus
+		RearSeatEntertainment 0x2E
+			Not activated
+		RearSeatEntertainment 0x2E msg bus
+			Comfort data bus
+		MFL Jocker 0x34
+			Not activated
+		MFL Jocker msg bus 0x34
+			Databus Infotainment
+		Special Functions 0x35
+			Not activated
+		Special Functions msg bus 0x35
+			Comfort data bus
+		Trailer Assistant 0x36
+			Not activated
+		Trailer Assistant msg bus 0x36
+			Comfort data bus
+		ExBoxM2 0x38
+			Not activated
+		Range Data 0x39
+			Not activated
+		Range Data msg bus 0x39
+			Databus Infotainment
+		Angle Of Slope 0x24
+			Not activated
+		Angle Of Slope 0x24 msg bus
+			Not activated
+		Battery Management 0x25
+			Not activated
+		Battery Management 0x25 msg bus
+			Databus drivetrain
+		eCall 0x33
+			activated
+		eCall 0x33 msg bus
+			Comfort data bus
+		ENI 0x37
+			activated
+		ENI 0x37 msg bus
+			Comfort data bus
+		Pedestrian Assist 0x3A
+			Not activated
+		Pedestrian Assist msg bus 0x3A
+			Databus extended
+		Seat Pneumatic 0x3B
+			Not activated
+		Seat Pneumatic msg bus 0x3B
+			Comfort data bus
+		efficiency assist 0x3C
+			Not activated
+		efficiency assis msg bus 0x3C
+			Comfort data bus
+		Seatmemory driver rear 0x3E
+			Not activated
+		Seatmemory driver rear msg bus 0x3E
+			Comfort data bus
+		Seatmemory codriver rear 0x3F
+			Not activated
+		Seatmemory codriver rear msg bus 0x3F
+			Comfort data bus
+		ExBoxM2 0x38 msg bus
+			Comfort data bus
+	
+	Car_Function_Adaptations_Gen2	
+		menu display ACC
+			Not activated
+		menu display ACC operation clamp 15 off
+			Not activated
+		menu display ACC over threshold high
+			Not activated
+		menu display ACC standstill
+			Not activated
+		menu display ACC after disclaimer
+			Not activated
+		menu display ambient illumination
+			activated
+		menu display ambient illumination clamp 15 off
+			Not activated
+		menu display ambient illumination over threshold high
+			activated
+		menu display ambient illumination standstill
+			Not activated
+		menu display ambient illumination after disclaimer
+			Not activated
+		menu display pdc
+			Not activated
+		menu display pdc clamp 15 off
+			Not activated
+		menu display pdc over threshold high
+			Not activated
+		menu display pdc standstill
+			Not activated
+		menu display pdc after disclaimer
+			Not activated
+		menu display awv
+			Not activated
+		menu display awv clamp 15 off
+			Not activated
+		menu display awv over threshold high
+			Not activated
+		menu display awv standstill
+			Not activated
+		menu display awv after disclaimer
+			Not activated
+		menu display Lane Departure Warning
+			Not activated
+		menu display Lane Departure Warning clamp 15 off
+			Not activated
+		menu display Lane Departure Warning over threshold high
+			Not activated
+		menu display Lane Departure Warning standstill
+			Not activated
+		menu display Lane Departure Warning after disclaimer
+			Not activated
+		menu display lane assistant
+			Not activated
+		menu display lane assistant clamp 15 off
+			Not activated
+		menu display lane assistant over threshold high
+			Not activated
+		menu display lane assistant standstill
+			Not activated
+		menu display lane assistant after disclaimer
+			Not activated
+		menu display exterior illumination
+			activated
+		menu display exterior illumination clamp 15 off
+			Not activated
+		menu display exterior illumination over threshold high
+			activated
+		menu display exterior illumination standstill
+			Not activated
+		menu display exterior illumination after disclaimer
+			Not activated
+		menu display windows
+			activated
+		menu display windows clamp 15 off
+			Not activated
+		menu display windows over threshold high
+			activated
+		menu display windows standstill
+			Not activated
+		menu display windows after disclaimer
+			Not activated
+		menu display clima configuration
+			Not activated
+		menu display clima configuration clamp 15 off
+			Not activated
+		menu display clima configuration over threshold high
+			Not activated
+		menu display clima configuration standstill
+			Not activated
+		menu display clima configuration after disclaimer
+			Not activated
+		menu display auxiliary heating
+			Not activated
+		menu display auxiliary heating clamp 15 off
+			Not activated
+		menu display auxiliary heating over threshold high
+			Not activated
+		menu display auxiliary heating standstill
+			Not activated
+		menu display auxiliary heating after disclaimer
+			Not activated
+		menu display board computer
+			activated
+		menu display board computer clamp 15 off
+			Not activated
+		menu display board computer over threshold high
+			activated
+		menu display board computer standstill
+			Not activated
+		menu display board computer after disclaimer
+			Not activated
+		menu display rdk
+			activated
+		menu display rdk clamp 15 off
+			Not activated
+		menu display rdk over threshold high
+			activated
+		menu display rdk standstill
+			Not activated
+		menu display rdk after disclaimer
+			Not activated
+		menu display wiper
+			activated
+		menu display wiper clamp 15 off
+			Not activated
+		menu display wiper over threshold high
+			activated
+		menu display wiper standstill
+			Not activated
+		menu display wiper after disclaimer
+			Not activated
+		menu display sia
+			activated
+		menu display sia clamp 15 off
+			Not activated
+		menu display sia over threshold high
+			activated
+		menu display sia standstill
+			Not activated
+		menu display sia after disclaimer
+			Not activated
+		menu display seat configuration
+			Not activated
+		menu display seat configuration clamp 15 off
+			Not activated
+		menu display seat configuration over threshold high
+			Not activated
+		menu display seat configuration standstill
+			Not activated
+		menu display seat configuration after disclaimer
+			Not activated
+		menu display central locking
+			activated
+		menu display central locking clamp 15 off
+			Not activated
+		menu display central locking over threshold high
+			activated
+		menu display central locking standstill
+			Not activated
+		menu display central locking after disclaimer
+			Not activated
+		menu display compass
+			Not activated
+		menu display compass clamp 15 off
+			Not activated
+		menu display compass over threshold high
+			Not activated
+		menu display compass standstill
+			Not activated
+		menu display compass after disclaimer
+			Not activated
+		menu display charisma
+			activated
+		menu display charisma clamp 15 off
+			Not activated
+		menu display charisma over threshold high
+			activated
+		menu display charisma standstill
+			Not activated
+		menu display charisma after disclaimer
+			Not activated
+		menu display oil level
+			Not activated
+		menu display oil level clamp 15 off
+			Not activated
+		menu display oil level over threshold high
+			Not activated
+		menu display oil level standstill
+			Not activated
+		menu display oil level after disclaimer
+			Not activated
+		menu display vin
+			activated
+		menu display vin clamp 15 off
+			Not activated
+		menu display vin over threshold high
+			activated
+		menu display vin standstill
+			Not activated
+		menu display vin after disclaimer
+			Not activated
+		menu display clock
+			activated
+		menu display clock clamp 15 off
+			Not activated
+		menu display clock over threshold high
+			activated
+		menu display clock standstill
+			Not activated
+		menu display clock after disclaimer
+			Not activated
+		menu display air damper
+			Not activated
+		menu display air damper clamp 15 off
+			Not activated
+		menu display air damper over threshold high
+			Not activated
+		menu display air damper standstill
+			Not activated
+		menu display air damper after disclaimer
+			Not activated
+		menu display headup display
+			Not activated
+		menu display headup display clamp 15 off
+			Not activated
+		menu display headup display over threshold high
+			Not activated
+		menu display headup display standstill
+			Not activated
+		menu display headup display after disclaimer
+			Not activated
+		menu display central unit master
+			activated
+		menu display central unit master clamp 15 off
+			Not activated
+		menu display central unit master over threshold high
+			activated
+		menu display central unit master standstill
+			Not activated
+		menu display central unit master after disclaimer
+			Not activated
+		menu display hybrid
+			Not activated
+		menu display hybrid clamp 15 off
+			Not activated
+		menu display hybrid over threshold high
+			Not activated
+		menu display hybrid standstill
+			Not activated
+		menu display hybrid after disclaimer
+			Not activated
+		menu display ugdo
+			Not activated
+		menu display ugdo clamp 15 off
+			Not activated
+		menu display ugdo over threshold high
+			Not activated
+		menu display ugdo standstill
+			Not activated
+		menu display ugdo after disclaimer
+			Not activated
+		menu display night vision
+			Not activated
+		menu display night vision clamp 15 off
+			Not activated
+		menu display night vision over threshold high
+			Not activated
+		menu display night vision standstill
+			Not activated
+		menu display night vision after disclaimer
+			Not activated
+		menu display side view
+			Not activated
+		menu display side view clamp 15 off
+			Not activated
+		menu display side view over threshold high
+			Not activated
+		menu display side view standstill
+			Not activated
+		menu display side view after disclaimer
+			Not activated
+		menu display reversible belt pre load
+			Not activated
+		menu display reversible belt pre load clamp 15 off
+			Not activated
+		menu display reversible belt pre load over threshold high
+			Not activated
+		menu display reversible belt pre load standstill
+			Not activated
+		menu display reversible belt pre load after disclaimer
+			Not activated
+		menu display MFL jocker
+			Not activated
+		menu display MFL jocker clamp 15 off
+			Not activated
+		menu display MFL jocker over threshold high
+			Not activated
+		menu display MFL jocker standstill
+			Not activated
+		menu display MFL jocker after disclaimer
+			Not activated
+		menu display road sign identification
+			Not activated
+		menu display road sign identification clamp 15 off
+			Not activated
+		menu display road sign identification over threshold high
+			Not activated
+		menu display road sign identification standstill
+			Not activated
+		menu display road sign identification after disclaimer
+			Not activated
+		menu display attention identification
+			Not activated
+		menu display attention identification clamp 15 off
+			Not activated
+		menu display attention identification over threshold high
+			Not activated
+		menu display attention identification standstill
+			Not activated
+		menu display attention identification after disclaimer
+			Not activated
+		menu display adaptive key
+			Not activated
+		menu display adaptive key clamp 15 off
+			Not activated
+		menu display adaptive key over threshold high
+			Not activated
+		menu display adaptive key standstill
+			Not activated
+		menu display adaptive key after disclaimer
+			Not activated
+		menu display car mirror
+			activated
+		menu display car mirror clamp 15 off
+			Not activated
+		menu display car mirror over threshold high
+			activated
+		menu display car mirror standstill
+			Not activated
+		menu display car mirror after disclaimer
+			Not activated
+		menu display driving school
+			Not activated
+		menu display driving school clamp 15 off
+			Not activated
+		menu display driving school over threshold high
+			Not activated
+		menu display driving school standstill
+			Not activated
+		menu display driving school after disclaimer
+			Not activated
+		menu display weariness recognition
+			Not activated
+		menu display weariness recognition clamp 15 off
+			Not activated
+		menu display weariness recognition over threshold high
+			Not activated
+		menu display weariness recognition standstill
+			Not activated
+		menu display weariness recognition after disclaimer
+			Not activated
+		menu display BCmE
+			activated
+		menu display BCmE clamp 15 off
+			Not activated
+		menu display BCmE over threshold high
+			activated
+		menu display BCmE standstill
+			Not activated
+		menu display BCmE after disclaimer
+			Not activated
+		menu display user eco rating
+			activated
+		menu display user eco rating clamp 15 off
+			Not activated
+		menu display user eco rating over threshold high
+			activated
+		menu display user eco rating standstill
+			Not activated
+		menu display user eco rating after disclaimer
+			Not activated
+		menu display Brake Function
+			activated
+		menu display Brake Function clamp 15 off
+			Not activated
+		menu display Brake Function over threshold high
+			activated
+		menu display Brake Function standstill
+			Not activated
+		menu display Brake Function after disclaimer
+			Not activated
+		menu display Start Stop reasons
+			Not activated
+		menu display Start Stop reasons clamp 15 off
+			Not activated
+		menu display Start Stop reasons over threshold high
+			Not activated
+		menu display Start Stop reasons standstill
+			Not activated
+		menu display Start Stop reasons after disclaimer
+			Not activated
+		menu display angle of slope
+			Not activated
+		menu display angle of slope clamp 15 off
+			Not activated
+		menu display angle of slope over threshold high
+			Not activated
+		menu display angle of slope standstill
+			Not activated
+		menu display angle of slope after disclaimer
+			Not activated
+		menu display battery management
+			Not activated
+		menu display battery management clamp 15 off
+			Not activated
+		menu display battery management over threshold high
+			Not activated
+		menu display battery management standstill
+			Not activated
+		menu display battery management after disclaimer
+			Not activated
+		menu display RearSeatEntertainment
+			Not activated
+		menu display RearSeatEntertainment clamp 15 off
+			Not activated
+		menu display RearSeatEntertainment over threshold high
+			Not activated
+		menu display RearSeatEntertainment standstill
+			Not activated
+		menu display RearSeatEntertainment after disclaimer
+			Not activated
+		menu display special functions
+			Not activated
+		menu display special functions clamp 15 off
+			Not activated
+		menu display special functions over threshold high
+			Not activated
+		menu display special functions standstill
+			Not activated
+		menu display special functions after disclaimer
+			Not activated
+		menu display trailer assistant
+			Not activated
+		menu display trailer assistant clamp 15 off
+			Not activated
+		menu display trailer assistant over threshold high
+			Not activated
+		menu display trailer assistant standstill
+			Not activated
+		menu display trailer assistant after disclaimer
+			Not activated
+		menu display TV Tuner
+			Not activated
+		menu display TV Tuner clamp 15 off
+			Not activated
+		menu display TV Tuner over threshold high
+			Not activated
+		menu display TV Tuner standstill
+			Not activated
+		menu display TV Tuner after disclaimer
+			Not activated
+		menu auxiliary climatization
+			Not activated
+		menu auxiliary climatization clamp 15 off
+			Not activated
+		menu auxiliary climatization over threshold high
+			Not activated
+		menu auxiliary climatization standstill
+			Not activated
+		menu auxiliary climatization after disclaimer
+			Not activated
+		menu display Pedestrian Assist
+			Not activated
+		menu display Pedestrian Assist clamp 15 off
+			Not activated
+		menu display Pedestrian Assist over threshold high
+			Not activated
+		menu display Pedestrian Assist standstill
+			Not activated
+		menu display Pedestrian Assist after disclaimer
+			Not activated
+		menu display Seat Pneumatic
+			Not activated
+		menu display Seat Pneumatic clamp 15 off
+			Not activated
+		menu display Seat Pneumatic over threshold high
+			Not activated
+		menu display Seat Pneumatic standstill
+			Not activated
+		menu display Seat Pneumatic after disclaimer
+			Not activated
+		menu display Curve Assist
+			Not activated
+		menu display Curve Assist clamp 15 off
+			Not activated
+		menu display Curve Assist over threshold high
+			Not activated
+		menu display Curve Assist standstill
+			Not activated
+		menu display Curve Assist after disclaimer
+			Not activated
+		menu display eCall
+			activated
+		menu display eCall clamp 15 off
+			Not activated
+		menu display eCall over threshold high
+			activated
+		menu display eCall standstill
+			Not activated
+		menu display eCall after disclaimer
+			Not activated
+		menu display ENI
+			activated
+		menu display ENI clamp 15 off
+			Not activated
+		menu display ENI over threshold high
+			activated
+		menu display ENI standstill
+			Not activated
+		menu display ENI after disclaimer
+			Not activated
+		menu display SportHMI
+			Not activated
+		menu display SportHMI clamp 15 off
+			Not activated
+		menu display SportHMI over threshold high
+			Not activated
+		menu display SportHMI standstill
+			Not activated
+		menu display SportHMI after disclaimer
+			Not activated
+		menu display Adblue
+			Not activated
+		menu display Adblue clamp 15 off
+			Not activated
+		menu display Adblue over threshold high
+			Not activated
+		menu display Adblue standstill
+			Not activated
+		menu display Adblue after disclaimer
+			Not activated
+		menu display Spoiler
+			Not activated
+		menu display Spoiler clamp 15 off
+			Not activated
+		menu display Spoiler over threshold high
+			Not activated
+		menu display Spoiler standstill
+			Not activated
+		menu display Spoiler after disclaimer
+			Not activated
+		menu display Efficiency Assist
+			Not activated
+		menu display Efficiency Assist clamp 15 off
+			Not activated
+		menu display Efficiency Assist over threshold high
+			Not activated
+		menu display Efficiency Assist standstill
+			Not activated
+		menu display Efficiency Assist after disclaimer
+			Not activated
+		menu display Display Configuration
+			Not activated
+		menu display Display Configuration clamp 15 off
+			Not activated
+		menu display Display Configuration over threshold high
+			Not activated
+		menu display Display Configuration standstill
+			Not activated
+		menu display Display Configuration after disclaimer
+			Not activated
+		menu soundcontrol
+			Not activated
+		menu soundcontrol clamp 15 off
+			Not activated
+		menu soundcontrol over threshold high
+			Not activated
+		menu soundcontrol standstill
+			Not activated
+		menu soundcontrol after disclaimer
+			Not activated
+		menu auxiliary ventilation
+			Not activated
+		menu auxiliary ventilation clamp 15 off
+			Not activated
+		menu auxiliary ventilation over threshold high
+			Not activated
+		menu auxiliary ventilation standstill
+			Not activated
+		menu auxiliary ventilation after disclaimer
+			Not activated
+		menu crossroad assistent
+			Not activated
+		menu crossroad assistent clamp 15 off
+			Not activated
+		menu crossroad assistent over threshold high
+			Not activated
+		menu crossroad assistent standstill
+			Not activated
+		menu crossroad assistent after disclaimer
+			Not activated
+	
+	Car_Function_List_CAN_Gen2	
+		MFL
+			available
+		MFL msg bus
+			Databus Infotainment
+		reserved
+			Not available
+		reserved 1
+			Comfort data bus
+		Oil level
+			Not available
+		Oil level msg bus
+			Databus drivetrain
+		PDC audio lowering
+			Not available
+		PDC audio lowering msg bus
+			Suspension data bus
+		VIN
+			available
+		VIN msg bus
+			Comfort data bus
+		Driving school
+			Not available
+		Driving school msg bus
+			Databus Infotainment
+		Adaptive key msg bus
+			Comfort data bus
+		Adaptive key
+			Not available
+		reserved 2
+			Comfort data bus
+		reserved 3
+			Not available
+	
+	Bluetooth: Preferred connection profile for phone book data	
+		---
+			PBAP
+	
+	Radio_Level_Quality_Offsets	
+		Set AM Quality Level Offset
+			0
+		Set FM Quality Level Offset
+			0
+	
+	Dimming_Illumination_for_Display_Unit	
+		X1
+			0
+		Y1
+			1 %
+		X2
+			10
+		Y2
+			1 %
+		X3
+			100
+		Y3
+			8 %
+		X4
+			150
+		Y4
+			20 %
+		X5
+			220
+		Y5
+			60 %
+		X6
+			253
+		Y6
+			100 %
+	
+	Interface for external media, activation	
+		Connection 1
+			activated
+		Connection 2
+			Not activated
+		Connection 3
+			Not activated
+		Connection 4
+			Not activated
+	
+	Menu entries for mobile online services	
+		---
+			Not activated
+	
+	Audio Management Input Gain Generation 2	
+		TV tuner
+			-128
+		Radio (FM)
+			-128
+		Radio (AM)
+			-128
+		Digital radio (DAB)
+			-128
+		Satellite radio
+			5
+		Tuner TI
+			-128
+		Media AUXIN
+			-128
+		Media AUX Adapter
+			-128
+		Media CDA
+			-128
+		Media DVD
+			-128
+		Media MFP
+			-128
+		Media BTDevice
+			-128
+		TA Tuner FM
+			-128
+		Media Bluray
+			-128
+		Media HDMI
+			-128
+		Tuner Online
+			-128
+		Media Airplay
+			-128
+		Media UPNP
+			-128
+		Media Cloud
+			-128
+		Tuner Personal
+			-128
+		Tone Beep
+			-128
+		Tone Warning
+			-128
+		Tone Touchscreen
+			6
+		Tone Messaging
+			-128
+		Exbox DMB
+			-128
+		Mirrorlink
+			-128
+		TTS Nav
+			-128
+		TTS SDS
+			-128
+		Phone Voice
+			-128
+		Phone Ringer MFP
+			-128
+		Phone Ringer OB
+			-3
+		HFP
+			-128
+		TV AV IN
+			-128
+	
+	Country identification, country of sale HMI	
+		---
+			US
+	
+	Locked menu contents	
+		FB TUNER 0
+			non blocked
+		FB TUNER 1
+			non blocked
+		FB TUNER 2
+			non blocked
+		FB TUNER 3
+			blocked
+		FB TUNER 4
+			blocked
+		FB TUNER 5
+			blocked
+		FB TUNER 6
+			blocked
+		FB TUNER 7
+			blocked
+		FB TUNER 8
+			non blocked
+		FB TUNER 9
+			non blocked
+		FB TUNER 10
+			non blocked
+		FB TUNER 11
+			non blocked
+		FB TUNER 12
+			non blocked
+		FB TUNER 13
+			non blocked
+		FB TUNER 14
+			non blocked
+		FB TUNER 15
+			non blocked
+		FB MEDIA 0
+			non blocked
+		FB MEDIA 1
+			blocked
+		FB MEDIA 2
+			non blocked
+		FB MEDIA 3
+			blocked
+		FB MEDIA 4
+			blocked
+		FB MEDIA 5
+			blocked
+		FB MEDIA 6
+			non blocked
+		FB MEDIA 7
+			non blocked
+		FB MEDIA 8
+			blocked
+		FB MEDIA 9
+			blocked
+		FB MEDIA 10
+			blocked
+		FB MEDIA 11
+			blocked
+		FB MEDIA 12
+			blocked
+		FB MEDIA 13
+			blocked
+		FB MEDIA 14
+			non blocked
+		FB MEDIA 15
+			blocked
+		FB MEDIA 16
+			non blocked
+		FB MEDIA 17
+			non blocked
+		FB MEDIA 18
+			non blocked
+		FB MEDIA 19
+			non blocked
+		FB MEDIA 20
+			non blocked
+		FB MEDIA 21
+			non blocked
+		FB MEDIA 22
+			non blocked
+		FB MEDIA 23
+			non blocked
+		FB PHONE 0
+			blocked
+		FB PHONE 1
+			non blocked
+		FB PHONE 2
+			non blocked
+		FB PHONE 3
+			non blocked
+		FB PHONE 4
+			blocked
+		FB PHONE 5
+			blocked
+		FB PHONE 6
+			blocked
+		FB PHONE 7
+			blocked
+		FB PHONE 8
+			non blocked
+		FB PHONE 9
+			non blocked
+		FB PHONE 10
+			non blocked
+		FB PHONE 11
+			non blocked
+		FB PHONE 12
+			non blocked
+		FB PHONE 13
+			non blocked
+		FB PHONE 14
+			non blocked
+		FB PHONE 15
+			non blocked
+		FB NAV 0
+			blocked
+		FB NAV 1
+			non blocked
+		FB NAV 2
+			non blocked
+		FB NAV 3
+			non blocked
+		FB NAV 4
+			blocked
+		FB NAV 5
+			non blocked
+		FB NAV 6
+			blocked
+		FB NAV 7
+			non blocked
+		FB NAV 8
+			non blocked
+		FB NAV 9
+			blocked
+		FB NAV 10
+			non blocked
+		FB NAV 11
+			non blocked
+		FB NAV 12
+			non blocked
+		FB NAV 13
+			non blocked
+		FB NAV 14
+			non blocked
+		FB NAV 15
+			non blocked
+		FB NAV 16
+			non blocked
+		FB NAV 17
+			non blocked
+		FB NAV 18
+			non blocked
+		FB NAV 19
+			non blocked
+		FB NAV 20
+			non blocked
+		FB NAV 21
+			blocked
+		FB NAV 22
+			non blocked
+		FB NAV 23
+			non blocked
+		FB NAV 24
+			non blocked
+		FB NAV 25
+			non blocked
+		FB NAV 26
+			non blocked
+		FB NAV 27
+			non blocked
+		FB NAV 28
+			non blocked
+		FB NAV 29
+			non blocked
+		FB NAV 30
+			non blocked
+		FB NAV 31
+			non blocked
+		FB NAV 32
+			non blocked
+		FB NAV 33
+			non blocked
+		FB NAV 34
+			non blocked
+		FB NAV 35
+			non blocked
+		FB NAV 36
+			non blocked
+		FB NAV 37
+			non blocked
+		FB NAV 38
+			non blocked
+		FB NAV 39
+			non blocked
+		FB CAR 0
+			blocked
+		FB CAR 1
+			non blocked
+		FB CAR 2
+			blocked
+		FB CAR 3
+			blocked
+		FB CAR 4
+			non blocked
+		FB CAR 5
+			non blocked
+		FB CAR 6
+			non blocked
+		FB CAR 7
+			blocked
+		FB CAR 8
+			non blocked
+		FB CAR 9
+			non blocked
+		FB CAR 10
+			non blocked
+		FB CAR 11
+			blocked
+		FB CAR 12
+			blocked
+		FB CAR 13
+			non blocked
+		FB CAR 14
+			non blocked
+		FB CAR 15
+			non blocked
+		FB CAR 16
+			non blocked
+		FB CAR 17
+			non blocked
+		FB CAR 18
+			non blocked
+		FB CAR 19
+			non blocked
+		FB CAR 20
+			non blocked
+		FB CAR 21
+			non blocked
+		FB CAR 22
+			non blocked
+		FB CAR 23
+			non blocked
+		FB MISC 0
+			blocked
+		FB MISC 1
+			non blocked
+		FB MISC 2
+			blocked
+		FB MISC 3
+			non blocked
+		FB MISC 4
+			non blocked
+		FB MISC 5
+			blocked
+		FB MISC 6
+			non blocked
+		FB MISC 7
+			non blocked
+		FB MISC 8
+			non blocked
+		FB MISC 9
+			blocked
+		FB MISC 10
+			blocked
+		FB MISC 11
+			blocked
+		FB MISC 12
+			blocked
+		FB MISC 13
+			blocked
+		FB MISC 14
+			blocked
+		FB MISC 15
+			non blocked
+		FB MISC 16
+			non blocked
+		FB MISC 17
+			non blocked
+		FB MISC 18
+			blocked
+		FB MISC 19
+			blocked
+		FB MISC 20
+			blocked
+		FB MISC 21
+			non blocked
+		FB MISC 22
+			non blocked
+		FB MISC 23
+			non blocked
+		FB MISC 24
+			non blocked
+		FB MISC 25
+			non blocked
+		FB MISC 26
+			non blocked
+		FB MISC 27
+			non blocked
+		FB MISC 28
+			non blocked
+		FB MISC 29
+			non blocked
+		FB MISC 30
+			non blocked
+		FB MISC 31
+			non blocked
+		FB MISC 32
+			non blocked
+		FB MISC 33
+			non blocked
+		FB MISC 34
+			non blocked
+		FB MISC 35
+			non blocked
+		FB MISC 36
+			non blocked
+		FB MISC 37
+			non blocked
+		FB MISC 38
+			non blocked
+		FB MISC 39
+			non blocked
+		FB MISC 40
+			non blocked
+		FB MISC 41
+			non blocked
+		FB MISC 42
+			non blocked
+		FB MISC 43
+			non blocked
+		FB MISC 44
+			blocked
+		FB MISC 45
+			blocked
+		FB MISC 46
+			blocked
+		FB MISC 47
+			blocked
+	
+	Satellite radio tuner, pre-activated subscription	
+		SDARS Preparation
+			5
+	
+	Dashboard_Display_Configuration	
+		navigation map transmission mode
+			off
+		navigation map compression mode
+			RLE
+		navigation map resolution
+			resolution 1
+		crossroad detail map transmission mode
+			off
+		crossroad detail map compression mode
+			RLE
+		coverart
+			Off
+		stationart
+			Off
+		call picture
+			Off
+		crossroad detail map resolution
+			resolution 1
+		fastlist most
+			Off
+		ability switch nav maps
+			Off
+		dynamic icon
+			0
+	
+	Key_code_monitoring	
+		monitoring keycode 0x00 0x07
+			0
+		monitoring keycode 0x08 0x0F
+			0
+		monitoring keycode 0x10 0x17
+			0
+		monitoring keycode 0x18 0x1F
+			0
+		monitoring keycode 0x20 0x27
+			0
+		monitoring keycode 0x28 0x2F
+			0
+		monitoring keycode 0x30 0x37
+			0
+		monitoring keycode 0x38 0x3F
+			0
+		monitoring keycode 0x40 0x47
+			0
+		monitoring keycode 0x48 0x4F
+			0
+		monitoring keycode 0x50 0x57
+			0
+		monitoring keycode 0x58 0x5F
+			0
+		monitoring keycode 0x60 0x67
+			0
+		monitoring keycode 0x68 0x6F
+			0
+		monitoring keycode 0x70 0x77
+			0
+		monitoring keycode 0x78 0x7F
+			0
+		monitoring keycode 0x80 0x87
+			0
+		monitoring keycode 0x88 0x8F
+			0
+		monitoring keycode 0x90 0x97
+			0
+		monitoring keycode 0x98 0x9F
+			0
+		monitoring keycode 0xA0 0xA7
+			0
+		monitoring keycode 0xA8 0xAF
+			0
+		monitoring keycode 0xB0 0xB7
+			0
+		monitoring keycode 0xB8 0xBF
+			0
+		monitoring keycode 0xC0 0xC7
+			0
+		monitoring keycode 0xC8 0xCF
+			0
+		monitoring keycode 0xD0 0xD7
+			0
+		monitoring keycode 0xD8 0xDF
+			0
+		monitoring keycode 0xE0 0xE7
+			0
+		monitoring keycode 0xE8 0xEF
+			0
+		monitoring keycode 0xF0 0xF7
+			0
+		monitoring keycode 0xF8 0xFF
+			0
+	
+	Roller test bench mode, functional	
+		---
+			Not activated
+	
+	
+Advanced identification
+	
+Mileage: 100343 mi
+Date: 2024-01-28 08:10:44
+
+---------------------------------------------------------------
+Basic settings
+	Control unit: 5F Multimedia
+	Name: Infotainment recorder
+	Status:
+		active
+		Basic setting ended
+	Mileage: 100343 mi
+	Date: 2024-01-28 08:05:59
+---------------------------------------------------------------
+Basic settings
+	Control unit: 5F Multimedia
+	Name: Infotainment recorder
+	Status:
+		active
+		Basic setting ended
+	Mileage: 100343 mi
+	Date: 2024-01-28 08:05:46
+---------------------------------------------------------------
+5F Multimedia
+		System description: MU-S-S-US
+		Software number: 3Q0035844A
+		Software version: 0751
+		Hardware number: 3Q0035844A
+		Hardware version: 710
+		
+		Faults:
+			No trouble codes found
+
+---------------------------------------------------------------
+Diagnostic session
+	Control unit: 5F Multimedia
+	Value: End of assembly line mode (EOL)
+	Mileage: 100141 mi
+	Date: 2024-01-25 17:59:26
+---------------------------------------------------------------
+Adaptation
+	Control unit: 5F Multimedia
+		Name: WLAN_modul_activation
+		Values:
+			state:
+				Old value: on
+				New value: off
+	Mileage: 100141 mi
+	Date: 2024-01-25 17:34:07
+---------------------------------------------------------------
+Adaptation
+	Control unit: 5F Multimedia
+		Name: Bluetooth_Sniff_Mode
+		Values:
+			state:
+				Old value: on
+				New value: off
+	Mileage: 100141 mi
+	Date: 2024-01-25 17:33:57
+---------------------------------------------------------------
+Adaptation
+	Control unit: 5F Multimedia
+		Name: Bluetooth_Sniff_Mode
+		Values:
+			state:
+				Old value: off
+				New value: on
+	Mileage: 100141 mi
+	Date: 2024-01-25 17:33:25
+---------------------------------------------------------------
+Diagnostic session
+	Control unit: 5F Multimedia
+	Value: Development mode
+	Mileage: 100141 mi
+	Date: 2024-01-25 17:32:24
+---------------------------------------------------------------
+
+5F Multimedia
+System description: MU-S-S-US
+Software number: 3Q0035844A
+Software version: 0751
+Hardware number: 3Q0035844A
+Hardware version: 710
+Backup name: 
+Long coding
+	02730000FF00000051220001001808009F0203D40120010002
+Advanced identification
+	
+Mileage: 100058 mi
+Date: 2024-01-25 08:23:20
