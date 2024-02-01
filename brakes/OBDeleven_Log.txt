@@ -1,0 +1,675 @@
+OBDeleven vehicle history log
+Date: 2024-01-31 19:55:26
+
+	VIN: 3VW5T7AUXHM022312
+	Car: DAVOD 
+	Year: 2017
+	Body type: D5 Hatchback
+	Engine: CXCA  kW ( hp) l
+	Mileage: 100482 mi
+
+---------------------------------------------------------------
+
+03 Brakes
+System description: ESC
+Software number: 5Q0614517AF
+Software version: 0398
+Hardware number: 5Q0614517AF
+Hardware version: H62
+Backup name: 
+Long coding
+	01FA6BA13422096E407A020181C52980D62C90024081943400430050C00903
+Adaptations
+	Tire pressure monitoring display	
+		Warning thresholds, tire pressure monitoring system
+			2
+	
+	Roller test bench mode	
+		---
+			Manual activation, possible
+	
+	Running manufacturer number	
+		Status
+			activated
+	
+	Engine drag torque control	
+		---
+			activated
+	
+	Activating and deactivating all development messages	
+		---
+			0
+	
+	OFFROAD	
+		Offroad portion electronic differential lock
+			0
+	
+	Brake system vacuum pump	
+		Offset
+			5
+	
+	Hydraulic brake booster	
+		Offset
+			8
+	
+	Brake prefill	
+		Brake prefill
+			activated
+	
+	Braking torque boost for distance regulation	
+		Braking torque boost for distance regulation
+			3
+	
+	Brake booster	
+		Brake booster
+			4
+	
+	Hydraulic brake assistant	
+		Hydraulic brake assistant
+			normal
+	
+	Electronic Stability Program	
+		Speed-dependent activation
+			activated
+	
+	Brake disk drying	
+		Brake disk drying
+			medium
+	
+	Hill-start assistant	
+		Hill-start assistant
+			normal
+	
+	Straight ahead brake stabilization	
+		Straight ahead brake stabilization
+			Not activated
+	
+	Starting vibration reduction	
+		Starting vibration reduction
+			Strong
+		Torque limitation
+			Deactivated
+	
+	Developer_Function_1	
+		Developer Function 1
+			0
+	
+	Roller test bench mode, functional	
+		---
+			Not activated
+	
+	Overboost in brake system	
+		Overboost in brake system
+			activated
+	
+	Tire pressure monitoring display, tire selection	
+		Tire pressure monitoring display, tire selection
+			1
+	
+	ABS in lower speed range	
+		ABS in lower speed range
+			activated
+	
+	Thresholds for brake performance	
+		Thresholds for brake performance
+			activated
+	
+	Brake pre-filling	
+		---
+			not completed successfully
+	
+	XCP calibration protocol	
+		XCP calibration protocol
+			Not activated
+	
+	Vehicle and trailer stabilization	
+		Trailer information evaluation
+			Not activated
+	
+	Expanded electronic differential lock	
+		Electronic Differential Lock
+			Standard
+	
+	Production mode	
+		---
+			not active
+	
+	Deactivate production mode	
+		---
+			Deactivating
+	
+	Developer_Function_121	
+		Tyre pressure control monitoring tour mode
+			Not activated
+	
+	Rough road optimization	
+		---
+			Not activated
+	
+	
+Mileage: 100482 mi
+Date: 2024-01-31 19:53:40
+
+---------------------------------------------------------------
+Diagnostic session
+	Control unit: 03 Brakes
+	Value: OBD-diagnostic mode
+	Mileage: 100482 mi
+	Date: 2024-01-31 19:51:31
+---------------------------------------------------------------
+03 Brakes
+		System description: ESC
+		Software number: 5Q0614517AF
+		Software version: 0398
+		Hardware number: 5Q0614517AF
+		Hardware version: H62
+		
+		Faults:
+			No trouble codes found
+
+---------------------------------------------------------------
+Diagnostic session
+	Control unit: 03 Brakes
+	Value: OBD-diagnostic mode
+	Mileage: 100194 mi
+	Date: 2024-01-26 14:43:50
+---------------------------------------------------------------
+03 Brakes
+		System description: ESC
+		Software number: 5Q0614517AF
+		Software version: 0398
+		Hardware number: 5Q0614517AF
+		Hardware version: H62
+		
+		Faults:
+			No trouble codes found
+
+---------------------------------------------------------------
+03 Brakes
+		System description: ESC
+		Software number: 5Q0614517AF
+		Software version: 0398
+		Hardware number: 5Q0614517AF
+		Hardware version: H62
+		
+		Faults:
+				B116831 - Steering angle sensor
+			No signal
+				Intermittent
+					Priority - 2 
+				Malfunction frequency counter - 3 
+				Unlearning counter - 164 
+				km-Mileage - 161172 km
+				Extended Freeze Frames - 0002001A12000000AB0000000000000000000000000000 
+				date - 2024-01-25 18:18:09 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 3 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Extended Freeze Frames - 8002001802000000AD0000000001000000000000000000 
+				date - 2024-01-25 07:34:30 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 3 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Extended Freeze Frames - 8002001802000000AD0000000001000000000000000000 
+				date - 2024-01-25 07:34:30 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 3 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Extended Freeze Frames - 8002001802000000AD0000000001000000000000000000 
+				date - 2024-01-25 07:34:30 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 3 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Extended Freeze Frames - 8002001802000000AD0000000001000000000000000000 
+				date - 2024-01-25 07:34:30 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 3 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Extended Freeze Frames - 8002001802000000AD0000000001000000000000000000 
+				date - 2024-01-25 07:34:30 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 3 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Extended Freeze Frames - 8002001802000000AD0000000001000000000000000000 
+				date - 2024-01-25 07:34:30 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 3 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Extended Freeze Frames - 8002001802000000AD0000000001000000000000000000 
+				date - 2024-01-25 07:34:30 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 3 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Extended Freeze Frames - 8002001802000000AD0000000001000000000000000000 
+				date - 2024-01-25 07:34:30 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 3 
+				Malfunction frequency counter - 3 
+				Unlearning counter - 164 
+				km-Mileage - 161172 km
+				Extended Freeze Frames - 0000001A12000000AB000000FE00000000000000000000 
+				date - 2024-01-25 18:18:09 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 3 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Extended Freeze Frames - 8002001802000000AD0000000001000000000000000000 
+				date - 2024-01-25 07:34:30 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 2 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Extended Freeze Frames - 8002001802000000AD0000000001000000000000000000 
+				date - 2024-01-25 07:34:30 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 2 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Extended Freeze Frames - 8002001802000000AD0000000001000000000000000000 
+				date - 2024-01-25 07:34:30 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 2 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Extended Freeze Frames - 8002001802000000AD0000000001000000000000000000 
+				date - 2024-01-25 07:34:30 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 2 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Extended Freeze Frames - 8002001802000000AD0000000001000000000000000000 
+				date - 2024-01-25 07:34:30 
+				
+				U112300 - Databus error value received
+				Intermittent
+					Priority - 2 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Extended Freeze Frames - 8002001802000000AD0000000001000000000000000000 
+				date - 2024-01-25 07:34:30 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 1 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Extended Freeze Frames - 8002001802000000AD0000000001000000000000000000 
+				date - 2024-01-25 07:34:30 
+				
+				U112200 - Databus implausible message
+				Intermittent
+					Priority - 3 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 162 
+				km-Mileage - 161173 km
+				Extended Freeze Frames - 000A801A32000000D100000000FD000000000000000000 
+				date - 2024-01-25 18:46:54 
+				
+				P164700 - Checking coding/versions of
+			control modules in drivetrain
+				Intermittent
+					Priority - 3 
+				Malfunction frequency counter - 75 
+				Unlearning counter - 161 
+				Extended Freeze Frames - 0000001812000000D1001E000100000000000000000000 
+				date - 2024-01-12 02:37:33 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 3 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Extended Freeze Frames - 8002001802000000AD0000000001000000000000000000 
+				date - 2024-01-25 07:34:30 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 3 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Extended Freeze Frames - 8002001802000000AD0000000001000000000000000000 
+				date - 2024-01-25 07:34:30 
+				
+				U112100 - Databus missing message
+				Intermittent
+					Priority - 3 
+				Malfunction frequency counter - 1 
+				Unlearning counter - 161 
+				km-Mileage - 161027 km
+				Extended Freeze Frames - 8002001802000000AD0000000001000000000000000000 
+				date - 2024-01-25 07:34:30 
+				
+				C114602 - Tire pressure monitoring display
+			Signal error
+				Intermittent
+					Priority - 2 
+				Malfunction frequency counter - 2 
+				Unlearning counter - 162 
+				km-Mileage - 161172 km
+				Extended Freeze Frames - 0002001A12000000AB0000000000000000000000000000 
+				date - 2024-01-25 18:18:19 
+				
+				C114602 - Tire pressure monitoring display
+			Signal error
+				Intermittent
+					Priority - 2 
+				Malfunction frequency counter - 2 
+				Unlearning counter - 162 
+				km-Mileage - 161172 km
+				Extended Freeze Frames - 0002001A12000000AB0000000000000000000000000000 
+				date - 2024-01-25 18:18:19 
+				
+
+---------------------------------------------------------------
+Basic settings
+	Control unit: 03 Brakes
+	Name: Resetting of all adaptation values
+	Status:
+		Basic setting ended
+	Mileage: 100194 mi
+	Date: 2024-01-26 14:38:14
+---------------------------------------------------------------
+Diagnostic session
+	Control unit: 03 Brakes
+	Value: OBD-diagnostic mode
+	Mileage: 100148 mi
+	Date: 2024-01-25 19:11:59
+---------------------------------------------------------------
+03 Brakes
+		System description: ESC
+		Software number: 5Q0614517AF
+		Software version: 0398
+		Hardware number: 5Q0614517AF
+		Hardware version: H62
+		
+		Faults:
+			No trouble codes found
+
+---------------------------------------------------------------
+
+03 Brakes
+System description: ESC
+Software number: 5Q0614517AF
+Software version: 0398
+Hardware number: 5Q0614517AF
+Hardware version: H62
+Backup name: 
+Long coding
+	01FA6BA13422096E407A020181C52980D62C90024081943400430050C00903
+Adaptations
+	Tire pressure monitoring display	
+		Warning thresholds, tire pressure monitoring system
+			2
+	
+	Roller test bench mode	
+		---
+			Manual activation, possible
+	
+	Running manufacturer number	
+		Status
+			activated
+	
+	Engine drag torque control	
+		---
+			activated
+	
+	Activating and deactivating all development messages	
+		---
+			0
+	
+	OFFROAD	
+		Offroad portion electronic differential lock
+			0
+	
+	Brake system vacuum pump	
+		Offset
+			5
+	
+	Hydraulic brake booster	
+		Offset
+			8
+	
+	Brake prefill	
+		Brake prefill
+			activated
+	
+	Braking torque boost for distance regulation	
+		Braking torque boost for distance regulation
+			3
+	
+	Brake booster	
+		Brake booster
+			4
+	
+	Hydraulic brake assistant	
+		Hydraulic brake assistant
+			normal
+	
+	Electronic Stability Program	
+		Speed-dependent activation
+			activated
+	
+	Brake disk drying	
+		Brake disk drying
+			medium
+	
+	Hill-start assistant	
+		Hill-start assistant
+			normal
+	
+	Straight ahead brake stabilization	
+		Straight ahead brake stabilization
+			Not activated
+	
+	Starting vibration reduction	
+		Starting vibration reduction
+			Strong
+		Torque limitation
+			Deactivated
+	
+	Developer_Function_1	
+		Developer Function 1
+			0
+	
+	Roller test bench mode, functional	
+		---
+			Not activated
+	
+	Overboost in brake system	
+		Overboost in brake system
+			activated
+	
+	Tire pressure monitoring display, tire selection	
+		Tire pressure monitoring display, tire selection
+			1
+	
+	ABS in lower speed range	
+		ABS in lower speed range
+			activated
+	
+	Thresholds for brake performance	
+		Thresholds for brake performance
+			activated
+	
+	Brake pre-filling	
+		---
+			not completed successfully
+	
+	XCP calibration protocol	
+		XCP calibration protocol
+			Not activated
+	
+	Monitoring infotainment control unit	
+		---
+			Not activated
+	
+	Developer_Function_101	
+		Anti-slip regulation (ASR)
+			activated
+	
+	Developer_Function_102	
+		ASR and ESP function deactivation
+			activated
+	
+	Vehicle and trailer stabilization	
+		Trailer information evaluation
+			Not activated
+	
+	Expanded electronic differential lock	
+		Electronic Differential Lock
+			Standard
+	
+	Production mode	
+		---
+			not active
+	
+	Deactivate production mode	
+		---
+			Deactivating
+	
+	Developer_Function_121	
+		Tyre pressure control monitoring tour mode
+			Not activated
+	
+	Rough road optimization	
+		---
+			Not activated
+	
+	
+Advanced identification
+	
+Mileage: 100141 mi
+Date: 2024-01-25 19:00:17
+
+---------------------------------------------------------------
+Adaptation
+	Control unit: 03 Brakes
+		Name: Electronic_stability_program
+		Values:
+			ESP_activation_depending_on_speed:
+				Old value: not_activated
+				New value: activated
+	Mileage: 100141 mi
+	Date: 2024-01-25 18:56:26
+---------------------------------------------------------------
+Adaptation
+	Control unit: 03 Brakes
+		Name: Rough_road_control
+		Values:
+			Rough_road_control:
+				Old value: activated
+				New value: not_activated
+	Mileage: 100058 mi
+	Date: 2024-01-25 08:09:42
+---------------------------------------------------------------
+Diagnostic session
+	Control unit: 03 Brakes
+	Value: OBD-diagnostic mode
+	Mileage: 100051 mi
+	Date: 2024-01-25 07:39:15
+---------------------------------------------------------------
+03 Brakes
+		System description: ESC
+		Software number: 5Q0614517AF
+		Software version: 0398
+		Hardware number: 5Q0614517AF
+		Hardware version: H62
+		
+		Faults:
+				P164700 - Checking coding/versions of
+			control modules in drivetrain
+				static
+					Priority - 3 
+				Malfunction frequency counter - 5 
+				Unlearning counter - 86 
+				Extended Freeze Frames - 0000001812000000D1001E000100000000000000000000 
+				date - 2024-01-12 02:37:33 
+				
+
+---------------------------------------------------------------
+03 Brakes
+		System description: ESC
+		Software number: 5Q0614517AF
+		Software version: 0398
+		Hardware number: 5Q0614517AF
+		Hardware version: H62
+		
+		Faults:
+				P164700 - Checking coding/versions of
+			control modules in drivetrain
+				static
+				
+				
+
+---------------------------------------------------------------
+03 Brakes
+		System description: ESC
+		Software number: 5Q0614517AF
+		Software version: 0398
+		Hardware number: 5Q0614517AF
+		Hardware version: H62
+		
+		Faults:
+				P164700 - Checking coding/versions of
+			control modules in drivetrain
+				static
+					Priority - 3 
+				Malfunction frequency counter - 6 
+				Unlearning counter - 85 
+				km-Mileage - 160215 km
+				Extended Freeze Frames - 0000001A12000000AA00000000FD000000000000000000 
+				date - 2024-01-11 18:40:14 
+				

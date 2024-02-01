@@ -1,0 +1,182 @@
+OBDeleven vehicle history log
+Date: 2024-01-31 20:07:35
+
+	VIN: 3VW5T7AUXHM022312
+	Car: DAVOD 
+	Year: 2017
+	Body type: D5 Hatchback
+	Engine: CXCA  kW ( hp) l
+	Mileage: 100482 mi
+
+---------------------------------------------------------------
+
+
+	Backup
+		01 Engine
+		System description: 2.0l R4 TFSI
+		Software number: 5G0906259L
+		Software version: 0002
+		Hardware number: 06K907425B
+		Hardware version: H13
+		Backup name: Engine
+		Long coding
+			091900122424002F0000
+		Mileage: 100482 mi
+		Date: 2024-01-31 20:07:05
+		
+	Backup
+		03 Brakes
+		System description: ESC
+		Software number: 5Q0614517AF
+		Software version: 0398
+		Hardware number: 5Q0614517AF
+		Hardware version: H62
+		Backup name: Brakes
+		Long coding
+			01FA6BA13422096E407A020181C52980D62C90024081943400430050C00903
+		Mileage: 100482 mi
+		Date: 2024-01-31 20:07:05
+		
+	Backup
+		08 Air Conditioning
+		System description: AC Manuell
+		Software number: 5GM907426C
+		Software version: 1601
+		Hardware number: 5GM907426C
+		Hardware version: H03
+		Backup name: Air Conditioning
+		Long coding
+			00020004200100000000000000000002
+		Mileage: 100482 mi
+		Date: 2024-01-31 20:07:06
+		
+	Backup
+		09 Central Electrics
+		System description: BCM PQ37BOSCH
+		Software number: 5Q0937087AA
+		Software version: 0162
+		Hardware number: 5Q0937087AA
+		Hardware version: 028
+		Backup name: Central Electrics
+		Long coding
+			000008464041804969E44000001407201000000000000000000000000000
+		Mileage: 100482 mi
+		Date: 2024-01-31 20:07:06
+		
+	Backup
+		15 Airbag
+		System description: AirbagVW20
+		Software number: 5Q0959655J
+		Software version: 0830
+		Hardware number: 5Q0959655J
+		Hardware version: 010
+		Backup name: Airbag
+		Long coding
+			8CCCFC00000000005000001AC24800000065
+		Mileage: 100482 mi
+		Date: 2024-01-31 20:07:06
+		
+	Backup
+		16 Steering Column
+		System description: Lenks.Modul
+		Software number: 5Q0953521K
+		Software version: 0235
+		Hardware number: 5Q0953569A
+		Hardware version: 075
+		Backup name: Steering Column
+		Long coding
+			0400
+		Mileage: 100482 mi
+		Date: 2024-01-31 20:07:07
+		
+	Backup
+		17 Dashboard
+		System description: KOMBI
+		Software number: 5G1920856B
+		Software version: 8311
+		Hardware number: 5G1920856B
+		Hardware version: 344
+		Backup name: Dashboard
+		Long coding
+			03ED098221804F05020F7F000800000000000000
+		Mileage: 100482 mi
+		Date: 2024-01-31 20:07:07
+		
+	Backup
+		19 Gateway
+		System description: GW MQB Mid
+		Software number: 5Q0907530AL
+		Software version: 2265
+		Hardware number: 5Q0907530L
+		Hardware version: 211
+		Backup name: Gateway
+		Long coding
+			0101000830085900FB000028080F00000001050000000000000000000000
+		Mileage: 100482 mi
+		Date: 2024-01-31 20:07:07
+		
+	Backup
+		42 Driver Door
+		System description: TSG FS
+		Software number: 5Q0959593E
+		Software version: 0041
+		Hardware number: 5Q0959593B
+		Hardware version: 020
+		Backup name: Driver Door
+		Long coding
+			003003280000020000000000
+		Mileage: 100482 mi
+		Date: 2024-01-31 20:07:08
+		
+	Backup
+		44 Steering Assistance
+		System description: EPS_MQB_ZFLS
+		Software number: 3Q0909144K
+		Software version: 5072
+		Hardware number: 3Q0909144H
+		Hardware version: 506
+		Backup name: Steering Assistance
+		Long coding
+			8102
+		Mileage: 100482 mi
+		Date: 2024-01-31 20:07:08
+		
+	Backup
+		52 Passenger Door
+		System description: TSG BFS
+		Software number: 5Q0959592E
+		Software version: 0041
+		Hardware number: 5Q0959592B
+		Hardware version: 020
+		Backup name: Passenger Door
+		Long coding
+			003C03200000020000000100
+		Mileage: 100482 mi
+		Date: 2024-01-31 20:07:08
+		
+	Backup
+		5F Multimedia
+		System description: MU-S-S-US
+		Software number: 3Q0035844A
+		Software version: 0751
+		Hardware number: 3Q0035844A
+		Hardware version: 710
+		Backup name: Multimedia
+		Long coding
+			02730000FF00000051220001001808009F0203D40120010002
+		Mileage: 100482 mi
+		Date: 2024-01-31 20:07:09
+		
+	Backup
+		75 Telematics
+		System description: OCULowMQBUS
+		Software number: 5QE035285A
+		Software version: 0568
+		Hardware number: 5QE035285A
+		Hardware version: 007
+		Backup name: Telematics
+		Long coding
+			02730002C2861A017F1E02000000
+		Mileage: 100482 mi
+		Date: 2024-01-31 20:07:09
+		
