@@ -1,0 +1,605 @@
+17 Dashboard
+System description: KOMBI
+Software number: 5G1920856B
+Software version: 8311
+Hardware number: 5G1920856B
+Hardware version: 344
+Backup name: 02032024-181414
+Long coding
+	03ED090221804F05020F7F000800000000000000
+Adaptations
+	Day	
+		---
+			3 d
+	
+	dimming_characteristic_curve_adjustment_middle_display_main_field	
+		X1
+			0
+		Y1
+			1
+		X2
+			A
+		Y2
+			1
+		X3
+			32
+		Y3
+			7
+		X4
+			64
+		Y4
+			E
+		X5
+			96
+		Y5
+			1E
+		X6
+			FD
+		Y6
+			64
+	
+	time_parameter_display	
+		tDDWUP
+			0.00
+		tDD15 on
+			0.00
+		tDD15 off
+			0.30
+		hmi t Dreiter ms
+			2.0 s
+		hmi t dummyMenuTimeout ms
+			5 s
+		hmi t UhrTimeout ms
+			10 s
+		hmi t MenuTimeout ms
+			255 s
+		hmi t TWSAnz ms
+			3 s
+		hmi t NextWarning ms
+			6 s
+		hmi t NextServiceAnz ms
+			5 s
+		hmi t P2Pause ms
+			900 s
+		hmi t Quit ms
+			10 s
+		hmi t FondGurt
+			35 s
+		hmi t USZ
+			0.40 s
+		hmi t FTuerAUF
+			300 ms
+		hmi t P1Pause ms
+			20 s
+		rollierblockgroesse
+			3
+	
+	Distance	
+		---
+			161881 km
+	
+	Picture_Upload_Download	
+		Picture Upload Download
+			not active
+	
+	FIX: Distance covered since last mileage-dependent inspection	
+		---
+			5900 km
+	
+	Fix: Max. distance until next mileage-related inspection	
+		---
+			60000 km
+	
+	Offset for tank calibration values	
+		Offset sensor 1
+			-12.8 L
+		Offset sensor 2
+			12.7 L
+		Offset sensor 3
+			12.7 L
+		Offset sensor 4
+			12.7 L
+		Complete tank calibration
+			-12.8 L
+	
+	Service notification in days	
+		---
+			30 d
+	
+	SIA: maximum value of time to service	
+		---
+			180 d
+	
+	Source for synchronization of time	
+		---
+			GPS
+	
+	Deactivate seat belt warning	
+		---
+			Yes
+	
+	Hour	
+		---
+			18 h
+	
+	WIV: Resetting ESI	
+		---
+			Warning active
+	
+	Oil temperature display	
+		---
+			On
+	
+	dimming_characteristic_curve_adjustment_indicator_lights	
+		X1
+			0
+		Y1
+			5
+		X2
+			A
+		Y2
+			5
+		X3
+			32
+		Y3
+			C
+		X4
+			64
+		Y4
+			17
+		X5
+			96
+		Y5
+			32
+		X6
+			FD
+		Y6
+			64
+	
+	FIX: Maximum time until next time-dependent inspection	
+		---
+			1095 d
+	
+	Day counter	
+		---
+			2611 d
+	
+	FIX: Reset value for next mileage-dependent inspections	
+		---
+			1095 d
+	
+	MFA3-Reset	
+		MFI button RESET / OK
+			Manual reset, not possible
+		Refuel detection gasoline / diesel
+			MFA3-Reset
+		Refuel detection gas
+			MFA3-Reset
+		Electrical refueling detection
+			MFA3-Reset
+	
+	SIA: maximum value of distance to service	
+		---
+			7500 km
+	
+	Units adjusted	
+		Volume
+			gallons (US)
+		Temperature
+			Degrees Fahrenheit
+		Consumption gasoline / diesel - LPG (liquefied petroleum gas)
+			Miles per gallon (US)
+		Pressure
+			PSI
+		Distance
+			Miles
+		Speed
+			Miles per hour
+		Date
+			mm dd yy
+		Time
+			24h
+		Operating range consumption, CNG (compressed natural gas)
+			kg per 100 km
+		Average consumption, electric drive
+			kWh per 100 km
+		Trailer/support load ground
+			Kilogram (kg)
+	
+	SIE: minimum value km-driving distance/inspection	
+		---
+			15000 km
+	
+	Activating and deactivating all development messages	
+		send messages
+			not active
+	
+	Year	
+		---
+			2024 a
+	
+	Month	
+		---
+			2 mon
+	
+	Speed warning	
+		---
+			not active
+		Unit
+			Miles per hour
+		Speed
+			35
+	
+	FIX: Reset value for next mileage-dependent inspection	
+		---
+			60000 km
+	
+	dimming_characteristic_curve_adjustment_gauge	
+		X1
+			0
+		Y1
+			3
+		X2
+			A
+		Y2
+			3
+		X3
+			32
+		Y3
+			10
+		X4
+			64
+		Y4
+			1E
+		X5
+			DC
+		Y5
+			55
+		X6
+			FD
+		Y6
+			64
+	
+	Display depiction	
+		---
+			Version 2
+	
+	outside_temperature	
+		p time constant pt1
+			40 s
+		p speed threshold
+			20 km/h
+		p kmt at delta
+			25 °C
+		p blocking time after v bigger 0
+			15 s
+		p storage time engine off
+			180 min
+		p mileage after v bigger 0
+			5.0 km
+		p ice warning exit temperature
+			6 °C
+		p ice warning entry temperature
+			4 °C
+		p tendency threshold
+			1.0 °C
+		p time constant slow damping
+			2.0
+		p tendency damping
+			15 s
+	
+	Driving profiled for range remaining	
+		---
+			6.7 l/100 km
+	
+	SIE: time from inspection	
+		---
+			100 d
+	
+	FIX: Time since last time-dependent inspection	
+		---
+			100 d
+	
+	SIE: maximum value km-driving distance/inspection	
+		---
+			30000 km
+	
+	Service_Key_Clear_All_Counter	
+		clear all counter
+			Yes
+	
+	dimming_characteristic_curve_adjustment_clock_dial_day	
+		X1
+			0
+		Y1
+			0
+		X2
+			32
+		Y2
+			0
+		X3
+			66
+		Y3
+			0
+		X4
+			96
+		Y4
+			5
+		X5
+			DC
+		Y5
+			14
+		X6
+			FD
+		Y6
+			64
+	
+	SIE: maximum value of time between inspections	
+		---
+			730 d
+	
+	SIE: thermal load	
+		---
+			16400 km
+	
+	SIE: distance driven from inspection	
+		---
+			5936 km
+	
+	Service-key settings	
+		p write delay time
+			40 s
+		p write delay speed
+			20 km/h
+		p write distance
+			20 km
+		p forcewrite qual time
+			10 s
+		p main switch Keyless
+			On
+		p main switch Basic
+			On
+		p deactivate SK Function
+			On
+	
+	WIV: minimum value of time between inspections	
+		---
+			365 d
+	
+	SIE: soot entry	
+		---
+			0 km
+	
+	Display correction of consumptions and operating range	
+		---
+			100 %
+	
+	Configuration of Development CAN-Messages	
+		Block 1
+			off
+		Block 12
+			off
+		Block 2
+			off
+		Block 3
+			off
+		Block 4
+			off
+		Block 5
+			off
+		Block 6
+			off
+		Block 7
+			off
+		Block 8
+			off
+		Block 9
+			off
+		Block 10
+			off
+		Block 11
+			off
+		Block 13
+			off
+		Block 14
+			off
+		Block 15
+			off
+		Block 16
+			off
+		Block 17
+			off
+		Block 18
+			off
+		Block 19
+			off
+		Block 20
+			off
+		Block 21
+			off
+		Block 22
+			off
+		Block 23
+			off
+		Block 24
+			off
+		Block 25
+			off
+		Block 26
+			off
+		Block 27
+			off
+		Block 28
+			off
+		Block 29
+			off
+		Block 30
+			off
+		Block 31
+			off
+		Block 32
+			off
+		Block 33
+			off
+		Block 34
+			off
+		Block 35
+			off
+		Block 36
+			off
+		Block 37
+			off
+		Block 38
+			off
+		Block 39
+			off
+	
+	Minute	
+		---
+			14 min
+	
+	dimming_characteristic_curve_adjustment_clock_dial_night	
+		X1
+			0
+		Y1
+			2
+		X2
+			A
+		Y2
+			2
+		X3
+			32
+		Y3
+			E
+		X4
+			64
+		Y4
+			1E
+		X5
+			96
+		Y5
+			32
+		X6
+			FD
+		Y6
+			64
+	
+	Language version	
+		---
+			US English
+	
+	SIE: oil quality	
+		---
+			Poor oil quality
+	
+	dimming_characteristic_curve_adjustment_internal_phototransistor	
+		X1
+			0
+		Y1
+			0
+		X2
+			32
+		Y2
+			E
+		X3
+			64
+		Y3
+			41
+		X4
+			C8
+		Y4
+			C8
+		X5
+			1F4
+		Y5
+			FD
+	
+	Digital speedometer	
+		---
+			Display
+	
+	Lap counter	
+		---
+			Display
+	
+	BAP_Debug_Mode_Release	
+		Release
+			not released
+	
+	Vehicle positioning system interface control module	
+		---
+			not installed
+	
+	Ignition active message, actuator	
+		---
+			No display
+	
+	defuel_threshold	
+		defuel threshold
+			9 L
+	
+	init_fuel_algorithm	
+		initialisation
+			No
+	
+	Roller test bench mode, functional	
+		---
+			Not activated
+	
+	Gas_functionality	
+		Gas functionality
+			not active
+	
+	total_range_gas	
+		state
+			not active
+		selection consumption factor
+			consumption factor CAN
+		consumption profile
+			consumption profile calculation
+		consumption factor
+			0.000
+	
+	No-voltage display	
+		---
+			---
+	
+	Cylinder shut-off	
+		---
+			Display
+	
+	Illumination_algorithm	
+		Pointer illumination algorithim
+			terminal 58xd log bus parkinglight
+		Scale switching algorithm
+			parking light
+	
+	Service notification	
+		---
+			30 d
+	
+	Statistic_phev_mileage	
+		---
+			5 km
+	
+	Leaving_warning_delay	
+		Leaving warning delay
+			1.6 s
+	
+	Display of colour adjustment	
+		Red
+			0
+		Green
+			36
+		Blue
+			0
+	
+	Scale_switching_algorithm	
+		---
+			lowbeam foglight
+	
+	
+Advanced identification
+	
+Mileage: 100588 mi
+Date: 2024-02-03 18:14:51
